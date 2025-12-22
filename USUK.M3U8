@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Event 01 " tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 01 - BOX | Olivia Curry vs Kaye Scott 8PM EST
+#EXTINF:-1 tvg-id="" tvg-name="Event 01 " tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 01 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/261
 #EXTINF:-1 tvg-id="" tvg-name="Event 02 - " tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 02 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/335
@@ -29,17 +29,17 @@ http://cdn1host.online:2999/oirmar/2PppXlI5F8/28361
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28362
 #EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 6" tvg-logo="" group-title="UK",UK | TNT Sports 6
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28358
-#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="NBA 01 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 01 - Bulls @ Hawks 3:30PM EST
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="NBA 01 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 01 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/592
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 02 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 02 - Raptors @ Nets 6PM EST
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 02 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 02 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/593
-#EXTINF:-1 tvg-id="nbaleaguepass754.us" tvg-name="NBA 03" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 03 - Heat @ Knicks 6PM EST
+#EXTINF:-1 tvg-id="nbaleaguepass754.us" tvg-name="NBA 03" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 03
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/594
-#EXTINF:-1 tvg-id="nbaleaguepass756.us" tvg-name="NBA 04 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 04 - Spurs @ Wizards 7PM EST
+#EXTINF:-1 tvg-id="nbaleaguepass756.us" tvg-name="NBA 04 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 04 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/595
-#EXTINF:-1 tvg-id="nbaleaguepass758.us" tvg-name="NBA 05 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 05 - Bucks @ Timberwolves 7PM EST
+#EXTINF:-1 tvg-id="nbaleaguepass758.us" tvg-name="NBA 05 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 05 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/602
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 06 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 06 - Rockets @ Kings 10PM EST
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 06 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 06 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/603
 #EXTINF:-1 tvg-id="nbaleaguepass760.us" tvg-name="NBA 07 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 07 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/604
@@ -59,13 +59,13 @@ http://cdn1host.online:2999/oirmar/2PppXlI5F8/760
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/761
 #EXTINF:-1 tvg-id="" tvg-name="NBA 15 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 15 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1647
-#EXTINF:-1 tvg-id="nhlcenterice770.us" tvg-name="NHL 01" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 01 - Blues @ Lightning 7PM EST
+#EXTINF:-1 tvg-id="nhlcenterice770.us" tvg-name="NHL 01" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 01 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/420
-#EXTINF:-1 tvg-id="abceastern.us" tvg-name="NHL 02" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 02 - Canucks @ Flyers 7:30PM EST
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="NHL 02" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 02 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/421
-#EXTINF:-1 tvg-id="nhlcenterice769.us" tvg-name="NHL 03" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 03 - Kraken @ Ducks 10PM EST
+#EXTINF:-1 tvg-id="nhlcenterice769.us" tvg-name="NHL 03" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 03 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/435
-#EXTINF:-1 tvg-id="nhlcenterice775.us" tvg-name="NHL 04" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 04 - Blues Jackets @ Kings 10PM EST
+#EXTINF:-1 tvg-id="nhlcenterice775.us" tvg-name="NHL 04" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 04 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/436
 #EXTINF:-1 tvg-id="nhlcenterice776.us" tvg-name="NHL 05 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 05 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/437
