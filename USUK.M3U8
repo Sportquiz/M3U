@@ -1,935 +1,933 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Event 01 " tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 01 - 
-http://cdn1host.online:2999/oirmar/2PppXlI5F8/261
-#EXTINF:-1 tvg-id="" tvg-name="Event 02 - " tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 02 - 
-http://cdn1host.online:2999/oirmar/2PppXlI5F8/335
-#EXTINF:-1 tvg-id="" tvg-name="Event 03 - " tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 03 - 
-http://cdn1host.online:2999/oirmar/2PppXlI5F8/392
-#EXTINF:-1 tvg-id="" tvg-name="Event 04 - " tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 04 - 
-http://cdn1host.online:2999/oirmar/2PppXlI5F8/394
-#EXTINF:-1 tvg-id="" tvg-name="Event 05 -" tvg-logo="http://lonewolftvpr.com/logos/events.png" group-title="Events",Event 05 -
-http://cdn1host.online:2999/oirmar/2PppXlI5F8/1636
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 1" tvg-logo="" group-title="UK",UK | TNT Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 1" tvg-logo="" UK",UK | TNT Sports 1
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28353
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 2" tvg-logo="" group-title="UK",UK | TNT Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 2" tvg-logo="" UK",UK | TNT Sports 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28354
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 3" tvg-logo="" group-title="UK",UK | TNT Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 3" tvg-logo="" UK",UK | TNT Sports 3
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28355
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 4" tvg-logo="" group-title="UK",UK | TNT Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 4" tvg-logo="" UK",UK | TNT Sports 4
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28356
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 5" tvg-logo="" group-title="UK",UK | TNT Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 5" tvg-logo="" UK",UK | TNT Sports 5
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28357
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 7" tvg-logo="" group-title="UK",UK | TNT Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 7" tvg-logo="" UK",UK | TNT Sports 7
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28359
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 8" tvg-logo="" group-title="UK",UK | TNT Sports 8
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 8" tvg-logo="" UK",UK | TNT Sports 8
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28360
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 9" tvg-logo="" group-title="UK",UK | TNT Sports 9
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 9" tvg-logo="" UK",UK | TNT Sports 9
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28361
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 10" tvg-logo="" group-title="UK",UK | TNT Sports 10
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 10" tvg-logo="" UK",UK | TNT Sports 10
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28362
-#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 6" tvg-logo="" group-title="UK",UK | TNT Sports 6
+#EXTINF:-1 tvg-id="" tvg-name="UK | TNT Sports 6" tvg-logo="" UK",UK | TNT Sports 6
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/28358
-#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="NBA 01 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 01 
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="NBA 01 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 01 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/592
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 02 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 02 
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 02 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 02 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/593
-#EXTINF:-1 tvg-id="nbaleaguepass754.us" tvg-name="NBA 03" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 03
+#EXTINF:-1 tvg-id="nbaleaguepass754.us" tvg-name="NBA 03" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 03
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/594
-#EXTINF:-1 tvg-id="nbaleaguepass756.us" tvg-name="NBA 04 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 04 
+#EXTINF:-1 tvg-id="nbaleaguepass756.us" tvg-name="NBA 04 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 04 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/595
-#EXTINF:-1 tvg-id="nbaleaguepass758.us" tvg-name="NBA 05 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 05 
+#EXTINF:-1 tvg-id="nbaleaguepass758.us" tvg-name="NBA 05 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 05 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/602
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 06 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 06 
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 06 " tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 06 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/603
-#EXTINF:-1 tvg-id="nbaleaguepass760.us" tvg-name="NBA 07 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 07 -
+#EXTINF:-1 tvg-id="nbaleaguepass760.us" tvg-name="NBA 07 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 07 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/604
-#EXTINF:-1 tvg-id="nbaleaguepass762.us" tvg-name="NBA 08 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 08 -
+#EXTINF:-1 tvg-id="nbaleaguepass762.us" tvg-name="NBA 08 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 08 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/605
-#EXTINF:-1 tvg-id="nbaleaguepass768.us" tvg-name="NBA 09 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 09 -
+#EXTINF:-1 tvg-id="nbaleaguepass768.us" tvg-name="NBA 09 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 09 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/606
-#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 10 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 10 -
+#EXTINF:-1 tvg-id="espn.us" tvg-name="NBA 10 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 10 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/607
-#EXTINF:-1 tvg-id="nbaleaguepass765.us" tvg-name="NBA 11 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 11 -
+#EXTINF:-1 tvg-id="nbaleaguepass765.us" tvg-name="NBA 11 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 11 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/608
-#EXTINF:-1 tvg-id="nbaleaguepass767.us" tvg-name="NBA 12 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 12 -
+#EXTINF:-1 tvg-id="nbaleaguepass767.us" tvg-name="NBA 12 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 12 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/759
-#EXTINF:-1 tvg-id="" tvg-name="NBA 13 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 13 -
+#EXTINF:-1 tvg-id="" tvg-name="NBA 13 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 13 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/760
-#EXTINF:-1 tvg-id="" tvg-name="NBA 14 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 14 -
+#EXTINF:-1 tvg-id="" tvg-name="NBA 14 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 14 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/761
-#EXTINF:-1 tvg-id="" tvg-name="NBA 15 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" group-title="NBA (Dic 21)",NBA 15 -
+#EXTINF:-1 tvg-id="" tvg-name="NBA 15 -" tvg-logo="https://i.ibb.co/GMCDBQD/nba.png" NBA ",NBA 15 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1647
-#EXTINF:-1 tvg-id="nhlcenterice770.us" tvg-name="NHL 01" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 01 
+#EXTINF:-1 tvg-id="nhlcenterice770.us" tvg-name="NHL 01" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 01 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/420
-#EXTINF:-1 tvg-id="abceastern.us" tvg-name="NHL 02" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 02 
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="NHL 02" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 02 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/421
-#EXTINF:-1 tvg-id="nhlcenterice769.us" tvg-name="NHL 03" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 03 
+#EXTINF:-1 tvg-id="nhlcenterice769.us" tvg-name="NHL 03" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 03 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/435
-#EXTINF:-1 tvg-id="nhlcenterice775.us" tvg-name="NHL 04" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 04 
+#EXTINF:-1 tvg-id="nhlcenterice775.us" tvg-name="NHL 04" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 04 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/436
-#EXTINF:-1 tvg-id="nhlcenterice776.us" tvg-name="NHL 05 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 05 - 
+#EXTINF:-1 tvg-id="nhlcenterice776.us" tvg-name="NHL 05 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 05 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/437
-#EXTINF:-1 tvg-id="nhlcenterice779.us" tvg-name="NHL 06 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 06 - 
+#EXTINF:-1 tvg-id="nhlcenterice779.us" tvg-name="NHL 06 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 06 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/438
-#EXTINF:-1 tvg-id="nhlcenterice780.us" tvg-name="NHL 07 -" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 07 -
+#EXTINF:-1 tvg-id="nhlcenterice780.us" tvg-name="NHL 07 -" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 07 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/439
-#EXTINF:-1 tvg-id="nhlcenterice783.us" tvg-name="NHL 08 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 08 - 
+#EXTINF:-1 tvg-id="nhlcenterice783.us" tvg-name="NHL 08 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 08 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/440
-#EXTINF:-1 tvg-id="nhlcenterice785.us" tvg-name="NHL 09 -" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 09 -
+#EXTINF:-1 tvg-id="nhlcenterice785.us" tvg-name="NHL 09 -" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 09 -
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/596
-#EXTINF:-1 tvg-id="nhlcenterice771.us" tvg-name="NHL 10 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 10 - 
+#EXTINF:-1 tvg-id="nhlcenterice771.us" tvg-name="NHL 10 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 10 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/597
-#EXTINF:-1 tvg-id="" tvg-name="NHL 11- " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 11- 
+#EXTINF:-1 tvg-id="" tvg-name="NHL 11- " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 11- 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/707
-#EXTINF:-1 tvg-id="" tvg-name="NHL 12 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 12 - 
+#EXTINF:-1 tvg-id="" tvg-name="NHL 12 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 12 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/708
-#EXTINF:-1 tvg-id="" tvg-name="NHL 13 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="NHL (Dic 21)",NHL 13 - 
+#EXTINF:-1 tvg-id="" tvg-name="NHL 13 - " tvg-logo="http://lonewolftvpr.com/logos/nhl.png" NHL ",NHL 13 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1601
-#EXTINF:-1 tvg-id="" tvg-name="NHL 14 - " tvg-logo="" group-title="NHL (Dic 21)",NHL 14 - 
+#EXTINF:-1 tvg-id="" tvg-name="NHL 14 - " tvg-logo="" NHL ",NHL 14 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/31058
-#EXTINF:-1 tvg-id="" tvg-name="NHL 15 - " tvg-logo="" group-title="NHL (Dic 21)",NHL 15 - 
+#EXTINF:-1 tvg-id="" tvg-name="NHL 15 - " tvg-logo="" NHL ",NHL 15 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/31059
-#EXTINF:-1 tvg-id="" tvg-name="NHL 16 - " tvg-logo="" group-title="NHL (Dic 21)",NHL 16 - 
+#EXTINF:-1 tvg-id="" tvg-name="NHL 16 - " tvg-logo="" NHL ",NHL 16 - 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/31060
-#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet 360" tvg-logo="" group-title="Canada",CA | Sportsnet 360
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet 360" tvg-logo="" Canada",CA | Sportsnet 360
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2044
-#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet East" tvg-logo="" group-title="Canada",CA | Sportsnet East
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet East" tvg-logo="" Canada",CA | Sportsnet East
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2045
-#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet One" tvg-logo="" group-title="Canada",CA | Sportsnet One
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet One" tvg-logo="" Canada",CA | Sportsnet One
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2046
-#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet Ontario" tvg-logo="" group-title="Canada",CA | Sportsnet Ontario
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet Ontario" tvg-logo="" Canada",CA | Sportsnet Ontario
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2047
-#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet Pacific" tvg-logo="" group-title="Canada",CA | Sportsnet Pacific
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet Pacific" tvg-logo="" Canada",CA | Sportsnet Pacific
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2048
-#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet West" tvg-logo="" group-title="Canada",CA | Sportsnet West
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet West" tvg-logo="" Canada",CA | Sportsnet West
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2049
-#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet World" tvg-logo="" group-title="Canada",CA | Sportsnet World
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet World" tvg-logo="" Canada",CA | Sportsnet World
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2050
-#EXTINF:-1 tvg-id="I400.11182.schedulesdirect.org" tvg-name="CA | TSN 1" tvg-logo="https://i.imgur.com/xbXCiNl.png" group-title="Canada",CA | TSN 1
+#EXTINF:-1 tvg-id="I400.11182.schedulesdirect.org" tvg-name="CA | TSN 1" tvg-logo="https://i.imgur.com/xbXCiNl.png" Canada",CA | TSN 1
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1195
-#EXTINF:-1 tvg-id="I401.18990.schedulesdirect.org" tvg-name="CA | TSN 2" tvg-logo="https://i.imgur.com/mPS3Wyo.png" group-title="Canada",CA | TSN 2
+#EXTINF:-1 tvg-id="I401.18990.schedulesdirect.org" tvg-name="CA | TSN 2" tvg-logo="https://i.imgur.com/mPS3Wyo.png" Canada",CA | TSN 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/175
-#EXTINF:-1 tvg-id="I402.90118.schedulesdirect.org" tvg-name="CA | TSN 3" tvg-logo="https://i.imgur.com/eBx9BXA.png" group-title="Canada",CA | TSN 3
+#EXTINF:-1 tvg-id="I402.90118.schedulesdirect.org" tvg-name="CA | TSN 3" tvg-logo="https://i.imgur.com/eBx9BXA.png" Canada",CA | TSN 3
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/188
-#EXTINF:-1 tvg-id="I403.90122.schedulesdirect.org" tvg-name="CA | TSN 4" tvg-logo="https://i.imgur.com/OchLblb.png" group-title="Canada",CA | TSN 4
+#EXTINF:-1 tvg-id="I403.90122.schedulesdirect.org" tvg-name="CA | TSN 4" tvg-logo="https://i.imgur.com/OchLblb.png" Canada",CA | TSN 4
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1586
-#EXTINF:-1 tvg-id="I404.90124.schedulesdirect.org" tvg-name="CA | TSN 5" tvg-logo="https://i.imgur.com/4X18FxR.png" group-title="Canada",CA | TSN 5
+#EXTINF:-1 tvg-id="I404.90124.schedulesdirect.org" tvg-name="CA | TSN 5" tvg-logo="https://i.imgur.com/4X18FxR.png" Canada",CA | TSN 5
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/977
-#EXTINF:-1 tvg-id="universalkids.us" tvg-name="USA | 3ABN Kids Network" tvg-logo="http://lonewolftvpr.com/logos/universalkids.png" group-title="USA",USA | 3ABN Kids Network
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="USA | 3ABN Kids Network" tvg-logo="http://lonewolftvpr.com/logos/universalkids.png" USA",USA | 3ABN Kids Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/252
-#EXTINF:-1 tvg-id="awe.us" tvg-name="USA | A Wealth of Entertainment" tvg-logo="https://i.ibb.co/GWFFZQn/aew.png" group-title="USA",USA | A Wealth of Entertainment
+#EXTINF:-1 tvg-id="awe.us" tvg-name="USA | A Wealth of Entertainment" tvg-logo="https://i.ibb.co/GWFFZQn/aew.png" USA",USA | A Wealth of Entertainment
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/46673
-#EXTINF:-1 tvg-id="aande.us" tvg-name="USA | A&E" tvg-logo="https://i.ibb.co/bsyMw3N/aye180.png" group-title="USA",USA | A&E
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA | A&E" tvg-logo="https://i.ibb.co/bsyMw3N/aye180.png" USA",USA | A&E
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/212
-#EXTINF:-1 tvg-id="abceastern.us" tvg-name="USA | ABC" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA",USA | ABC
+#EXTINF:-1 tvg-id="abceastern.us" tvg-name="USA | ABC" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA",USA | ABC
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/211
-#EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="USA | ABC News" tvg-logo="http://lonewolftvpr.com/logos/abcnews.png" group-title="USA",USA | ABC News
+#EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="USA | ABC News" tvg-logo="http://lonewolftvpr.com/logos/abcnews.png" USA",USA | ABC News
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/210
-#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="USA | ACC Network" tvg-logo="https://i.ibb.co/cxjgxvR/acc.png" group-title="USA",USA | ACC Network
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="USA | ACC Network" tvg-logo="https://i.ibb.co/cxjgxvR/acc.png" USA",USA | ACC Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/296
-#EXTINF:-1 tvg-id="altitudesport.us" tvg-name="USA | Altitude Sports" tvg-logo="https://i.ibb.co/c3Gxspj/AS.png" group-title="USA",USA | Altitude Sports
+#EXTINF:-1 tvg-id="altitudesport.us" tvg-name="USA | Altitude Sports" tvg-logo="https://i.ibb.co/c3Gxspj/AS.png" USA",USA | Altitude Sports
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1521
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC" tvg-logo="http://lonewolftvpr.com/logos/amc.png" group-title="USA",USA | AMC
+#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC" tvg-logo="http://lonewolftvpr.com/logos/amc.png" USA",USA | AMC
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/209
-#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA | AMC +" tvg-logo="https://i.ibb.co/4Y3Z4P1/amcplus.png" group-title="USA",USA | AMC +
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA | AMC +" tvg-logo="https://i.ibb.co/4Y3Z4P1/amcplus.png" USA",USA | AMC +
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1602
-#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="USA | American Heroes Channel" tvg-logo="http://lonewolftvpr.com/logos/ahc.png" group-title="USA",USA | American Heroes Channel
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="USA | American Heroes Channel" tvg-logo="http://lonewolftvpr.com/logos/ahc.png" USA",USA | American Heroes Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/208
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="USA | Animal Planet" tvg-logo="http://lonewolftvpr.com/logos/animalplanet.png" group-title="USA",USA | Animal Planet
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="USA | Animal Planet" tvg-logo="http://lonewolftvpr.com/logos/animalplanet.png" USA",USA | Animal Planet
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/207
-#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="USA | Aspire TV" tvg-logo="https://i.ibb.co/mqydFBD/aspire.png" group-title="USA",USA | Aspire TV
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="USA | Aspire TV" tvg-logo="https://i.ibb.co/mqydFBD/aspire.png" USA",USA | Aspire TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2156
-#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="USA | AT&T Sportsnet Pittsburgh" tvg-logo="https://i.imgur.com/DFlvs34.png" group-title="USA",USA | AT&T Sportsnet Pittsburgh
+#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="USA | AT&T Sportsnet Pittsburgh" tvg-logo="https://i.imgur.com/DFlvs34.png" USA",USA | AT&T Sportsnet Pittsburgh
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1486
-#EXTINF:-1 tvg-id="axstv.us" tvg-name="USA | AXS TV" tvg-logo="https://i.ibb.co/87RnZtH/axs.png" group-title="USA",USA | AXS TV
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="USA | AXS TV" tvg-logo="https://i.ibb.co/87RnZtH/axs.png" USA",USA | AXS TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1314
-#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="USA | Baby First" tvg-logo="" group-title="USA",USA | Baby First
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="USA | Baby First" tvg-logo="" USA",USA | Baby First
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1701
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="USA | BBC America" tvg-logo="http://lonewolftvpr.com/logos/bbcamerica.png" group-title="USA",USA | BBC America
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="USA | BBC America" tvg-logo="http://lonewolftvpr.com/logos/bbcamerica.png" USA",USA | BBC America
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/206
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="USA | BBC World News" tvg-logo="http://lonewolftvpr.com/logos/bbcwn.png" group-title="USA",USA | BBC World News
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="USA | BBC World News" tvg-logo="http://lonewolftvpr.com/logos/bbcwn.png" USA",USA | BBC World News
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/764
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA | beIN Sports" tvg-logo="http://lonewolftvpr.com/logos/beinsports.png" group-title="USA",USA | beIN Sports
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA | beIN Sports" tvg-logo="http://lonewolftvpr.com/logos/beinsports.png" USA",USA | beIN Sports
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/205
-#EXTINF:-1 tvg-id="bet.us" tvg-name="USA | BET" tvg-logo="http://lonewolftvpr.com/logos/bet.png" group-title="USA",USA | BET
+#EXTINF:-1 tvg-id="bet.us" tvg-name="USA | BET" tvg-logo="http://lonewolftvpr.com/logos/bet.png" USA",USA | BET
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/204
-#EXTINF:-1 tvg-id="bether.us" tvg-name="USA | BET Her" tvg-logo="http://lonewolftvpr.com/logos/bether.png" group-title="USA",USA | BET Her
+#EXTINF:-1 tvg-id="bether.us" tvg-name="USA | BET Her" tvg-logo="http://lonewolftvpr.com/logos/bether.png" USA",USA | BET Her
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/203
-#EXTINF:-1 tvg-id="betjams.us" tvg-name="USA | BET Jams" tvg-logo="http://lonewolftvpr.com/logos/betjams.png" group-title="USA",USA | BET Jams
+#EXTINF:-1 tvg-id="betjams.us" tvg-name="USA | BET Jams" tvg-logo="http://lonewolftvpr.com/logos/betjams.png" USA",USA | BET Jams
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/950
-#EXTINF:-1 tvg-id="betsoul.us" tvg-name="USA | BET Soul" tvg-logo="http://lonewolftvpr.com/logos/betsoul.png" group-title="USA",USA | BET Soul
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="USA | BET Soul" tvg-logo="http://lonewolftvpr.com/logos/betsoul.png" USA",USA | BET Soul
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/951
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="USA | Big Ten Network" tvg-logo="http://lonewolftvpr.com/logos/btn.png" group-title="USA",USA | Big Ten Network
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="USA | Big Ten Network" tvg-logo="http://lonewolftvpr.com/logos/btn.png" USA",USA | Big Ten Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/202
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA | Black News Channel" tvg-logo="https://i.ibb.co/kJmBMDD/blacknews.png" group-title="USA",USA | Black News Channel
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA | Black News Channel" tvg-logo="https://i.ibb.co/kJmBMDD/blacknews.png" USA",USA | Black News Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1501
-#EXTINF:-1 tvg-id="blazetv.us" tvg-name="USA | Blaze TV" tvg-logo="https://i.ibb.co/hLrcXV9/blaze.png" group-title="USA",USA | Blaze TV
+#EXTINF:-1 tvg-id="blazetv.us" tvg-name="USA | Blaze TV" tvg-logo="https://i.ibb.co/hLrcXV9/blaze.png" USA",USA | Blaze TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1275
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="USA | Bloomberg" tvg-logo="http://lonewolftvpr.com/logos/bloomberg.png" group-title="USA",USA | Bloomberg
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="USA | Bloomberg" tvg-logo="http://lonewolftvpr.com/logos/bloomberg.png" USA",USA | Bloomberg
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/863
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="USA | Boomerang" tvg-logo="http://lonewolftvpr.com/logos/boomerang.png" group-title="USA",USA | Boomerang
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="USA | Boomerang" tvg-logo="http://lonewolftvpr.com/logos/boomerang.png" USA",USA | Boomerang
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/130
-#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="USA | Bounce TV" tvg-logo="http://lonewolftvpr.com/logos/bounce.png" group-title="USA",USA | Bounce TV
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="USA | Bounce TV" tvg-logo="http://lonewolftvpr.com/logos/bounce.png" USA",USA | Bounce TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/743
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA | Bravo" tvg-logo="http://lonewolftvpr.com/logos/bravo.png" group-title="USA",USA | Bravo
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA | Bravo" tvg-logo="http://lonewolftvpr.com/logos/bravo.png" USA",USA | Bravo
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/200
-#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="USA | Buzzr TV" tvg-logo="http://lonewolftvpr.com/logos/buzzr120.png" group-title="USA",USA | Buzzr TV
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="USA | Buzzr TV" tvg-logo="http://lonewolftvpr.com/logos/buzzr120.png" USA",USA | Buzzr TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1182
-#EXTINF:-1 tvg-id="cspan.us" tvg-name="USA | C-SPAN" tvg-logo="http://lonewolftvpr.com/logos/cspan120.png" group-title="USA",USA | C-SPAN
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="USA | C-SPAN" tvg-logo="http://lonewolftvpr.com/logos/cspan120.png" USA",USA | C-SPAN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1184
-#EXTINF:-1 tvg-id="cspan2.us" tvg-name="USA | C-SPAN 2" tvg-logo="http://lonewolftvpr.com/logos/cspan120.png" group-title="USA",USA | C-SPAN 2
+#EXTINF:-1 tvg-id="cspan2.us" tvg-name="USA | C-SPAN 2" tvg-logo="http://lonewolftvpr.com/logos/cspan120.png" USA",USA | C-SPAN 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1185
-#EXTINF:-1 tvg-id="cspan3.us" tvg-name="USA | C-SPAN 3" tvg-logo="http://lonewolftvpr.com/logos/cspan120.png" group-title="USA",USA | C-SPAN 3
+#EXTINF:-1 tvg-id="cspan3.us" tvg-name="USA | C-SPAN 3" tvg-logo="http://lonewolftvpr.com/logos/cspan120.png" USA",USA | C-SPAN 3
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1186
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="USA | Cartoon Network" tvg-logo="http://lonewolftvpr.com/logos/cartoonnetwork.png" group-title="USA",USA | Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="USA | Cartoon Network" tvg-logo="http://lonewolftvpr.com/logos/cartoonnetwork.png" USA",USA | Cartoon Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/199
-#EXTINF:-1 tvg-id="cbseastern.us" tvg-name="USA | CBS" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA",USA | CBS
+#EXTINF:-1 tvg-id="cbseastern.us" tvg-name="USA | CBS" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA",USA | CBS
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/198
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="USA | CBS Sports Network" tvg-logo="http://lonewolftvpr.com/logos/cbsn.png" group-title="USA",USA | CBS Sports Network
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="USA | CBS Sports Network" tvg-logo="http://lonewolftvpr.com/logos/cbsn.png" USA",USA | CBS Sports Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/197
-#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="USA | Cheddar News" tvg-logo="https://i.ibb.co/34xLM6T/cheddar.png" group-title="USA",USA | Cheddar News
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="USA | Cheddar News" tvg-logo="https://i.ibb.co/34xLM6T/cheddar.png" USA",USA | Cheddar News
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/49026
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="USA | Cinemax" tvg-logo="http://lonewolftvpr.com/logos/cinemax.png" group-title="USA",USA | Cinemax
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="USA | Cinemax" tvg-logo="http://lonewolftvpr.com/logos/cinemax.png" USA",USA | Cinemax
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/196
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="USA | Cinemax 5 Star MAX" tvg-logo="https://i.ibb.co/4MMj6xH/5-Star-Max-Logo-svg.png" group-title="USA",USA | Cinemax 5 Star MAX
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="USA | Cinemax 5 Star MAX" tvg-logo="https://i.ibb.co/4MMj6xH/5-Star-Max-Logo-svg.png" USA",USA | Cinemax 5 Star MAX
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1603
-#EXTINF:-1 tvg-id="actionmax.us" tvg-name="USA | Cinemax ActionMax" tvg-logo="https://i.ibb.co/7p0xLJk/actionmax.png" group-title="USA",USA | Cinemax ActionMax
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="USA | Cinemax ActionMax" tvg-logo="https://i.ibb.co/7p0xLJk/actionmax.png" USA",USA | Cinemax ActionMax
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1604
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="USA | Cinemax MoreMax" tvg-logo="https://i.ibb.co/2yRD8Xr/moremax.png" group-title="USA",USA | Cinemax MoreMax
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="USA | Cinemax MoreMax" tvg-logo="https://i.ibb.co/2yRD8Xr/moremax.png" USA",USA | Cinemax MoreMax
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1204
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA | CMT" tvg-logo="http://lonewolftvpr.com/logos/cmt.png" group-title="USA",USA | CMT
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA | CMT" tvg-logo="http://lonewolftvpr.com/logos/cmt.png" USA",USA | CMT
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/355
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA | CNBC" tvg-logo="http://lonewolftvpr.com/logos/cnbc.png" group-title="USA",USA | CNBC
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA | CNBC" tvg-logo="http://lonewolftvpr.com/logos/cnbc.png" USA",USA | CNBC
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/192
-#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="USA | CNBC World" tvg-logo="http://lonewolftvpr.com/logos/cnbc.png" group-title="USA",USA | CNBC World
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="USA | CNBC World" tvg-logo="http://lonewolftvpr.com/logos/cnbc.png" USA",USA | CNBC World
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1196
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA | CNN" tvg-logo="http://lonewolftvpr.com/logos/cnn.png" group-title="USA",USA | CNN
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA | CNN" tvg-logo="http://lonewolftvpr.com/logos/cnn.png" USA",USA | CNN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/191
-#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="USA | CNN International" tvg-logo="http://lonewolftvpr.com/logos/cnn.png" group-title="USA",USA | CNN International
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="USA | CNN International" tvg-logo="http://lonewolftvpr.com/logos/cnn.png" USA",USA | CNN International
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1660
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="USA | Comedy Central" tvg-logo="http://lonewolftvpr.com/logos/comedycentral.png" group-title="USA",USA | Comedy Central
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="USA | Comedy Central" tvg-logo="http://lonewolftvpr.com/logos/comedycentral.png" USA",USA | Comedy Central
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/190
-#EXTINF:-1 tvg-id="comet.us" tvg-name="USA | Comet TV" tvg-logo="https://i.ibb.co/fpQBGbQ/comet.png" group-title="USA",USA | Comet TV
+#EXTINF:-1 tvg-id="comet.us" tvg-name="USA | Comet TV" tvg-logo="https://i.ibb.co/fpQBGbQ/comet.png" USA",USA | Comet TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1459
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="USA | Cooking Channel" tvg-logo="http://lonewolftvpr.com/logos/coockingchannel.png" group-title="USA",USA | Cooking Channel
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="USA | Cooking Channel" tvg-logo="http://lonewolftvpr.com/logos/coockingchannel.png" USA",USA | Cooking Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/189
-#EXTINF:-1 tvg-id="court.us" tvg-name="USA | Court TV" tvg-logo="https://i.ibb.co/FzTztSs/court.png" group-title="USA",USA | Court TV
+#EXTINF:-1 tvg-id="court.us" tvg-name="USA | Court TV" tvg-logo="https://i.ibb.co/FzTztSs/court.png" USA",USA | Court TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1473
-#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="USA | Cowboy Channel" tvg-logo="https://i.ibb.co/DVxV3vG/cowboy.png" group-title="USA",USA | Cowboy Channel
+#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="USA | Cowboy Channel" tvg-logo="https://i.ibb.co/DVxV3vG/cowboy.png" USA",USA | Cowboy Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1460
-#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="USA | COZI TV" tvg-logo="http://lonewolftvpr.com/logos/cozi.png" group-title="USA",USA | COZI TV
+#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="USA | COZI TV" tvg-logo="http://lonewolftvpr.com/logos/cozi.png" USA",USA | COZI TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/49027
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA | Destination America" tvg-logo="http://lonewolftvpr.com/logos/destinationamerica.png" group-title="USA",USA | Destination America
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA | Destination America" tvg-logo="http://lonewolftvpr.com/logos/destinationamerica.png" USA",USA | Destination America
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/185
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="USA",USA | Discovery Channel
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" USA",USA | Discovery Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/184
-#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA | Discovery Family" tvg-logo="http://lonewolftvpr.com/logos/discoveryfamily.png" group-title="USA",USA | Discovery Family
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA | Discovery Family" tvg-logo="http://lonewolftvpr.com/logos/discoveryfamily.png" USA",USA | Discovery Family
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/183
-#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA | Discovery Life" tvg-logo="http://lonewolftvpr.com/logos/discoverylife.png" group-title="USA",USA | Discovery Life
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA | Discovery Life" tvg-logo="http://lonewolftvpr.com/logos/discoverylife.png" USA",USA | Discovery Life
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/182
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA | Discovery Science" tvg-logo="http://lonewolftvpr.com/logos/science.png" group-title="USA",USA | Discovery Science
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA | Discovery Science" tvg-logo="http://lonewolftvpr.com/logos/science.png" USA",USA | Discovery Science
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/181
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="USA | Disney Channel" tvg-logo="http://lonewolftvpr.com/logos/disney.png" group-title="USA",USA | Disney Channel
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="USA | Disney Channel" tvg-logo="http://lonewolftvpr.com/logos/disney.png" USA",USA | Disney Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/180
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA | Disney Jr" tvg-logo="http://lonewolftvpr.com/logos/disneyjr.png" group-title="USA",USA | Disney Jr
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA | Disney Jr" tvg-logo="http://lonewolftvpr.com/logos/disneyjr.png" USA",USA | Disney Jr
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/179
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="USA | Disney XD" tvg-logo="http://lonewolftvpr.com/logos/disneyxd.png" group-title="USA",USA | Disney XD
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="USA | Disney XD" tvg-logo="http://lonewolftvpr.com/logos/disneyxd.png" USA",USA | Disney XD
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/178
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA | E!" tvg-logo="http://lonewolftvpr.com/logos/e.png" group-title="USA",USA | E!
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA | E!" tvg-logo="http://lonewolftvpr.com/logos/e.png" USA",USA | E!
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/176
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA | Eleven Sports" tvg-logo="http://lonewolftvpr.com/logos/eleven.png" group-title="USA",USA | Eleven Sports
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA | Eleven Sports" tvg-logo="http://lonewolftvpr.com/logos/eleven.png" USA",USA | Eleven Sports
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/49028
-#EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN" tvg-logo="http://lonewolftvpr.com/logos/espn.png" group-title="USA",USA | ESPN
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN" tvg-logo="http://lonewolftvpr.com/logos/espn.png" USA",USA | ESPN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/133
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="USA | ESPN 2" tvg-logo="http://lonewolftvpr.com/logos/espn2.png" group-title="USA",USA | ESPN 2
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="USA | ESPN 2" tvg-logo="http://lonewolftvpr.com/logos/espn2.png" USA",USA | ESPN 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/173
-#EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN HD" tvg-logo="http://lonewolftvpr.com/logos/espn.png" group-title="USA",USA | ESPN HD
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN HD" tvg-logo="http://lonewolftvpr.com/logos/espn.png" USA",USA | ESPN HD
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/103305
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA | ESPN News" tvg-logo="http://lonewolftvpr.com/logos/Espnnews.png" group-title="USA",USA | ESPN News
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA | ESPN News" tvg-logo="http://lonewolftvpr.com/logos/Espnnews.png" USA",USA | ESPN News
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/134
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="USA | ESPN U" tvg-logo="http://lonewolftvpr.com/logos/espnu.png" group-title="USA",USA | ESPN U
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="USA | ESPN U" tvg-logo="http://lonewolftvpr.com/logos/espnu.png" USA",USA | ESPN U
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/172
-#EXTINF:-1 tvg-id="eurochannel.us" tvg-name="USA | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Euronews_logo.svg/2048px-Euronews_logo.svg.png" group-title="USA",USA | Euronews
+#EXTINF:-1 tvg-id="eurochannel.us" tvg-name="USA | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Euronews_logo.svg/2048px-Euronews_logo.svg.png" USA",USA | Euronews
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1637
-#EXTINF:-1 tvg-id="impact.us" tvg-name="USA | Faith TV" tvg-logo="" group-title="USA",USA | Faith TV
+#EXTINF:-1 tvg-id="impact.us" tvg-name="USA | Faith TV" tvg-logo="" USA",USA | Faith TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/62035
-#EXTINF:-1 tvg-id="fandueltv.us" tvg-name="USA | Fanduel TV (TVG)" tvg-logo="https://i.ibb.co/J5qpjHN/fandueltv.png" group-title="USA",USA | Fanduel TV (TVG)
+#EXTINF:-1 tvg-id="fandueltv.us" tvg-name="USA | Fanduel TV (TVG)" tvg-logo="https://i.ibb.co/J5qpjHN/fandueltv.png" USA",USA | Fanduel TV (TVG)
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/332
-#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="USA | Fight Network" tvg-logo="http://lonewolftvpr.com/logos/fightnetwork.png" group-title="USA",USA | Fight Network
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="USA | Fight Network" tvg-logo="http://lonewolftvpr.com/logos/fightnetwork.png" USA",USA | Fight Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/331
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA | Food Network" tvg-logo="http://lonewolftvpr.com/logos/foodnetwork.png" group-title="USA",USA | Food Network
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA | Food Network" tvg-logo="http://lonewolftvpr.com/logos/foodnetwork.png" USA",USA | Food Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/171
-#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="USA | Fox" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA",USA | Fox
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="USA | Fox" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA",USA | Fox
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/269
-#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA | Fox Business Network" tvg-logo="http://lonewolftvpr.com/logos/foxbusiness.png" group-title="USA",USA | Fox Business Network
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA | Fox Business Network" tvg-logo="http://lonewolftvpr.com/logos/foxbusiness.png" USA",USA | Fox Business Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/268
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="USA | Fox Deportes" tvg-logo="http://lonewolftvpr.com/logos/foxdeportes.png" group-title="USA",USA | Fox Deportes
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="USA | Fox Deportes" tvg-logo="http://lonewolftvpr.com/logos/foxdeportes.png" USA",USA | Fox Deportes
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/266
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA | Fox News" tvg-logo="http://lonewolftvpr.com/logos/foxnews.png" group-title="USA",USA | Fox News
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA | Fox News" tvg-logo="http://lonewolftvpr.com/logos/foxnews.png" USA",USA | Fox News
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/267
-#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="USA | Fox Soccer Plus" tvg-logo="http://lonewolftvpr.com/logos/foxsoccer.png" group-title="USA",USA | Fox Soccer Plus
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="USA | Fox Soccer Plus" tvg-logo="http://lonewolftvpr.com/logos/foxsoccer.png" USA",USA | Fox Soccer Plus
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/265
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA | Fox Sports 1" tvg-logo="http://lonewolftvpr.com/logos/fs1.png" group-title="USA",USA | Fox Sports 1
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA | Fox Sports 1" tvg-logo="http://lonewolftvpr.com/logos/fs1.png" USA",USA | Fox Sports 1
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/263
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA | Fox Sports 2" tvg-logo="http://lonewolftvpr.com/logos/fs2.png" group-title="USA",USA | Fox Sports 2
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA | Fox Sports 2" tvg-logo="http://lonewolftvpr.com/logos/fs2.png" USA",USA | Fox Sports 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/264
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA | Fox Sports Racing" tvg-logo="https://i.ibb.co/V0R8nbht/FOX-Racing.png" group-title="USA",USA | Fox Sports Racing
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA | Fox Sports Racing" tvg-logo="https://i.ibb.co/V0R8nbht/FOX-Racing.png" USA",USA | Fox Sports Racing
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/8430
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="USA | FreeForm" tvg-logo="http://lonewolftvpr.com/logos/freeform.png" group-title="USA",USA | FreeForm
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="USA | FreeForm" tvg-logo="http://lonewolftvpr.com/logos/freeform.png" USA",USA | FreeForm
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/170
-#EXTINF:-1 tvg-id="fusetv.us" tvg-name="USA | Fuse" tvg-logo="http://lonewolftvpr.com/logos/fuse.png" group-title="USA",USA | Fuse
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="USA | Fuse" tvg-logo="http://lonewolftvpr.com/logos/fuse.png" USA",USA | Fuse
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/169
-#EXTINF:-1 tvg-id="fx.us" tvg-name="USA | FX" tvg-logo="http://lonewolftvpr.com/logos/fx.png" group-title="USA",USA | FX
+#EXTINF:-1 tvg-id="fx.us" tvg-name="USA | FX" tvg-logo="http://lonewolftvpr.com/logos/fx.png" USA",USA | FX
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/167
-#EXTINF:-1 tvg-id="fxm.us" tvg-name="USA | FXM" tvg-logo="http://lonewolftvpr.com/logos/fxm.png" group-title="USA",USA | FXM
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="USA | FXM" tvg-logo="http://lonewolftvpr.com/logos/fxm.png" USA",USA | FXM
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/166
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="USA | FXX" tvg-logo="http://lonewolftvpr.com/logos/fxx.png" group-title="USA",USA | FXX
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="USA | FXX" tvg-logo="http://lonewolftvpr.com/logos/fxx.png" USA",USA | FXX
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/165
-#EXTINF:-1 tvg-id="fyi.us" tvg-name="USA | FYI" tvg-logo="http://lonewolftvpr.com/logos/fyi.png" group-title="USA",USA | FYI
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="USA | FYI" tvg-logo="http://lonewolftvpr.com/logos/fyi.png" USA",USA | FYI
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/164
-#EXTINF:-1 tvg-id="galavision.us" tvg-name="USA | Galavision" tvg-logo="http://lonewolftvpr.com/logos/galavision.png" group-title="USA",USA | Galavision
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="USA | Galavision" tvg-logo="http://lonewolftvpr.com/logos/galavision.png" USA",USA | Galavision
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/360
-#EXTINF:-1 tvg-id="gettv.us" tvg-name="USA | getTV" tvg-logo="https://i.ibb.co/My34nLHw/get-TV-logo-whitebg-sonynetwork-2.png" group-title="USA",USA | getTV
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="USA | getTV" tvg-logo="https://i.ibb.co/My34nLHw/get-TV-logo-whitebg-sonynetwork-2.png" USA",USA | getTV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45830
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="USA",USA | Golf Channel
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" USA",USA | Golf Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/138
-#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="USA | Great American Family" tvg-logo="https://i.ibb.co/nBDXGZp/gac.png" group-title="USA",USA | Great American Family
+#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="USA | Great American Family" tvg-logo="https://i.ibb.co/nBDXGZp/gac.png" USA",USA | Great American Family
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1474
-#EXTINF:-1 tvg-id="grit.us" tvg-name="USA | Grit TV" tvg-logo="http://lonewolftvpr.com/logos/grit.png" group-title="USA",USA | Grit TV
+#EXTINF:-1 tvg-id="grit.us" tvg-name="USA | Grit TV" tvg-logo="http://lonewolftvpr.com/logos/grit.png" USA",USA | Grit TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/734
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA | GSN" tvg-logo="http://lonewolftvpr.com/logos/gsn.png" group-title="USA",USA | GSN
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA | GSN" tvg-logo="http://lonewolftvpr.com/logos/gsn.png" USA",USA | GSN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/358
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA | Hallmark" tvg-logo="http://lonewolftvpr.com/logos/hallmark.png" group-title="USA",USA | Hallmark
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA | Hallmark" tvg-logo="http://lonewolftvpr.com/logos/hallmark.png" USA",USA | Hallmark
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/162
-#EXTINF:-1 tvg-id="hallmarkfamily.us" tvg-name="USA | Hallmark Drama" tvg-logo="http://lonewolftvpr.com/logos/hallmarkdrama.png" group-title="USA",USA | Hallmark Drama
+#EXTINF:-1 tvg-id="hallmarkfamily.us" tvg-name="USA | Hallmark Drama" tvg-logo="http://lonewolftvpr.com/logos/hallmarkdrama.png" USA",USA | Hallmark Drama
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/356
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="USA | Hallmark Movies & Mysteries" tvg-logo="http://lonewolftvpr.com/logos/hallmarkmm.png" group-title="USA",USA | Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="USA | Hallmark Movies & Mysteries" tvg-logo="http://lonewolftvpr.com/logos/hallmarkmm.png" USA",USA | Hallmark Movies & Mysteries
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/161
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA | HBO" tvg-logo="http://lonewolftvpr.com/logos/hbo.png" group-title="USA",USA | HBO
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA | HBO" tvg-logo="http://lonewolftvpr.com/logos/hbo.png" USA",USA | HBO
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/160
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="USA | HBO 2" tvg-logo="http://lonewolftvpr.com/logos/hbo2.png" group-title="USA",USA | HBO 2
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="USA | HBO 2" tvg-logo="http://lonewolftvpr.com/logos/hbo2.png" USA",USA | HBO 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1085
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="USA | HBO Comedy" tvg-logo="http://lonewolftvpr.com/logos/hbocomedy.png" group-title="USA",USA | HBO Comedy
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="USA | HBO Comedy" tvg-logo="http://lonewolftvpr.com/logos/hbocomedy.png" USA",USA | HBO Comedy
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1087
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="USA | HBO Signature" tvg-logo="http://lonewolftvpr.com/logos/hbosignature.png" group-title="USA",USA | HBO Signature
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="USA | HBO Signature" tvg-logo="http://lonewolftvpr.com/logos/hbosignature.png" USA",USA | HBO Signature
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/156
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="USA | HBO Movies" tvg-logo="http://lonewolftvpr.com/logos/hbozone.png" group-title="USA",USA | HBO Movies
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="USA | HBO Movies" tvg-logo="http://lonewolftvpr.com/logos/hbozone.png" USA",USA | HBO Movies
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/155
-#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="USA | Heroes & Icons" tvg-logo="https://i.ibb.co/HLnfGS9Q/handi.png" group-title="USA",USA | Heroes & Icons
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="USA | Heroes & Icons" tvg-logo="https://i.ibb.co/HLnfGS9Q/handi.png" USA",USA | Heroes & Icons
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45831
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA | HGTV" tvg-logo="http://lonewolftvpr.com/logos/hgtv.png" group-title="USA",USA | HGTV
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA | HGTV" tvg-logo="http://lonewolftvpr.com/logos/hgtv.png" USA",USA | HGTV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/154
-#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA | History Channel" tvg-logo="http://lonewolftvpr.com/logos/history.png" group-title="USA",USA | History Channel
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA | History Channel" tvg-logo="http://lonewolftvpr.com/logos/history.png" USA",USA | History Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/153
-#EXTINF:-1 tvg-id="hln.us" tvg-name="USA | HLN" tvg-logo="http://lonewolftvpr.com/logos/hln.png" group-title="USA",USA | HLN
+#EXTINF:-1 tvg-id="hln.us" tvg-name="USA | HLN" tvg-logo="http://lonewolftvpr.com/logos/hln.png" USA",USA | HLN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/152
-#EXTINF:-1 tvg-id="homeshoppingnetwork.us" tvg-name="USA | Home Shopping Network" tvg-logo="https://i.ibb.co/qFH9THR/hsn.png" group-title="USA",USA | Home Shopping Network
+#EXTINF:-1 tvg-id="homeshoppingnetwork.us" tvg-name="USA | Home Shopping Network" tvg-logo="https://i.ibb.co/qFH9THR/hsn.png" USA",USA | Home Shopping Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1608
-#EXTINF:-1 tvg-id="hsn2.us" tvg-name="USA | HSN 2" tvg-logo="https://i.ibb.co/svRyMRDQ/HSN-logo-svg.png" group-title="USA",USA | HSN 2
+#EXTINF:-1 tvg-id="hsn2.us" tvg-name="USA | HSN 2" tvg-logo="https://i.ibb.co/svRyMRDQ/HSN-logo-svg.png" USA",USA | HSN 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45833
-#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="USA | IFC" tvg-logo="http://lonewolftvpr.com/logos/IFC.png" group-title="USA",USA | IFC
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="USA | IFC" tvg-logo="http://lonewolftvpr.com/logos/IFC.png" USA",USA | IFC
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/151
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA | Info Wars" tvg-logo="https://i.ibb.co/8DgwF6H/infowars.png" group-title="USA",USA | Info Wars
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA | Info Wars" tvg-logo="https://i.ibb.co/8DgwF6H/infowars.png" USA",USA | Info Wars
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/50603
-#EXTINF:-1 tvg-id="insp.us" tvg-name="USA | INSP" tvg-logo="http://lonewolftvpr.com/logos/insp.png" group-title="USA",USA | INSP
+#EXTINF:-1 tvg-id="insp.us" tvg-name="USA | INSP" tvg-logo="http://lonewolftvpr.com/logos/insp.png" USA",USA | INSP
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/895
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA | Investigation Discovery" tvg-logo="http://lonewolftvpr.com/logos/id.png" group-title="USA",USA | Investigation Discovery
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA | Investigation Discovery" tvg-logo="http://lonewolftvpr.com/logos/id.png" USA",USA | Investigation Discovery
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/150
-#EXTINF:-1 tvg-id="ion.us" tvg-name="USA | ION TV" tvg-logo="https://i.ibb.co/9mxh3Sr/ion.png" group-title="USA",USA | ION TV
+#EXTINF:-1 tvg-id="ion.us" tvg-name="USA | ION TV" tvg-logo="https://i.ibb.co/9mxh3Sr/ion.png" USA",USA | ION TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/809
-#EXTINF:-1 tvg-id="lafftv.us" tvg-name="USA | Laff" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-LAFF.png" group-title="USA",USA | Laff
+#EXTINF:-1 tvg-id="lafftv.us" tvg-name="USA | Laff" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-LAFF.png" USA",USA | Laff
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45834
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="USA | Lifetime" tvg-logo="http://lonewolftvpr.com/logos/lifetime.png" group-title="USA",USA | Lifetime
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="USA | Lifetime" tvg-logo="http://lonewolftvpr.com/logos/lifetime.png" USA",USA | Lifetime
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/148
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="USA | LMN" tvg-logo="http://lonewolftvpr.com/logos/lmn.png" group-title="USA",USA | LMN
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="USA | LMN" tvg-logo="http://lonewolftvpr.com/logos/lmn.png" USA",USA | LMN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/147
-#EXTINF:-1 tvg-id="logo.us" tvg-name="USA | Logo" tvg-logo="http://lonewolftvpr.com/logos/logo.png" group-title="USA",USA | Logo
+#EXTINF:-1 tvg-id="logo.us" tvg-name="USA | Logo" tvg-logo="http://lonewolftvpr.com/logos/logo.png" USA",USA | Logo
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/952
-#EXTINF:-1 tvg-id="I1625.52745.schedulesdirect.org" tvg-name="USA | Love Nature" tvg-logo="https://i.imgur.com/y5pTmsv.png" group-title="USA",USA | Love Nature
+#EXTINF:-1 tvg-id="I1625.52745.schedulesdirect.org" tvg-name="USA | Love Nature" tvg-logo="https://i.imgur.com/y5pTmsv.png" USA",USA | Love Nature
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1659
-#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="USA | Magnolia Networks" tvg-logo="https://i.imgur.com/LJKbZ9j.png" group-title="USA",USA | Magnolia Networks
+#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="USA | Magnolia Networks" tvg-logo="https://i.imgur.com/LJKbZ9j.png" USA",USA | Magnolia Networks
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/177
-#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="USA | Marquee Sports Network" tvg-logo="http://lonewolftvpr.com/logos/marquee.png" group-title="USA",USA | Marquee Sports Network
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="USA | Marquee Sports Network" tvg-logo="http://lonewolftvpr.com/logos/marquee.png" USA",USA | Marquee Sports Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1045
-#EXTINF:-1 tvg-id="masn.us" tvg-name="USA | MASN" tvg-logo="https://i.ibb.co/BC78tfT/masn.png" group-title="USA",USA | MASN
+#EXTINF:-1 tvg-id="masn.us" tvg-name="USA | MASN" tvg-logo="https://i.ibb.co/BC78tfT/masn.png" USA",USA | MASN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1615
-#EXTINF:-1 tvg-id="masn2.us" tvg-name="USA | MASN 2" tvg-logo="https://i.ibb.co/PhD4LfY/masn2.png" group-title="USA",USA | MASN 2
+#EXTINF:-1 tvg-id="masn2.us" tvg-name="USA | MASN 2" tvg-logo="https://i.ibb.co/PhD4LfY/masn2.png" USA",USA | MASN 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1616
-#EXTINF:-1 tvg-id="mavtv.us" tvg-name="USA | MAV TV" tvg-logo="http://lonewolftvpr.com/logos/mav.png" group-title="USA",USA | MAV TV
+#EXTINF:-1 tvg-id="mavtv.us" tvg-name="USA | MAV TV" tvg-logo="http://lonewolftvpr.com/logos/mav.png" USA",USA | MAV TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/965
-#EXTINF:-1 tvg-id="metv.us" tvg-name="USA | Me TV" tvg-logo="http://lonewolftvpr.com/logos/metv.png" group-title="USA",USA | Me TV
+#EXTINF:-1 tvg-id="metv.us" tvg-name="USA | Me TV" tvg-logo="http://lonewolftvpr.com/logos/metv.png" USA",USA | Me TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/744
-#EXTINF:-1 tvg-id="mgm.us" tvg-name="USA | MGM+" tvg-logo="https://i.ibb.co/ZzC2RNd/mgmplus.png" group-title="USA",USA | MGM+
+#EXTINF:-1 tvg-id="mgm.us" tvg-name="USA | MGM+" tvg-logo="https://i.ibb.co/ZzC2RNd/mgmplus.png" USA",USA | MGM+
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/174
-#EXTINF:-1 tvg-id="mgmdrivein.us" tvg-name="USA | MGM+ Drive-In" tvg-logo="https://i.ibb.co/5n22NvR/mgmplusdi.png" group-title="USA",USA | MGM+ Drive-In
+#EXTINF:-1 tvg-id="mgmdrivein.us" tvg-name="USA | MGM+ Drive-In" tvg-logo="https://i.ibb.co/5n22NvR/mgmplusdi.png" USA",USA | MGM+ Drive-In
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1461
-#EXTINF:-1 tvg-id="mgmhits.us" tvg-name="USA | MGM+ Hits" tvg-logo="https://i.ibb.co/vk23nMP/mgmhits.png" group-title="USA",USA | MGM+ Hits
+#EXTINF:-1 tvg-id="mgmhits.us" tvg-name="USA | MGM+ Hits" tvg-logo="https://i.ibb.co/vk23nMP/mgmhits.png" USA",USA | MGM+ Hits
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/388
-#EXTINF:-1 tvg-id="mgmmarquee.us" tvg-name="USA | MGM+ marquee" tvg-logo="https://i.ibb.co/Cw6sbLz/mgmmarquee.png" group-title="USA",USA | MGM+ marquee
+#EXTINF:-1 tvg-id="mgmmarquee.us" tvg-name="USA | MGM+ marquee" tvg-logo="https://i.ibb.co/Cw6sbLz/mgmmarquee.png" USA",USA | MGM+ marquee
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/132
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="USA | MLB Network" tvg-logo="http://lonewolftvpr.com/logos/mlbmain.png" group-title="USA",USA | MLB Network
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="USA | MLB Network" tvg-logo="http://lonewolftvpr.com/logos/mlbmain.png" USA",USA | MLB Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/145
-#EXTINF:-1 tvg-id="monumentalsportsnetwork.us" tvg-name="USA | Monumental Sports" tvg-logo="https://static.wixstatic.com/media/86849b_93b0529b81ad48cda4c870344a308a0f~mv2.png/v1/crop/x_0,y_74,w_968,h_580/fill/w_420,h_250,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/monumental2-logo.png" group-title="USA",USA | Monumental Sports
+#EXTINF:-1 tvg-id="monumentalsportsnetwork.us" tvg-name="USA | Monumental Sports" tvg-logo="https://static.wixstatic.com/media/86849b_93b0529b81ad48cda4c870344a308a0f~mv2.png/v1/crop/x_0,y_74,w_968,h_580/fill/w_420,h_250,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/monumental2-logo.png" USA",USA | Monumental Sports
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45835
-#EXTINF:-1 tvg-id="motortrend.us" tvg-name="USA | Motor Trend" tvg-logo="http://lonewolftvpr.com/logos/motortrend.png" group-title="USA",USA | Motor Trend
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="USA | Motor Trend" tvg-logo="http://lonewolftvpr.com/logos/motortrend.png" USA",USA | Motor Trend
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/250
-#EXTINF:-1 tvg-id="msg.us" tvg-name="USA | MSG" tvg-logo="http://lonewolftvpr.com/logos/msg.png" group-title="USA",USA | MSG
+#EXTINF:-1 tvg-id="msg.us" tvg-name="USA | MSG" tvg-logo="http://lonewolftvpr.com/logos/msg.png" USA",USA | MSG
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/287
-#EXTINF:-1 tvg-id="msg2.us" tvg-name="USA | MSG 2" tvg-logo="https://i.ibb.co/vcRQ4Zm/msg2.png" group-title="USA",USA | MSG 2
+#EXTINF:-1 tvg-id="msg2.us" tvg-name="USA | MSG 2" tvg-logo="https://i.ibb.co/vcRQ4Zm/msg2.png" USA",USA | MSG 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/333
-#EXTINF:-1 tvg-id="msgsnplus.us" tvg-name="USA | MSGSN" tvg-logo="https://i.ibb.co/ksVF0fv3/Msg-sportsnet.png" group-title="USA",USA | MSGSN
+#EXTINF:-1 tvg-id="msgsnplus.us" tvg-name="USA | MSGSN" tvg-logo="https://i.ibb.co/ksVF0fv3/Msg-sportsnet.png" USA",USA | MSGSN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1617
-#EXTINF:-1 tvg-id="msgsnplus2.us" tvg-name="USA | MSGSN 2" tvg-logo="https://i.ibb.co/tPqNz13T/msgsn2.png" group-title="USA",USA | MSGSN 2
+#EXTINF:-1 tvg-id="msgsnplus2.us" tvg-name="USA | MSGSN 2" tvg-logo="https://i.ibb.co/tPqNz13T/msgsn2.png" USA",USA | MSGSN 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/50785
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="USA | MSNBC" tvg-logo="http://lonewolftvpr.com/logos/msnbc.png" group-title="USA",USA | MSNBC
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="USA | MSNBC" tvg-logo="http://lonewolftvpr.com/logos/msnbc.png" USA",USA | MSNBC
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/143
-#EXTINF:-1 tvg-id="mtv.us" tvg-name="USA | MTV" tvg-logo="http://lonewolftvpr.com/logos/mtv.png" group-title="USA",USA | MTV
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="USA | MTV" tvg-logo="http://lonewolftvpr.com/logos/mtv.png" USA",USA | MTV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/142
-#EXTINF:-1 tvg-id="mtv2.us" tvg-name="USA | MTV 2" tvg-logo="http://lonewolftvpr.com/logos/mtv2.png" group-title="USA",USA | MTV 2
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="USA | MTV 2" tvg-logo="http://lonewolftvpr.com/logos/mtv2.png" USA",USA | MTV 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/354
-#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="USA | MTV Classics" tvg-logo="https://i.ibb.co/88XyBLk/mtvc.png" group-title="USA",USA | MTV Classics
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="USA | MTV Classics" tvg-logo="https://i.ibb.co/88XyBLk/mtvc.png" USA",USA | MTV Classics
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1194
-#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="USA | MTV Live" tvg-logo="https://i.ibb.co/C5ZKQm7/mtvl.png" group-title="USA",USA | MTV Live
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="USA | MTV Live" tvg-logo="https://i.ibb.co/C5ZKQm7/mtvl.png" USA",USA | MTV Live
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1193
-#EXTINF:-1 tvg-id="my9wwor.us" tvg-name="USA | MY 9" tvg-logo="http://lonewolftvpr.com/logos/my9.png" group-title="USA",USA | MY 9
+#EXTINF:-1 tvg-id="my9wwor.us" tvg-name="USA | MY 9" tvg-logo="http://lonewolftvpr.com/logos/my9.png" USA",USA | MY 9
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/135
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA | Nat Geo" tvg-logo="http://lonewolftvpr.com/logos/natgeo.png" group-title="USA",USA | Nat Geo
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA | Nat Geo" tvg-logo="http://lonewolftvpr.com/logos/natgeo.png" USA",USA | Nat Geo
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/141
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA | Nat Geo Wild" tvg-logo="http://lonewolftvpr.com/logos/nadgeowild.png" group-title="USA",USA | Nat Geo Wild
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="USA | Nat Geo Wild" tvg-logo="http://lonewolftvpr.com/logos/nadgeowild.png" USA",USA | Nat Geo Wild
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/140
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="USA | NBA TV" tvg-logo="http://lonewolftvpr.com/logos/nba.png" group-title="USA",USA | NBA TV
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="USA | NBA TV" tvg-logo="http://lonewolftvpr.com/logos/nba.png" USA",USA | NBA TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/136
-#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="USA | NBC" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA",USA | NBC
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="USA | NBC" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA",USA | NBC
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/139
-#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="USA | NBC Universo" tvg-logo="http://lonewolftvpr.com/logos/universo.png" group-title="USA",USA | NBC Universo
+#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="USA | NBC Universo" tvg-logo="http://lonewolftvpr.com/logos/universo.png" USA",USA | NBC Universo
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/329
-#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="USA | NESN" tvg-logo="https://i.ibb.co/HRRPMyQ/nesn-logo.png" group-title="USA",USA | NESN
+#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="USA | NESN" tvg-logo="https://i.ibb.co/HRRPMyQ/nesn-logo.png" USA",USA | NESN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/890
-#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="USA | NESN PLUS" tvg-logo="https://i.ibb.co/KcPJSnhm/NESN-Plus-Logo.png" group-title="USA",USA | NESN PLUS
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="USA | NESN PLUS" tvg-logo="https://i.ibb.co/KcPJSnhm/NESN-Plus-Logo.png" USA",USA | NESN PLUS
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45836
-#EXTINF:-1 tvg-id="" tvg-name="USA | News 12 Long Island" tvg-logo="" group-title="USA",USA | News 12 Long Island
+#EXTINF:-1 tvg-id="" tvg-name="USA | News 12 Long Island" tvg-logo="" USA",USA | News 12 Long Island
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/83810
-#EXTINF:-1 tvg-id="newsmax.us" tvg-name="USA | NewsMax" tvg-logo="http://lonewolftvpr.com/logos/newsmax.png" group-title="USA",USA | NewsMax
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="USA | NewsMax" tvg-logo="http://lonewolftvpr.com/logos/newsmax.png" USA",USA | NewsMax
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/864
-#EXTINF:-1 tvg-id="newsnation.us" tvg-name="USA | NewsNation" tvg-logo="https://i.ibb.co/cK9f0vjN/News-Nation-logo-svg.png" group-title="USA",USA | NewsNation
+#EXTINF:-1 tvg-id="newsnation.us" tvg-name="USA | NewsNation" tvg-logo="https://i.ibb.co/cK9f0vjN/News-Nation-logo-svg.png" USA",USA | NewsNation
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45839
-#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="USA | NFL Network" tvg-logo="http://lonewolftvpr.com/logos/nfl.png" group-title="USA",USA | NFL Network
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="USA | NFL Network" tvg-logo="http://lonewolftvpr.com/logos/nfl.png" USA",USA | NFL Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/234
-#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="USA | NHL Network" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" group-title="USA",USA | NHL Network
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="USA | NHL Network" tvg-logo="http://lonewolftvpr.com/logos/nhl.png" USA",USA | NHL Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/299
-#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="USA | Nick East" tvg-logo="http://lonewolftvpr.com/logos/nick.png" group-title="USA",USA | Nick East
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="USA | Nick East" tvg-logo="http://lonewolftvpr.com/logos/nick.png" USA",USA | Nick East
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/327
-#EXTINF:-1 tvg-id="nickjr.us" tvg-name="USA | Nick Jr" tvg-logo="http://lonewolftvpr.com/logos/nickjr.png" group-title="USA",USA | Nick Jr
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="USA | Nick Jr" tvg-logo="http://lonewolftvpr.com/logos/nickjr.png" USA",USA | Nick Jr
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/351
-#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="USA | Nick Music" tvg-logo="https://i.ibb.co/zrgLxfw/Nick-Music-Logo.png" group-title="USA",USA | Nick Music
+#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="USA | Nick Music" tvg-logo="https://i.ibb.co/zrgLxfw/Nick-Music-Logo.png" USA",USA | Nick Music
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/50786
-#EXTINF:-1 tvg-id="nickelodeonpacific.us" tvg-name="USA | Nick West" tvg-logo="http://lonewolftvpr.com/logos/nick.png" group-title="USA",USA | Nick West
+#EXTINF:-1 tvg-id="nickelodeonpacific.us" tvg-name="USA | Nick West" tvg-logo="http://lonewolftvpr.com/logos/nick.png" USA",USA | Nick West
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/24786
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="USA | Nicktoons" tvg-logo="https://i.imgur.com/AuvMpAU.png" group-title="USA",USA | Nicktoons
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="USA | Nicktoons" tvg-logo="https://i.imgur.com/AuvMpAU.png" USA",USA | Nicktoons
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1223
-#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="USA | One America News" tvg-logo="https://i.ibb.co/DM0283y/oan.png" group-title="USA",USA | One America News
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="USA | One America News" tvg-logo="https://i.ibb.co/DM0283y/oan.png" USA",USA | One America News
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1183
-#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA | Outdoor Channel" tvg-logo="http://lonewolftvpr.com/logos/outdoor.png" group-title="USA",USA | Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA | Outdoor Channel" tvg-logo="http://lonewolftvpr.com/logos/outdoor.png" USA",USA | Outdoor Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/292
-#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="USA | Outside TV" tvg-logo="http://lonewolftvpr.com/logos/outside.png" group-title="USA",USA | Outside TV
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="USA | Outside TV" tvg-logo="http://lonewolftvpr.com/logos/outside.png" USA",USA | Outside TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/357
-#EXTINF:-1 tvg-id="ovation.us" tvg-name="USA | Ovation" tvg-logo="https://i.ibb.co/pv25h60g/ovation.png" group-title="USA",USA | Ovation
+#EXTINF:-1 tvg-id="ovation.us" tvg-name="USA | Ovation" tvg-logo="https://i.ibb.co/pv25h60g/ovation.png" USA",USA | Ovation
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45840
-#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA | OWN" tvg-logo="http://lonewolftvpr.com/logos/own.png" group-title="USA",USA | OWN
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA | OWN" tvg-logo="http://lonewolftvpr.com/logos/own.png" USA",USA | OWN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/229
-#EXTINF:-1 tvg-id="oxygen.us" tvg-name="USA | Oxygen" tvg-logo="http://lonewolftvpr.com/logos/oxygen.png" group-title="USA",USA | Oxygen
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="USA | Oxygen" tvg-logo="http://lonewolftvpr.com/logos/oxygen.png" USA",USA | Oxygen
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/228
-#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="USA | Paramount" tvg-logo="http://lonewolftvpr.com/logos/paramount.png" group-title="USA",USA | Paramount
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="USA | Paramount" tvg-logo="http://lonewolftvpr.com/logos/paramount.png" USA",USA | Paramount
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/221
-#EXTINF:-1 tvg-id="pbskids.us" tvg-name="USA | PBS KIDS" tvg-logo="http://lonewolftvpr.com/logos/pbskids.png" group-title="USA",USA | PBS KIDS
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="USA | PBS KIDS" tvg-logo="http://lonewolftvpr.com/logos/pbskids.png" USA",USA | PBS KIDS
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/227
-#EXTINF:-1 tvg-id="peopletv.us" tvg-name="USA | People TV" tvg-logo="https://i.ibb.co/HLvnSJ8N/people.png" group-title="USA",USA | People TV
+#EXTINF:-1 tvg-id="peopletv.us" tvg-name="USA | People TV" tvg-logo="https://i.ibb.co/HLvnSJ8N/people.png" USA",USA | People TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45843
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA | PIX 11" tvg-logo="https://i.ibb.co/Rvc25tZ/pix11.png" group-title="USA",USA | PIX 11
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="USA | PIX 11" tvg-logo="https://i.ibb.co/Rvc25tZ/pix11.png" USA",USA | PIX 11
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/53555
-#EXTINF:-1 tvg-id="pixltv.us" tvg-name="USA | PixL" tvg-logo="https://i.imgur.com/scnlB8S.png" group-title="USA",USA | PixL
+#EXTINF:-1 tvg-id="pixltv.us" tvg-name="USA | PixL" tvg-logo="https://i.imgur.com/scnlB8S.png" USA",USA | PixL
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1665
-#EXTINF:-1 tvg-id="poptv.us" tvg-name="USA | Pop" tvg-logo="http://lonewolftvpr.com/logos/pop.png" group-title="USA",USA | Pop
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="USA | Pop" tvg-logo="http://lonewolftvpr.com/logos/pop.png" USA",USA | Pop
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/226
-#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="USA | Pursuit" tvg-logo="https://i.ibb.co/0h3dmJJ/pursuit.png" group-title="USA",USA | Pursuit
+#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="USA | Pursuit" tvg-logo="https://i.ibb.co/0h3dmJJ/pursuit.png" USA",USA | Pursuit
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/46873
-#EXTINF:-1 tvg-id="qvc.us" tvg-name="USA | QVC 1" tvg-logo="https://i.ibb.co/FLbnmM74/qvc.png" group-title="USA",USA | QVC 1
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="USA | QVC 1" tvg-logo="https://i.ibb.co/FLbnmM74/qvc.png" USA",USA | QVC 1
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45841
-#EXTINF:-1 tvg-id="qvc2.us" tvg-name="USA | QVC 2" tvg-logo="https://i.ibb.co/bjxDd474/QVC2.png" group-title="USA",USA | QVC 2
+#EXTINF:-1 tvg-id="qvc2.us" tvg-name="USA | QVC 2" tvg-logo="https://i.ibb.co/bjxDd474/QVC2.png" USA",USA | QVC 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45842
-#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="USA | Red Bull TV" tvg-logo="https://i.ibb.co/KzvpcN0/redbulltv.png" group-title="USA",USA | Red Bull TV
+#EXTINF:-1 tvg-id="redbulltv.us" tvg-name="USA | Red Bull TV" tvg-logo="https://i.ibb.co/KzvpcN0/redbulltv.png" USA",USA | Red Bull TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1585
-#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="USA | Reelz Channel" tvg-logo="https://i.ibb.co/FhcKk9Q/reelz.png" group-title="USA",USA | Reelz Channel
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="USA | Reelz Channel" tvg-logo="https://i.ibb.co/FhcKk9Q/reelz.png" USA",USA | Reelz Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1463
-#EXTINF:-1 tvg-id="revolt.us" tvg-name="USA | Revolt" tvg-logo="http://lonewolftvpr.com/logos/revolt.png" group-title="USA",USA | Revolt
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="USA | Revolt" tvg-logo="http://lonewolftvpr.com/logos/revolt.png" USA",USA | Revolt
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1006
-#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="USA | RFD TV" tvg-logo="https://i.ibb.co/ZzRbGzjQ/rfd.png" group-title="USA",USA | RFD TV
+#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="USA | RFD TV" tvg-logo="https://i.ibb.co/ZzRbGzjQ/rfd.png" USA",USA | RFD TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45844
-#EXTINF:-1 tvg-id="rootsportsnorthwest.us" tvg-name="USA | Root Sports Northwest" tvg-logo="https://i.imgur.com/233Ekpx.png" group-title="USA",USA | Root Sports Northwest
+#EXTINF:-1 tvg-id="rootsportsnorthwest.us" tvg-name="USA | Root Sports Northwest" tvg-logo="https://i.imgur.com/233Ekpx.png" USA",USA | Root Sports Northwest
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1613
-#EXTINF:-1 tvg-id="screenpix.us" tvg-name="USA | ScreenPix" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/screenpix/providers/provider_screenpix_1631814769475_Channel_LogosLogo_White_195x111.png" group-title="USA",USA | ScreenPix
+#EXTINF:-1 tvg-id="screenpix.us" tvg-name="USA | ScreenPix" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/screenpix/providers/provider_screenpix_1631814769475_Channel_LogosLogo_White_195x111.png" USA",USA | ScreenPix
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45845
-#EXTINF:-1 tvg-id="screenpixaction.us" tvg-name="USA | ScreenPix Action" tvg-logo="https://i.ibb.co/ds9n9Dmx/Screen-Pix-Action.png" group-title="USA",USA | ScreenPix Action
+#EXTINF:-1 tvg-id="screenpixaction.us" tvg-name="USA | ScreenPix Action" tvg-logo="https://i.ibb.co/ds9n9Dmx/Screen-Pix-Action.png" USA",USA | ScreenPix Action
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45846
-#EXTINF:-1 tvg-id="screenpixvoices.us" tvg-name="USA | ScreenPix Voices" tvg-logo="https://i.ibb.co/RTXVC611/Screen-Pix-Voices-2019.png" group-title="USA",USA | ScreenPix Voices
+#EXTINF:-1 tvg-id="screenpixvoices.us" tvg-name="USA | ScreenPix Voices" tvg-logo="https://i.ibb.co/RTXVC611/Screen-Pix-Voices-2019.png" USA",USA | ScreenPix Voices
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45847
-#EXTINF:-1 tvg-id="screenpixwesterns.us" tvg-name="USA | ScreenPix Westerns" tvg-logo="https://i.ibb.co/2Yk1xSLJ/Screen-Pix-Westerns-2019.png" group-title="USA",USA | ScreenPix Westerns
+#EXTINF:-1 tvg-id="screenpixwesterns.us" tvg-name="USA | ScreenPix Westerns" tvg-logo="https://i.ibb.co/2Yk1xSLJ/Screen-Pix-Westerns-2019.png" USA",USA | ScreenPix Westerns
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45848
-#EXTINF:-1 tvg-id="scrippsnews.us" tvg-name="USA | Scripps News" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/12/sn_logo@500.png" group-title="USA",USA | Scripps News
+#EXTINF:-1 tvg-id="scrippsnews.us" tvg-name="USA | Scripps News" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/12/sn_logo@500.png" USA",USA | Scripps News
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45837
-#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="USA | Sec Network" tvg-logo="http://lonewolftvpr.com/logos/sec.png" group-title="USA",USA | Sec Network
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="USA | Sec Network" tvg-logo="http://lonewolftvpr.com/logos/sec.png" USA",USA | Sec Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/295
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="USA | Showtime" tvg-logo="http://lonewolftvpr.com/logos/showtime.png" group-title="USA",USA | Showtime
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="USA | Showtime" tvg-logo="http://lonewolftvpr.com/logos/showtime.png" USA",USA | Showtime
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/223
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="USA | Showtime 2" tvg-logo="http://lonewolftvpr.com/logos/showtime2.png" group-title="USA",USA | Showtime 2
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="USA | Showtime 2" tvg-logo="http://lonewolftvpr.com/logos/showtime2.png" USA",USA | Showtime 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/222
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="USA | Showtime Extreme" tvg-logo="http://lonewolftvpr.com/logos/showtimeextreme.png" group-title="USA",USA | Showtime Extreme
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="USA | Showtime Extreme" tvg-logo="http://lonewolftvpr.com/logos/showtimeextreme.png" USA",USA | Showtime Extreme
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/385
-#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="USA | Showtime Family Zone" tvg-logo="https://i.ibb.co/0yDyR0S/showtimefz.png" group-title="USA",USA | Showtime Family Zone
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="USA | Showtime Family Zone" tvg-logo="https://i.ibb.co/0yDyR0S/showtimefz.png" USA",USA | Showtime Family Zone
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1464
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA | Showtime Next" tvg-logo="https://i.ibb.co/4sT8KGF/showtime-next.png" group-title="USA",USA | Showtime Next
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA | Showtime Next" tvg-logo="https://i.ibb.co/4sT8KGF/showtime-next.png" USA",USA | Showtime Next
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1187
-#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="USA | Showtime Showcase" tvg-logo="https://i.ibb.co/5kZYhCh/showcase.png" group-title="USA",USA | Showtime Showcase
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="USA | Showtime Showcase" tvg-logo="https://i.ibb.co/5kZYhCh/showcase.png" USA",USA | Showtime Showcase
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1465
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="USA | Showtime Women" tvg-logo="https://i.ibb.co/y8MtR14/showtimewoman.png" group-title="USA",USA | Showtime Women
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="USA | Showtime Women" tvg-logo="https://i.ibb.co/y8MtR14/showtimewoman.png" USA",USA | Showtime Women
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1251
-#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="USA | Smithsonian Channel" tvg-logo="http://lonewolftvpr.com/logos/smithonian.png" group-title="USA",USA | Smithsonian Channel
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="USA | Smithsonian Channel" tvg-logo="http://lonewolftvpr.com/logos/smithonian.png" USA",USA | Smithsonian Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/518
-#EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="USA | SNY" tvg-logo="http://lonewolftvpr.com/logos/sny.png" group-title="USA",USA | SNY
+#EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="USA | SNY" tvg-logo="http://lonewolftvpr.com/logos/sny.png" USA",USA | SNY
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/330
-#EXTINF:-1 tvg-id="sony.us" tvg-name="USA | Sony Movies" tvg-logo="https://i.ibb.co/Wsbs8hF/sony.png" group-title="USA",USA | Sony Movies
+#EXTINF:-1 tvg-id="sony.us" tvg-name="USA | Sony Movies" tvg-logo="https://i.ibb.co/Wsbs8hF/sony.png" USA",USA | Sony Movies
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1217
-#EXTINF:-1 tvg-id="spacecityhomenetwork.us" tvg-name="USA | Space City Home Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png" group-title="USA",USA | Space City Home Network
+#EXTINF:-1 tvg-id="spacecityhomenetwork.us" tvg-name="USA | Space City Home Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Space_City_Home_Network_Logo.png" USA",USA | Space City Home Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1276
-#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="USA | Spectrum Sportsnet" tvg-logo="http://lonewolftvpr.com/logos/Spectrum.png" group-title="USA",USA | Spectrum Sportsnet
+#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="USA | Spectrum Sportsnet" tvg-logo="http://lonewolftvpr.com/logos/Spectrum.png" USA",USA | Spectrum Sportsnet
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/873
-#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="USA | Spectrum Sportsnet LA" tvg-logo="https://i.imgur.com/izru4mr.png" group-title="USA",USA | Spectrum Sportsnet LA
+#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="USA | Spectrum Sportsnet LA" tvg-logo="https://i.imgur.com/izru4mr.png" USA",USA | Spectrum Sportsnet LA
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1609
-#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA | Sportsman Channel" tvg-logo="https://i.ibb.co/xCbkT75/sportsman.png" group-title="USA",USA | Sportsman Channel
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA | Sportsman Channel" tvg-logo="https://i.ibb.co/xCbkT75/sportsman.png" USA",USA | Sportsman Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/54385
-#EXTINF:-1 tvg-id="stadium.us" tvg-name="USA | Stadium Network" tvg-logo="https://i.ibb.co/c6mSszf/stadium.png" group-title="USA",USA | Stadium Network
+#EXTINF:-1 tvg-id="stadium.us" tvg-name="USA | Stadium Network" tvg-logo="https://i.ibb.co/c6mSszf/stadium.png" USA",USA | Stadium Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1466
-#EXTINF:-1 tvg-id="starttv.us" tvg-name="USA | Start TV" tvg-logo="https://i.ibb.co/Z2BwtTp/start.png" group-title="USA",USA | Start TV
+#EXTINF:-1 tvg-id="starttv.us" tvg-name="USA | Start TV" tvg-logo="https://i.ibb.co/Z2BwtTp/start.png" USA",USA | Start TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1467
-#EXTINF:-1 tvg-id="starz.us" tvg-name="USA | Starz" tvg-logo="http://lonewolftvpr.com/logos/starz.png" group-title="USA",USA | Starz
+#EXTINF:-1 tvg-id="starz.us" tvg-name="USA | Starz" tvg-logo="http://lonewolftvpr.com/logos/starz.png" USA",USA | Starz
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/280
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="USA | Starz Cinema" tvg-logo="https://i.ibb.co/GsHHCjW/starzc.png" group-title="USA",USA | Starz Cinema
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="USA | Starz Cinema" tvg-logo="https://i.ibb.co/GsHHCjW/starzc.png" USA",USA | Starz Cinema
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1250
-#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="USA | Starz Comedy" tvg-logo="https://i.ibb.co/pbNCZVb/starzcomedy.png" group-title="USA",USA | Starz Comedy
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="USA | Starz Comedy" tvg-logo="https://i.ibb.co/pbNCZVb/starzcomedy.png" USA",USA | Starz Comedy
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1653
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA | Starz Edge" tvg-logo="http://lonewolftvpr.com/logos/starzedge.png" group-title="USA",USA | Starz Edge
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA | Starz Edge" tvg-logo="http://lonewolftvpr.com/logos/starzedge.png" USA",USA | Starz Edge
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/444
-#EXTINF:-1 tvg-id="starzencore.us" tvg-name="USA | Starz Encore" tvg-logo="https://i.ibb.co/HPkThQC/sencore.png" group-title="USA",USA | Starz Encore
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="USA | Starz Encore" tvg-logo="https://i.ibb.co/HPkThQC/sencore.png" USA",USA | Starz Encore
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1468
-#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="USA | Starz Encore Action" tvg-logo="https://i.ibb.co/xh926cm/encoreaction.png" group-title="USA",USA | Starz Encore Action
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="USA | Starz Encore Action" tvg-logo="https://i.ibb.co/xh926cm/encoreaction.png" USA",USA | Starz Encore Action
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1469
-#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="USA | Starz Encore Black" tvg-logo="https://i.ibb.co/vkSKJNv/encoreblack.png" group-title="USA",USA | Starz Encore Black
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="USA | Starz Encore Black" tvg-logo="https://i.ibb.co/vkSKJNv/encoreblack.png" USA",USA | Starz Encore Black
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1470
-#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="USA | Starz Encore Classic" tvg-logo="https://i.ibb.co/g94wPHK/encoreclassics.png" group-title="USA",USA | Starz Encore Classic
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="USA | Starz Encore Classic" tvg-logo="https://i.ibb.co/g94wPHK/encoreclassics.png" USA",USA | Starz Encore Classic
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1471
-#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="USA | Starz Encore Family" tvg-logo="https://i.ibb.co/h2nWv44/encorefamily.png" group-title="USA",USA | Starz Encore Family
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="USA | Starz Encore Family" tvg-logo="https://i.ibb.co/h2nWv44/encorefamily.png" USA",USA | Starz Encore Family
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1472
-#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="USA | Starz Encore Suspense" tvg-logo="https://i.ibb.co/K5Xv4q0/ssuspense.png" group-title="USA",USA | Starz Encore Suspense
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="USA | Starz Encore Suspense" tvg-logo="https://i.ibb.co/K5Xv4q0/ssuspense.png" USA",USA | Starz Encore Suspense
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1249
-#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="USA | Starz Encore Western" tvg-logo="http://lonewolftvpr.com/logos/westerns.png" group-title="USA",USA | Starz Encore Western
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="USA | Starz Encore Western" tvg-logo="http://lonewolftvpr.com/logos/westerns.png" USA",USA | Starz Encore Western
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/649
-#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="USA | Starz in Black" tvg-logo="http://lonewolftvpr.com/logos/starzinblack.png" group-title="USA",USA | Starz in Black
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="USA | Starz in Black" tvg-logo="http://lonewolftvpr.com/logos/starzinblack.png" USA",USA | Starz in Black
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/397
-#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="USA | Starz Kids & Family" tvg-logo="https://i.ibb.co/PMdMZbs/skf.png" group-title="USA",USA | Starz Kids & Family
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="USA | Starz Kids & Family" tvg-logo="https://i.ibb.co/PMdMZbs/skf.png" USA",USA | Starz Kids & Family
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1248
-#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="USA | Sundance" tvg-logo="http://lonewolftvpr.com/logos/sundance.png" group-title="USA",USA | Sundance
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="USA | Sundance" tvg-logo="http://lonewolftvpr.com/logos/sundance.png" USA",USA | Sundance
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/215
-#EXTINF:-1 tvg-id="syfy.us" tvg-name="USA | SyFy" tvg-logo="http://lonewolftvpr.com/logos/syfy.png" group-title="USA",USA | SyFy
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="USA | SyFy" tvg-logo="http://lonewolftvpr.com/logos/syfy.png" USA",USA | SyFy
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/214
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="USA | TBS" tvg-logo="http://lonewolftvpr.com/logos/tbs.png" group-title="USA",USA | TBS
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="USA | TBS" tvg-logo="http://lonewolftvpr.com/logos/tbs.png" USA",USA | TBS
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/213
-#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="USA | TCM" tvg-logo="http://lonewolftvpr.com/logos/tcm.png" group-title="USA",USA | TCM
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="USA | TCM" tvg-logo="http://lonewolftvpr.com/logos/tcm.png" USA",USA | TCM
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/352
-#EXTINF:-1 tvg-id="teennick.us" tvg-name="USA | TeenNick" tvg-logo="https://i.ibb.co/n87j89Q/teennick.png" group-title="USA",USA | TeenNick
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="USA | TeenNick" tvg-logo="https://i.ibb.co/n87j89Q/teennick.png" USA",USA | TeenNick
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1668
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="USA | Telemundo" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="USA | Telemundo" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/281
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Boston" tvg-logo="" group-title="Telemundo Networks",USA | Telemundo Boston
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Boston" tvg-logo="" Telemundo Networks",USA | Telemundo Boston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/84390
-#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="USA | Telemundo Chicago" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo Chicago
+#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="USA | Telemundo Chicago" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo Chicago
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/443
-#EXTINF:-1 tvg-id="telemundokxtx.us" tvg-name="USA | Telemundo Dallas" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo Dallas
+#EXTINF:-1 tvg-id="telemundokxtx.us" tvg-name="USA | Telemundo Dallas" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo Dallas
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1192
-#EXTINF:-1 tvg-id="telemundokmasld.us" tvg-name="USA | Telemundo Denver" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo Denver
+#EXTINF:-1 tvg-id="telemundokmasld.us" tvg-name="USA | Telemundo Denver" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo Denver
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/30486
-#EXTINF:-1 tvg-id="telemundokblr.us" tvg-name="USA | Telemundo Las Vegas" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo Las Vegas
+#EXTINF:-1 tvg-id="telemundokblr.us" tvg-name="USA | Telemundo Las Vegas" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo Las Vegas
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/361
-#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="USA | Telemundo Los Angeles" tvg-logo="" group-title="Telemundo Networks",USA | Telemundo Los Angeles
+#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="USA | Telemundo Los Angeles" tvg-logo="" Telemundo Networks",USA | Telemundo Los Angeles
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1656
-#EXTINF:-1 tvg-id="telemundowrdq.us" tvg-name="USA | Telemundo Miami" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo Miami
+#EXTINF:-1 tvg-id="telemundowrdq.us" tvg-name="USA | Telemundo Miami" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo Miami
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/334
-#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo NY" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo NY
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo NY" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo NY
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/37940
-#EXTINF:-1 tvg-id="telemundowrdq.us" tvg-name="USA | Telemundo Orlando" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo Orlando
+#EXTINF:-1 tvg-id="telemundowrdq.us" tvg-name="USA | Telemundo Orlando" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo Orlando
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/441
-#EXTINF:-1 tvg-id="telemundowwsi.us" tvg-name="USA | Telemundo Philladelphia" tvg-logo="" group-title="Telemundo Networks",USA | Telemundo Philladelphia
+#EXTINF:-1 tvg-id="telemundowwsi.us" tvg-name="USA | Telemundo Philladelphia" tvg-logo="" Telemundo Networks",USA | Telemundo Philladelphia
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/6898
-#EXTINF:-1 tvg-id="telemundoktaz.us" tvg-name="USA | Telemundo Phoenix" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo Phoenix
+#EXTINF:-1 tvg-id="telemundoktaz.us" tvg-name="USA | Telemundo Phoenix" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo Phoenix
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/6899
-#EXTINF:-1 tvg-id="telemundowrmd.us" tvg-name="USA | Telemundo Tampa" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo Tampa
+#EXTINF:-1 tvg-id="telemundowrmd.us" tvg-name="USA | Telemundo Tampa" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo Tampa
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/30478
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="USA | Tennis Channel" tvg-logo="http://lonewolftvpr.com/logos/tennis.png" group-title="USA",USA | Tennis Channel
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="USA | Tennis Channel" tvg-logo="http://lonewolftvpr.com/logos/tennis.png" USA",USA | Tennis Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/244
-#EXTINF:-1 tvg-id="t2.us" tvg-name="USA | Tennis Channel 2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="USA",USA | Tennis Channel 2
+#EXTINF:-1 tvg-id="t2.us" tvg-name="USA | Tennis Channel 2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" USA",USA | Tennis Channel 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/13947
-#EXTINF:-1 tvg-id="cw.us" tvg-name="USA | The CW Network" tvg-logo="http://lonewolftvpr.com/logos/cw.png" group-title="USA",USA | The CW Network
+#EXTINF:-1 tvg-id="cw.us" tvg-name="USA | The CW Network" tvg-logo="http://lonewolftvpr.com/logos/cw.png" USA",USA | The CW Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1086
-#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="USA | The Weather Channel" tvg-logo="http://lonewolftvpr.com/logos/weather.png" group-title="USA",USA | The Weather Channel
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="USA | The Weather Channel" tvg-logo="http://lonewolftvpr.com/logos/weather.png" USA",USA | The Weather Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/301
-#EXTINF:-1 tvg-id="thewordnetwork.us" tvg-name="USA | The Word Network" tvg-logo="" group-title="USA",USA | The Word Network
+#EXTINF:-1 tvg-id="thewordnetwork.us" tvg-name="USA | The Word Network" tvg-logo="" USA",USA | The Word Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/61737
-#EXTINF:-1 tvg-id="tlc.us" tvg-name="USA | TLC" tvg-logo="http://lonewolftvpr.com/logos/tlc.png" group-title="USA",USA | TLC
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="USA | TLC" tvg-logo="http://lonewolftvpr.com/logos/tlc.png" USA",USA | TLC
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/241
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="USA | TNT" tvg-logo="http://lonewolftvpr.com/logos/tnt.png" group-title="USA",USA | TNT
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="USA | TNT" tvg-logo="http://lonewolftvpr.com/logos/tnt.png" USA",USA | TNT
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/240
-#EXTINF:-1 tvg-id="travel.us" tvg-name="USA | Travel Channel" tvg-logo="http://lonewolftvpr.com/logos/travel.png" group-title="USA",USA | Travel Channel
+#EXTINF:-1 tvg-id="travel.us" tvg-name="USA | Travel Channel" tvg-logo="http://lonewolftvpr.com/logos/travel.png" USA",USA | Travel Channel
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/239
-#EXTINF:-1 tvg-id="trutv.us" tvg-name="USA | TruTV" tvg-logo="http://lonewolftvpr.com/logos/trutv.png" group-title="USA",USA | TruTV
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="USA | TruTV" tvg-logo="http://lonewolftvpr.com/logos/trutv.png" USA",USA | TruTV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/238
-#EXTINF:-1 tvg-id="" tvg-name="USA | TUDN" tvg-logo="https://i.ibb.co/GxmGLMh/tudn.png" group-title="Univision/Unimas Networks",USA | TUDN
+#EXTINF:-1 tvg-id="" tvg-name="USA | TUDN" tvg-logo="https://i.ibb.co/GxmGLMh/tudn.png" Univision/Unimas Networks",USA | TUDN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1487
-#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA | TV Land" tvg-logo="http://lonewolftvpr.com/logos/tvland.png" group-title="USA",USA | TV Land
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA | TV Land" tvg-logo="http://lonewolftvpr.com/logos/tvland.png" USA",USA | TV Land
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/300
-#EXTINF:-1 tvg-id="tvone.us" tvg-name="USA | TV One" tvg-logo="http://lonewolftvpr.com/logos/tvone.png" group-title="USA",USA | TV One
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="USA | TV One" tvg-logo="http://lonewolftvpr.com/logos/tvone.png" USA",USA | TV One
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/384
-#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Fight Pass" tvg-logo="http://lonewolftvpr.com/logos/ufcfp.png" group-title="USA",USA | UFC Fight Pass
+#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Fight Pass" tvg-logo="http://lonewolftvpr.com/logos/ufcfp.png" USA",USA | UFC Fight Pass
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/631
-#EXTINF:-1 tvg-id="" tvg-name="USA | UniMas Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/unimas.png" group-title="Univision/Unimas Networks",USA | UniMas Los Angeles
+#EXTINF:-1 tvg-id="" tvg-name="USA | UniMas Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/unimas.png" Univision/Unimas Networks",USA | UniMas Los Angeles
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1079
-#EXTINF:-1 tvg-id="univision.us" tvg-name="USA | Univision" tvg-logo="http://lonewolftvpr.com/logos/univision.png" group-title="USA",USA | Univision
+#EXTINF:-1 tvg-id="univision.us" tvg-name="USA | Univision" tvg-logo="http://lonewolftvpr.com/logos/univision.png" USA",USA | Univision
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1522
-#EXTINF:-1 tvg-id="" tvg-name="USA | Univision Philadelphia 65" tvg-logo="" group-title="Univision/Unimas Networks",USA | Univision Philadelphia 65
+#EXTINF:-1 tvg-id="" tvg-name="USA | Univision Philadelphia 65" tvg-logo="" Univision/Unimas Networks",USA | Univision Philadelphia 65
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2135
-#EXTINF:-1 tvg-id="" tvg-name="USA | Univision Houston" tvg-logo="" group-title="Univision/Unimas Networks",USA | Univision Houston
+#EXTINF:-1 tvg-id="" tvg-name="USA | Univision Houston" tvg-logo="" Univision/Unimas Networks",USA | Univision Houston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2143
-#EXTINF:-1 tvg-id="univision34kmex.us" tvg-name="USA | Univision Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/univision.png" group-title="Univision/Unimas Networks",USA | Univision Los Angeles
+#EXTINF:-1 tvg-id="univision34kmex.us" tvg-name="USA | Univision Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/univision.png" Univision/Unimas Networks",USA | Univision Los Angeles
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/14857
-#EXTINF:-1 tvg-id="uptv.us" tvg-name="USA | UP TV" tvg-logo="https://i.ibb.co/hJK29sf0/UPtv-logo.png" group-title="USA",USA | UP TV
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="USA | UP TV" tvg-logo="https://i.ibb.co/hJK29sf0/UPtv-logo.png" USA",USA | UP TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45849
-#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="http://lonewolftvpr.com/logos/usa.png" group-title="USA",USA | USA Network
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="http://lonewolftvpr.com/logos/usa.png" USA",USA | USA Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/251
-#EXTINF:-1 tvg-id="vh1.us" tvg-name="USA | VH1" tvg-logo="http://lonewolftvpr.com/logos/vh1.png" group-title="USA",USA | VH1
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="USA | VH1" tvg-logo="http://lonewolftvpr.com/logos/vh1.png" USA",USA | VH1
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/395
-#EXTINF:-1 tvg-id="vice.us" tvg-name="USA | Vice" tvg-logo="http://lonewolftvpr.com/logos/viceland.png" group-title="USA",USA | Vice
+#EXTINF:-1 tvg-id="vice.us" tvg-name="USA | Vice" tvg-logo="http://lonewolftvpr.com/logos/viceland.png" USA",USA | Vice
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/307
-#EXTINF:-1 tvg-id="vsin.us" tvg-name="USA | Vsin" tvg-logo="https://lh3.googleusercontent.com/2eW5jHuHgII-HpMD8Mopje_TiNDORL9BTAMRnrS9J1hszP5ZX43ZLX4B2yEev2-Vyn6jbT-ItJ8" group-title="USA",USA | Vsin
+#EXTINF:-1 tvg-id="vsin.us" tvg-name="USA | Vsin" tvg-logo="https://lh3.googleusercontent.com/2eW5jHuHgII-HpMD8Mopje_TiNDORL9BTAMRnrS9J1hszP5ZX43ZLX4B2yEev2-Vyn6jbT-ItJ8" USA",USA | Vsin
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45850
-#EXTINF:-1 tvg-id="wapaamerica.us" tvg-name="USA | WAPA America" tvg-logo="https://i.ibb.co/b2GnT9m/wapaamerica.png" group-title="USA",USA | WAPA America
+#EXTINF:-1 tvg-id="wapaamerica.us" tvg-name="USA | WAPA America" tvg-logo="https://i.ibb.co/b2GnT9m/wapaamerica.png" USA",USA | WAPA America
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1635
-#EXTINF:-1 tvg-id="wetv.us" tvg-name="USA | WE TV" tvg-logo="http://lonewolftvpr.com/logos/wetv.png" group-title="USA",USA | WE TV
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="USA | WE TV" tvg-logo="http://lonewolftvpr.com/logos/wetv.png" USA",USA | WE TV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/247
-#EXTINF:-1 tvg-id="" tvg-name="USA | We TV Reality" tvg-logo="https://i.ibb.co/M5kB254G/HZTz5HJ.png" group-title="USA",USA | We TV Reality
+#EXTINF:-1 tvg-id="" tvg-name="USA | We TV Reality" tvg-logo="https://i.ibb.co/M5kB254G/HZTz5HJ.png" USA",USA | We TV Reality
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45851
-#EXTINF:-1 tvg-id="weathernation.us" tvg-name="USA | Weather Nation" tvg-logo="https://i.ibb.co/KpN878cP/unnamed.png" group-title="USA",USA | Weather Nation
+#EXTINF:-1 tvg-id="weathernation.us" tvg-name="USA | Weather Nation" tvg-logo="https://i.ibb.co/KpN878cP/unnamed.png" USA",USA | Weather Nation
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45852
-#EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="USA | WGN America" tvg-logo="" group-title="USA",USA | WGN America
+#EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="USA | WGN America" tvg-logo="" USA",USA | WGN America
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/45853
-#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="USA | Willow Cricket" tvg-logo="https://i.ibb.co/Zm6346Z/WLLOW.png" group-title="USA",USA | Willow Cricket
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="USA | Willow Cricket" tvg-logo="https://i.ibb.co/Zm6346Z/WLLOW.png" USA",USA | Willow Cricket
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/54760
-#EXTINF:-1 tvg-id="willowxtra.us" tvg-name="USA | Willow Cricket Xtra" tvg-logo="https://i.ibb.co/YDjFmJm/WLXTR.png" group-title="USA",USA | Willow Cricket Xtra
+#EXTINF:-1 tvg-id="willowxtra.us" tvg-name="USA | Willow Cricket Xtra" tvg-logo="https://i.ibb.co/YDjFmJm/WLXTR.png" USA",USA | Willow Cricket Xtra
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/54761
-#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="USA | World Fishing Network" tvg-logo="http://lonewolftvpr.com/logos/wfn.png" group-title="USA",USA | World Fishing Network
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="USA | World Fishing Network" tvg-logo="http://lonewolftvpr.com/logos/wfn.png" USA",USA | World Fishing Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/382
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="USA | WWE" tvg-logo="http://lonewolftvpr.com/logos/wwe.png" group-title="USA",USA | WWE
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="USA | WWE" tvg-logo="http://lonewolftvpr.com/logos/wwe.png" USA",USA | WWE
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/398
-#EXTINF:-1 tvg-id="" tvg-name="USA | WWE Monday Night Raw (Live During Events)" tvg-logo="http://lonewolftvpr.com/logos/wwe.png" group-title="USA",USA | WWE Monday Night Raw (Live During Events)
+#EXTINF:-1 tvg-id="" tvg-name="USA | WWE Monday Night Raw (Live During Events)" tvg-logo="http://lonewolftvpr.com/logos/wwe.png" USA",USA | WWE Monday Night Raw (Live During Events)
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/80707
-#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="USA | Yes Network" tvg-logo="http://lonewolftvpr.com/logos/yes.png" group-title="USA",USA | Yes Network
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="USA | Yes Network" tvg-logo="http://lonewolftvpr.com/logos/yes.png" USA",USA | Yes Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/245
-#EXTINF:-1 tvg-id="fetv.us" tvg-name="USA | FETV" tvg-logo="" group-title="USA",USA | FETV
+#EXTINF:-1 tvg-id="fetv.us" tvg-name="USA | FETV" tvg-logo="" USA",USA | FETV
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/110998
-#EXTINF:-1 tvg-id="chsn.us" tvg-name="USA | CHSN" tvg-logo="" group-title="USA",USA | CHSN
+#EXTINF:-1 tvg-id="chsn.us" tvg-name="USA | CHSN" tvg-logo="" USA",USA | CHSN
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/117208
-#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="USA | Chicago Sports Network" tvg-logo="https://i.imgur.com/6lS0q9N.png" group-title="USA",USA | Chicago Sports Network
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="USA | Chicago Sports Network" tvg-logo="https://i.imgur.com/6lS0q9N.png" USA",USA | Chicago Sports Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/588
-#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="USA | HDNet Movies" tvg-logo="https://i.imgur.com/P8Qr6Ei.png" group-title="USA",USA | HDNet Movies
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="USA | HDNet Movies" tvg-logo="https://i.imgur.com/P8Qr6Ei.png" USA",USA | HDNet Movies
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1253
-#EXTINF:-1 tvg-id="monumentalsportsnetwork.us" tvg-name="UK | Sky Sports F1" tvg-logo="https://i.imgur.com/mw8KH8R.png" group-title="UK",UK | Sky Sports F1
+#EXTINF:-1 tvg-id="monumentalsportsnetwork.us" tvg-name="UK | Sky Sports F1" tvg-logo="https://i.imgur.com/mw8KH8R.png" UK",UK | Sky Sports F1
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/585
-#EXTINF:-1 tvg-id="ballysportsneworleans.us" tvg-name="Gulf Coast Sports & Entertainment Network" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" group-title="USA",Gulf Coast Sports & Entertainment Network
+#EXTINF:-1 tvg-id="ballysportsneworleans.us" tvg-name="Gulf Coast Sports & Entertainment Network" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" USA",Gulf Coast Sports & Entertainment Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1614
-#EXTINF:-1 tvg-id="telemundoktmd.us" tvg-name="USA | Telemundo Houston" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="Telemundo Networks",USA | Telemundo Houston
+#EXTINF:-1 tvg-id="telemundoktmd.us" tvg-name="USA | Telemundo Houston" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" Telemundo Networks",USA | Telemundo Houston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/131595
-#EXTINF:-1 tvg-id="abc7koat.us" tvg-name="USA | ABC Albuquerque 7" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Albuquerque 7
+#EXTINF:-1 tvg-id="abc7koat.us" tvg-name="USA | ABC Albuquerque 7" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Albuquerque 7
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1538
-#EXTINF:-1 tvg-id="abc7kvii.us" tvg-name="USA | ABC Amarillo" tvg-logo="" group-title="USA Local Networks",USA | ABC Amarillo
+#EXTINF:-1 tvg-id="abc7kvii.us" tvg-name="USA | ABC Amarillo" tvg-logo="" USA Local Networks",USA | ABC Amarillo
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/94586
-#EXTINF:-1 tvg-id="abcwsb.us" tvg-name="USA | ABC Atlanta 2" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Atlanta 2
+#EXTINF:-1 tvg-id="abcwsb.us" tvg-name="USA | ABC Atlanta 2" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Atlanta 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1443
-#EXTINF:-1 tvg-id="abcwcvb.us" tvg-name="USA | ABC Boston 5" tvg-logo="" group-title="USA Local Networks",USA | ABC Boston 5
+#EXTINF:-1 tvg-id="abcwcvb.us" tvg-name="USA | ABC Boston 5" tvg-logo="" USA Local Networks",USA | ABC Boston 5
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/44228
-#EXTINF:-1 tvg-id="abcwews.us" tvg-name="USA | ABC Cleveland 5" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Cleveland 5
+#EXTINF:-1 tvg-id="abcwews.us" tvg-name="USA | ABC Cleveland 5" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Cleveland 5
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/975
-#EXTINF:-1 tvg-id="abc7kmghtv.us" tvg-name="USA | ABC Denver 7" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Denver 7
+#EXTINF:-1 tvg-id="abc7kmghtv.us" tvg-name="USA | ABC Denver 7" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Denver 7
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1625
-#EXTINF:-1 tvg-id="abc30kfsn.us" tvg-name="USA | ABC Fresno 30" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Fresno 30
+#EXTINF:-1 tvg-id="abc30kfsn.us" tvg-name="USA | ABC Fresno 30" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Fresno 30
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/42657
-#EXTINF:-1 tvg-id="abc13ktrktv.us" tvg-name="USA | ABC Houston 13" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Houston 13
+#EXTINF:-1 tvg-id="abc13ktrktv.us" tvg-name="USA | ABC Houston 13" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Houston 13
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/714
-#EXTINF:-1 tvg-id="abc9kmbc.us" tvg-name="USA | ABC Kansas City" tvg-logo="" group-title="USA Local Networks",USA | ABC Kansas City
+#EXTINF:-1 tvg-id="abc9kmbc.us" tvg-name="USA | ABC Kansas City" tvg-logo="" USA Local Networks",USA | ABC Kansas City
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/115687
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC Lansing 53" tvg-logo="" group-title="USA Local Networks",USA | ABC Lansing 53
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC Lansing 53" tvg-logo="" USA Local Networks",USA | ABC Lansing 53
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/46876
-#EXTINF:-1 tvg-id="abcktnv.us" tvg-name="USA | ABC Las Vegas 13" tvg-logo="" group-title="USA Local Networks",USA | ABC Las Vegas 13
+#EXTINF:-1 tvg-id="abcktnv.us" tvg-name="USA | ABC Las Vegas 13" tvg-logo="" USA Local Networks",USA | ABC Las Vegas 13
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1657
-#EXTINF:-1 tvg-id="abc7kabctv.us" tvg-name="USA | ABC Los Angeles 7" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Los Angeles 7
+#EXTINF:-1 tvg-id="abc7kabctv.us" tvg-name="USA | ABC Los Angeles 7" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Los Angeles 7
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/715
-#EXTINF:-1 tvg-id="abc24watn.us" tvg-name="USA | ABC Memphis 24" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Memphis 24
+#EXTINF:-1 tvg-id="abc24watn.us" tvg-name="USA | ABC Memphis 24" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Memphis 24
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1523
-#EXTINF:-1 tvg-id="abc10wplg.us" tvg-name="USA | ABC Miami 10" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Miami 10
+#EXTINF:-1 tvg-id="abc10wplg.us" tvg-name="USA | ABC Miami 10" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Miami 10
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/987
-#EXTINF:-1 tvg-id="abcwisn.us" tvg-name="USA | ABC Milwaukee 12" tvg-logo="" group-title="USA Local Networks",USA | ABC Milwaukee 12
+#EXTINF:-1 tvg-id="abcwisn.us" tvg-name="USA | ABC Milwaukee 12" tvg-logo="" USA Local Networks",USA | ABC Milwaukee 12
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/30474
-#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="USA | ABC New York 7" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC New York 7
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="USA | ABC New York 7" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC New York 7
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/727
-#EXTINF:-1 tvg-id="abcwftv.us" tvg-name="USA | ABC Orlando 9" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Orlando 9
+#EXTINF:-1 tvg-id="abcwftv.us" tvg-name="USA | ABC Orlando 9" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Orlando 9
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1042
-#EXTINF:-1 tvg-id="abcwpvi.us" tvg-name="USA | ABC Philadelphia 6" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Philadelphia 6
+#EXTINF:-1 tvg-id="abcwpvi.us" tvg-name="USA | ABC Philadelphia 6" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Philadelphia 6
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/78971
-#EXTINF:-1 tvg-id="abcknvx.us" tvg-name="USA | ABC Phoenix 15" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Phoenix 15
+#EXTINF:-1 tvg-id="abcknvx.us" tvg-name="USA | ABC Phoenix 15" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Phoenix 15
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1233
-#EXTINF:-1 tvg-id="abc2katu.us" tvg-name="USA | ABC Portland 2" tvg-logo="" group-title="USA Local Networks",USA | ABC Portland 2
+#EXTINF:-1 tvg-id="abc2katu.us" tvg-name="USA | ABC Portland 2" tvg-logo="" USA Local Networks",USA | ABC Portland 2
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2160
-#EXTINF:-1 tvg-id="abckota.us" tvg-name="USA | ABC Rapid City 3" tvg-logo="" group-title="USA Local Networks",USA | ABC Rapid City 3
+#EXTINF:-1 tvg-id="abckota.us" tvg-name="USA | ABC Rapid City 3" tvg-logo="" USA Local Networks",USA | ABC Rapid City 3
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/78130
-#EXTINF:-1 tvg-id="abc13wham.us" tvg-name="USA | ABC Rochester 13" tvg-logo="" group-title="USA Local Networks",USA | ABC Rochester 13
+#EXTINF:-1 tvg-id="abc13wham.us" tvg-name="USA | ABC Rochester 13" tvg-logo="" USA Local Networks",USA | ABC Rochester 13
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2157
-#EXTINF:-1 tvg-id="abcksat.us" tvg-name="USA | ABC San Antonio 12" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC San Antonio 12
+#EXTINF:-1 tvg-id="abcksat.us" tvg-name="USA | ABC San Antonio 12" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC San Antonio 12
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1489
-#EXTINF:-1 tvg-id="abcwwsb.us" tvg-name="USA | ABC Sarasota 40" tvg-logo="" group-title="USA Local Networks",USA | ABC Sarasota 40
+#EXTINF:-1 tvg-id="abcwwsb.us" tvg-name="USA | ABC Sarasota 40" tvg-logo="" USA Local Networks",USA | ABC Sarasota 40
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/3250
-#EXTINF:-1 tvg-id="abckomo.us" tvg-name="USA | ABC Seattle 4" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Seattle 4
+#EXTINF:-1 tvg-id="abckomo.us" tvg-name="USA | ABC Seattle 4" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Seattle 4
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1254
-#EXTINF:-1 tvg-id="abc28wfts.us" tvg-name="USA | ABC Tampa Bay 28" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" group-title="USA Local Networks",USA | ABC Tampa Bay 28
+#EXTINF:-1 tvg-id="abc28wfts.us" tvg-name="USA | ABC Tampa Bay 28" tvg-logo="https://i.ibb.co/2KZYzR9/abc.png" USA Local Networks",USA | ABC Tampa Bay 28
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1032
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC Winston-Salem 45" tvg-logo="" group-title="USA Local Networks",USA | ABC Winston-Salem 45
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC Winston-Salem 45" tvg-logo="" USA Local Networks",USA | ABC Winston-Salem 45
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/84811
-#EXTINF:-1 tvg-id="cbs13krqe.us" tvg-name="USA | CBS Albuquerque (Test)" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Albuquerque (Test)
+#EXTINF:-1 tvg-id="cbs13krqe.us" tvg-name="USA | CBS Albuquerque (Test)" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Albuquerque (Test)
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1533
-#EXTINF:-1 tvg-id="cbs46wgcl.us" tvg-name="USA | CBS Atlanta" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Atlanta
+#EXTINF:-1 tvg-id="cbs46wgcl.us" tvg-name="USA | CBS Atlanta" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Atlanta
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1444
-#EXTINF:-1 tvg-id="cbs4wbz.us" tvg-name="USA | CBS Boston" tvg-logo="" group-title="USA Local Networks",USA | CBS Boston
+#EXTINF:-1 tvg-id="cbs4wbz.us" tvg-name="USA | CBS Boston" tvg-logo="" USA Local Networks",USA | CBS Boston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1852
-#EXTINF:-1 tvg-id="cbs19woio.us" tvg-name="USA | CBS Cleveland" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Cleveland
+#EXTINF:-1 tvg-id="cbs19woio.us" tvg-name="USA | CBS Cleveland" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Cleveland
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/875
-#EXTINF:-1 tvg-id="cbs21ktxa.us" tvg-name="USA | CBS Dallas" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Dallas
+#EXTINF:-1 tvg-id="cbs21ktxa.us" tvg-name="USA | CBS Dallas" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Dallas
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1644
-#EXTINF:-1 tvg-id="cbs4kcnc.us" tvg-name="USA | CBS Denver" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Denver
+#EXTINF:-1 tvg-id="cbs4kcnc.us" tvg-name="USA | CBS Denver" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Denver
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/907
-#EXTINF:-1 tvg-id="cbs62wwj.us" tvg-name="USA | CBS Detroit" tvg-logo="" group-title="USA Local Networks",USA | CBS Detroit
+#EXTINF:-1 tvg-id="cbs62wwj.us" tvg-name="USA | CBS Detroit" tvg-logo="" USA Local Networks",USA | CBS Detroit
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/95257
-#EXTINF:-1 tvg-id="cbs5wfrv.us" tvg-name="USA | CBS Green Bay " tvg-logo="" group-title="USA Local Networks",USA | CBS Green Bay 
+#EXTINF:-1 tvg-id="cbs5wfrv.us" tvg-name="USA | CBS Green Bay " tvg-logo="" USA Local Networks",USA | CBS Green Bay 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1669
-#EXTINF:-1 tvg-id="cbs11khou.us" tvg-name="USA | CBS Houston" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Houston
+#EXTINF:-1 tvg-id="cbs11khou.us" tvg-name="USA | CBS Houston" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Houston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/718
-#EXTINF:-1 tvg-id="cbs47wjax.us" tvg-name="USA | CBS Jacksonville" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Jacksonville
+#EXTINF:-1 tvg-id="cbs47wjax.us" tvg-name="USA | CBS Jacksonville" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Jacksonville
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/807
-#EXTINF:-1 tvg-id="cbs5kctv.us" tvg-name="USA | CBS Kansas City" tvg-logo="" group-title="USA Local Networks",USA | CBS Kansas City
+#EXTINF:-1 tvg-id="cbs5kctv.us" tvg-name="USA | CBS Kansas City" tvg-logo="" USA Local Networks",USA | CBS Kansas City
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/115686
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Lafayette" tvg-logo="" group-title="USA Local Networks",USA | CBS Lafayette
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Lafayette" tvg-logo="" USA Local Networks",USA | CBS Lafayette
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/4088
-#EXTINF:-1 tvg-id="cbs6wlns.us" tvg-name="USA | CBS Lansing MI" tvg-logo="" group-title="USA Local Networks",USA | CBS Lansing MI
+#EXTINF:-1 tvg-id="cbs6wlns.us" tvg-name="USA | CBS Lansing MI" tvg-logo="" USA Local Networks",USA | CBS Lansing MI
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/46875
-#EXTINF:-1 tvg-id="cbs8klas.us" tvg-name="USA | CBS Las Vegas" tvg-logo="" group-title="USA Local Networks",USA | CBS Las Vegas
+#EXTINF:-1 tvg-id="cbs8klas.us" tvg-name="USA | CBS Las Vegas" tvg-logo="" USA Local Networks",USA | CBS Las Vegas
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1651
-#EXTINF:-1 tvg-id="cbs2kcbs.us" tvg-name="USA | CBS Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Los Angeles
+#EXTINF:-1 tvg-id="cbs2kcbs.us" tvg-name="USA | CBS Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Los Angeles
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/985
-#EXTINF:-1 tvg-id="cbs2kcbs.us" tvg-name="USA | CBS Los Angeles KCBS" tvg-logo="" group-title="USA Local Networks",USA | CBS Los Angeles KCBS
+#EXTINF:-1 tvg-id="cbs2kcbs.us" tvg-name="USA | CBS Los Angeles KCBS" tvg-logo="" USA Local Networks",USA | CBS Los Angeles KCBS
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/7563
-#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-name="USA | CBS Miami" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Miami
+#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-name="USA | CBS Miami" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Miami
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/877
-#EXTINF:-1 tvg-id="cbs58wdjt.us" tvg-name="USA | CBS Milwaukee" tvg-logo="" group-title="USA Local Networks",USA | CBS Milwaukee
+#EXTINF:-1 tvg-id="cbs58wdjt.us" tvg-name="USA | CBS Milwaukee" tvg-logo="" USA Local Networks",USA | CBS Milwaukee
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/30475
-#EXTINF:-1 tvg-id="cbs4wcco.us" tvg-name="USA | CBS Minneapolis" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Minneapolis
+#EXTINF:-1 tvg-id="cbs4wcco.us" tvg-name="USA | CBS Minneapolis" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Minneapolis
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1629
-#EXTINF:-1 tvg-id="cbs4wwl.us" tvg-name="USA | CBS New Orleans" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS New Orleans
+#EXTINF:-1 tvg-id="cbs4wwl.us" tvg-name="USA | CBS New Orleans" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS New Orleans
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/995
-#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="USA | CBS New York" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS New York
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="USA | CBS New York" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS New York
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/719
-#EXTINF:-1 tvg-id="cbs6wkmg.us" tvg-name="USA | CBS Orlando" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Orlando
+#EXTINF:-1 tvg-id="cbs6wkmg.us" tvg-name="USA | CBS Orlando" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Orlando
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1041
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Philadelphia" tvg-logo="" group-title="USA Local Networks",USA | CBS Philadelphia
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Philadelphia" tvg-logo="" USA Local Networks",USA | CBS Philadelphia
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/115679
-#EXTINF:-1 tvg-id="cbs5kpho.us" tvg-name="USA | CBS Phoenix" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Phoenix
+#EXTINF:-1 tvg-id="cbs5kpho.us" tvg-name="USA | CBS Phoenix" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Phoenix
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1234
-#EXTINF:-1 tvg-id="cbs2kdka.us" tvg-name="USA | CBS Pittsburgh" tvg-logo="" group-title="USA Local Networks",USA | CBS Pittsburgh
+#EXTINF:-1 tvg-id="cbs2kdka.us" tvg-name="USA | CBS Pittsburgh" tvg-logo="" USA Local Networks",USA | CBS Pittsburgh
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/3251
-#EXTINF:-1 tvg-id="cbs13wgme.us" tvg-name="USA | CBS Portland" tvg-logo="" group-title="USA Local Networks",USA | CBS Portland
+#EXTINF:-1 tvg-id="cbs13wgme.us" tvg-name="USA | CBS Portland" tvg-logo="" USA Local Networks",USA | CBS Portland
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2161
-#EXTINF:-1 tvg-id="cbs8wroc.us" tvg-name="USA | CBS Rochester" tvg-logo="" group-title="USA Local Networks",USA | CBS Rochester
+#EXTINF:-1 tvg-id="cbs8wroc.us" tvg-name="USA | CBS Rochester" tvg-logo="" USA Local Networks",USA | CBS Rochester
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2158
-#EXTINF:-1 tvg-id="cbs5kens.us" tvg-name="USA | CBS San Antonio" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS San Antonio
+#EXTINF:-1 tvg-id="cbs5kens.us" tvg-name="USA | CBS San Antonio" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS San Antonio
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1490
-#EXTINF:-1 tvg-id="cbs7kiro.us" tvg-name="USA | CBS Seattle" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Seattle
+#EXTINF:-1 tvg-id="cbs7kiro.us" tvg-name="USA | CBS Seattle" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Seattle
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1255
-#EXTINF:-1 tvg-id="cbs5wtvh.us" tvg-name="USA | CBS Syracuse" tvg-logo="" group-title="USA Local Networks",USA | CBS Syracuse
+#EXTINF:-1 tvg-id="cbs5wtvh.us" tvg-name="USA | CBS Syracuse" tvg-logo="" USA Local Networks",USA | CBS Syracuse
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/90014
-#EXTINF:-1 tvg-id="cbs10wtsp.us" tvg-name="USA | CBS Tampa Bay" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Tampa Bay
+#EXTINF:-1 tvg-id="cbs10wtsp.us" tvg-name="USA | CBS Tampa Bay" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Tampa Bay
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1033
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 8 Greensboro NC" tvg-logo="" group-title="USA Local Networks",USA | FOX 8 Greensboro NC
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 8 Greensboro NC" tvg-logo="" USA Local Networks",USA | FOX 8 Greensboro NC
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/32092
-#EXTINF:-1 tvg-id="fox14kcit.us" tvg-name="USA | FOX Amarillo" tvg-logo="" group-title="USA Local Networks",USA | FOX Amarillo
+#EXTINF:-1 tvg-id="fox14kcit.us" tvg-name="USA | FOX Amarillo" tvg-logo="" USA Local Networks",USA | FOX Amarillo
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/94587
-#EXTINF:-1 tvg-id="foxwaga.us" tvg-name="USA | FOX Atlanta" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Atlanta
+#EXTINF:-1 tvg-id="foxwaga.us" tvg-name="USA | FOX Atlanta" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Atlanta
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1445
-#EXTINF:-1 tvg-id="fox25wfxt.us" tvg-name="USA | FOX Boston" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Boston
+#EXTINF:-1 tvg-id="fox25wfxt.us" tvg-name="USA | FOX Boston" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Boston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1612
-#EXTINF:-1 tvg-id="fox32wfld.us" tvg-name="USA | FOX Chicago" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Chicago
+#EXTINF:-1 tvg-id="fox32wfld.us" tvg-name="USA | FOX Chicago" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Chicago
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1525
-#EXTINF:-1 tvg-id="foxwjw.us" tvg-name="USA | FOX Cleveland" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Cleveland
+#EXTINF:-1 tvg-id="foxwjw.us" tvg-name="USA | FOX Cleveland" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Cleveland
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/976
-#EXTINF:-1 tvg-id="foxkdfw.us" tvg-name="USA | FOX Dallas" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Dallas
+#EXTINF:-1 tvg-id="foxkdfw.us" tvg-name="USA | FOX Dallas" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Dallas
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1645
-#EXTINF:-1 tvg-id="fox31kdvr.us" tvg-name="USA | FOX Denver" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Denver
+#EXTINF:-1 tvg-id="fox31kdvr.us" tvg-name="USA | FOX Denver" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Denver
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/908
-#EXTINF:-1 tvg-id="foxkriv.us" tvg-name="USA | FOX Houston" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Houston
+#EXTINF:-1 tvg-id="foxkriv.us" tvg-name="USA | FOX Houston" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Houston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/720
-#EXTINF:-1 tvg-id="fox30wfox.us" tvg-name="USA | FOX Jacksonville" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Jacksonville
+#EXTINF:-1 tvg-id="fox30wfox.us" tvg-name="USA | FOX Jacksonville" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Jacksonville
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/902
-#EXTINF:-1 tvg-id="fox4wdaf.us" tvg-name="USA | FOX Kansas City" tvg-logo="" group-title="USA Local Networks",USA | FOX Kansas City
+#EXTINF:-1 tvg-id="fox4wdaf.us" tvg-name="USA | FOX Kansas City" tvg-logo="" USA Local Networks",USA | FOX Kansas City
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/115684
-#EXTINF:-1 tvg-id="fox47wsym.us" tvg-name="USA | FOX Lansing MI" tvg-logo="" group-title="USA Local Networks",USA | FOX Lansing MI
+#EXTINF:-1 tvg-id="fox47wsym.us" tvg-name="USA | FOX Lansing MI" tvg-logo="" USA Local Networks",USA | FOX Lansing MI
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/46874
-#EXTINF:-1 tvg-id="fox11kttv.us" tvg-name="USA | FOX Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Los Angeles
+#EXTINF:-1 tvg-id="fox11kttv.us" tvg-name="USA | FOX Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Los Angeles
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/721
-#EXTINF:-1 tvg-id="foxwofl.us" tvg-name="USA | FOX Miami" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Miami
+#EXTINF:-1 tvg-id="foxwofl.us" tvg-name="USA | FOX Miami" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Miami
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/879
-#EXTINF:-1 tvg-id="foxwiti.us" tvg-name="USA | FOX Milwaukee" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Milwaukee
+#EXTINF:-1 tvg-id="foxwiti.us" tvg-name="USA | FOX Milwaukee" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Milwaukee
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/30476
-#EXTINF:-1 tvg-id="foxkmsp.us" tvg-name="USA | FOX Minneapolis" tvg-logo="" group-title="USA Local Networks",USA | FOX Minneapolis
+#EXTINF:-1 tvg-id="foxkmsp.us" tvg-name="USA | FOX Minneapolis" tvg-logo="" USA Local Networks",USA | FOX Minneapolis
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/95981
-#EXTINF:-1 tvg-id="foxwvue.us" tvg-name="USA | FOX New Orleans" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX New Orleans
+#EXTINF:-1 tvg-id="foxwvue.us" tvg-name="USA | FOX New Orleans" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX New Orleans
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1225
-#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="USA | FOX New York" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX New York
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="USA | FOX New York" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX New York
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/728
-#EXTINF:-1 tvg-id="foxwofl.us" tvg-name="USA | FOX Orlando" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Orlando
+#EXTINF:-1 tvg-id="foxwofl.us" tvg-name="USA | FOX Orlando" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Orlando
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1040
-#EXTINF:-1 tvg-id="foxwtxf.us" tvg-name="USA | FOX Philadelphia" tvg-logo="" group-title="USA Local Networks",USA | FOX Philadelphia
+#EXTINF:-1 tvg-id="foxwtxf.us" tvg-name="USA | FOX Philadelphia" tvg-logo="" USA Local Networks",USA | FOX Philadelphia
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/115678
-#EXTINF:-1 tvg-id="fox10ksaz.us" tvg-name="USA | FOX Phoenix" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Phoenix
+#EXTINF:-1 tvg-id="fox10ksaz.us" tvg-name="USA | FOX Phoenix" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Phoenix
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1235
-#EXTINF:-1 tvg-id="fox12kptv.us" tvg-name="USA | FOX Portland" tvg-logo="" group-title="USA Local Networks",USA | FOX Portland
+#EXTINF:-1 tvg-id="fox12kptv.us" tvg-name="USA | FOX Portland" tvg-logo="" USA Local Networks",USA | FOX Portland
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2163
-#EXTINF:-1 tvg-id="foxkabb.us" tvg-name="USA | FOX San Antonio" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX San Antonio
+#EXTINF:-1 tvg-id="foxkabb.us" tvg-name="USA | FOX San Antonio" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX San Antonio
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1491
-#EXTINF:-1 tvg-id="fox28kayu.us" tvg-name="USA | FOX Seattle" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Seattle
+#EXTINF:-1 tvg-id="fox28kayu.us" tvg-name="USA | FOX Seattle" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Seattle
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1256
-#EXTINF:-1 tvg-id="fox68wsyt.us" tvg-name="USA | FOX Syracuse" tvg-logo="" group-title="USA Local Networks",USA | FOX Syracuse
+#EXTINF:-1 tvg-id="fox68wsyt.us" tvg-name="USA | FOX Syracuse" tvg-logo="" USA Local Networks",USA | FOX Syracuse
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/90016
-#EXTINF:-1 tvg-id="foxwtvt.us" tvg-name="USA | FOX Tampa Bay" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" group-title="USA Local Networks",USA | FOX Tampa Bay
+#EXTINF:-1 tvg-id="foxwtvt.us" tvg-name="USA | FOX Tampa Bay" tvg-logo="http://lonewolftvpr.com/logos/foxmain.png" USA Local Networks",USA | FOX Tampa Bay
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1034
-#EXTINF:-1 tvg-id="nbc10wbts.us" tvg-name="USA | NBC 10 Boston" tvg-logo="https://i.imgur.com/hkNCXse.png" group-title="USA Local Networks",USA | NBC 10 Boston
+#EXTINF:-1 tvg-id="nbc10wbts.us" tvg-name="USA | NBC 10 Boston" tvg-logo="https://i.imgur.com/hkNCXse.png" USA Local Networks",USA | NBC 10 Boston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1851
-#EXTINF:-1 tvg-id="nbcwdsu.us" tvg-name="USA | NBC 6 New Orleans " tvg-logo="https://i.imgur.com/nZR6ywV.png" group-title="USA Local Networks",USA | NBC 6 New Orleans 
+#EXTINF:-1 tvg-id="nbcwdsu.us" tvg-name="USA | NBC 6 New Orleans " tvg-logo="https://i.imgur.com/nZR6ywV.png" USA Local Networks",USA | NBC 6 New Orleans 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1226
-#EXTINF:-1 tvg-id="nbc4kamr.us" tvg-name="USA | NBC Amarillo" tvg-logo="" group-title="USA Local Networks",USA | NBC Amarillo
+#EXTINF:-1 tvg-id="nbc4kamr.us" tvg-name="USA | NBC Amarillo" tvg-logo="" USA Local Networks",USA | NBC Amarillo
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/94585
-#EXTINF:-1 tvg-id="nbcwxia.us" tvg-name="USA | NBC Atlanta" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Atlanta
+#EXTINF:-1 tvg-id="nbcwxia.us" tvg-name="USA | NBC Atlanta" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Atlanta
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1446
-#EXTINF:-1 tvg-id="nbc23kveo.us" tvg-name="USA | NBC Brownsville" tvg-logo="" group-title="USA Local Networks",USA | NBC Brownsville
+#EXTINF:-1 tvg-id="nbc23kveo.us" tvg-name="USA | NBC Brownsville" tvg-logo="" USA Local Networks",USA | NBC Brownsville
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/94588
-#EXTINF:-1 tvg-id="nbc5wmaq.us" tvg-name="USA | NBC Chicago" tvg-logo="" group-title="USA Local Networks",USA | NBC Chicago
+#EXTINF:-1 tvg-id="nbc5wmaq.us" tvg-name="USA | NBC Chicago" tvg-logo="" USA Local Networks",USA | NBC Chicago
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/3253
-#EXTINF:-1 tvg-id="nbckxas.us" tvg-name="USA | NBC Dallas" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Dallas
+#EXTINF:-1 tvg-id="nbckxas.us" tvg-name="USA | NBC Dallas" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Dallas
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1646
-#EXTINF:-1 tvg-id="nbc9kusa.us" tvg-name="USA | NBC Denver" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Denver
+#EXTINF:-1 tvg-id="nbc9kusa.us" tvg-name="USA | NBC Denver" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Denver
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/897
-#EXTINF:-1 tvg-id="nbckprc.us" tvg-name="USA | NBC Houston" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Houston
+#EXTINF:-1 tvg-id="nbckprc.us" tvg-name="USA | NBC Houston" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Houston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/896
-#EXTINF:-1 tvg-id="nbcwtlv.us" tvg-name="USA | NBC Jacksonville" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Jacksonville
+#EXTINF:-1 tvg-id="nbcwtlv.us" tvg-name="USA | NBC Jacksonville" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Jacksonville
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/903
-#EXTINF:-1 tvg-id="nbc41kshb.us" tvg-name="USA | NBC Kansas City" tvg-logo="" group-title="USA Local Networks",USA | NBC Kansas City
+#EXTINF:-1 tvg-id="nbc41kshb.us" tvg-name="USA | NBC Kansas City" tvg-logo="" USA Local Networks",USA | NBC Kansas City
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/115685
-#EXTINF:-1 tvg-id="nbc46klaf.us" tvg-name="USA | NBC Lafayette" tvg-logo="" group-title="USA Local Networks",USA | NBC Lafayette
+#EXTINF:-1 tvg-id="nbc46klaf.us" tvg-name="USA | NBC Lafayette" tvg-logo="" USA Local Networks",USA | NBC Lafayette
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/91621
-#EXTINF:-1 tvg-id="nbc8wgal.us" tvg-name="USA | NBC Lancaster WGAL" tvg-logo="" group-title="USA Local Networks",USA | NBC Lancaster WGAL
+#EXTINF:-1 tvg-id="nbc8wgal.us" tvg-name="USA | NBC Lancaster WGAL" tvg-logo="" USA Local Networks",USA | NBC Lancaster WGAL
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/61080
-#EXTINF:-1 tvg-id="nbcksnv.us" tvg-name="USA | NBC Las Vegas" tvg-logo="" group-title="USA Local Networks",USA | NBC Las Vegas
+#EXTINF:-1 tvg-id="nbcksnv.us" tvg-name="USA | NBC Las Vegas" tvg-logo="" USA Local Networks",USA | NBC Las Vegas
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1652
-#EXTINF:-1 tvg-id="nbc4knbc.us" tvg-name="USA | NBC Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Los Angeles
+#EXTINF:-1 tvg-id="nbc4knbc.us" tvg-name="USA | NBC Los Angeles" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Los Angeles
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/986
-#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="USA | NBC Miami" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Miami
+#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="USA | NBC Miami" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Miami
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/876
-#EXTINF:-1 tvg-id="nbc9kwes.us" tvg-name="USA | NBC Midland " tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Midland 
+#EXTINF:-1 tvg-id="nbc9kwes.us" tvg-name="USA | NBC Midland " tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Midland 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1539
-#EXTINF:-1 tvg-id="nbcwtmj.us" tvg-name="USA | NBC Milwaukee" tvg-logo="" group-title="USA Local Networks",USA | NBC Milwaukee
+#EXTINF:-1 tvg-id="nbcwtmj.us" tvg-name="USA | NBC Milwaukee" tvg-logo="" USA Local Networks",USA | NBC Milwaukee
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/30477
-#EXTINF:-1 tvg-id="nbckare.us" tvg-name="USA | NBC Minneapolis" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Minneapolis
+#EXTINF:-1 tvg-id="nbckare.us" tvg-name="USA | NBC Minneapolis" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Minneapolis
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1630
-#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="USA | NBC New York" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC New York
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="USA | NBC New York" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC New York
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/729
-#EXTINF:-1 tvg-id="nbc10wilx.us" tvg-name="USA | NBC Onondaga WILX" tvg-logo="" group-title="USA Local Networks",USA | NBC Onondaga WILX
+#EXTINF:-1 tvg-id="nbc10wilx.us" tvg-name="USA | NBC Onondaga WILX" tvg-logo="" USA Local Networks",USA | NBC Onondaga WILX
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/46877
-#EXTINF:-1 tvg-id="nbc10wcau.us" tvg-name="USA | NBC Philadelphia 10" tvg-logo="" group-title="USA Local Networks",USA | NBC Philadelphia 10
+#EXTINF:-1 tvg-id="nbc10wcau.us" tvg-name="USA | NBC Philadelphia 10" tvg-logo="" USA Local Networks",USA | NBC Philadelphia 10
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/115677
-#EXTINF:-1 tvg-id="nbcwpxi.us" tvg-name="USA | NBC Pittsburgh" tvg-logo="" group-title="USA Local Networks",USA | NBC Pittsburgh
+#EXTINF:-1 tvg-id="nbcwpxi.us" tvg-name="USA | NBC Pittsburgh" tvg-logo="" USA Local Networks",USA | NBC Pittsburgh
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/3252
-#EXTINF:-1 tvg-id="nbcwcsh.us" tvg-name="USA | NBC Portland" tvg-logo="" group-title="USA Local Networks",USA | NBC Portland
+#EXTINF:-1 tvg-id="nbcwcsh.us" tvg-name="USA | NBC Portland" tvg-logo="" USA Local Networks",USA | NBC Portland
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2162
-#EXTINF:-1 tvg-id="nbc21knbn.us" tvg-name="USA | NBC Rapid City" tvg-logo="" group-title="USA Local Networks",USA | NBC Rapid City
+#EXTINF:-1 tvg-id="nbc21knbn.us" tvg-name="USA | NBC Rapid City" tvg-logo="" USA Local Networks",USA | NBC Rapid City
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/78131
-#EXTINF:-1 tvg-id="nbc10whec.us" tvg-name="USA | NBC Rochester" tvg-logo="" group-title="USA Local Networks",USA | NBC Rochester
+#EXTINF:-1 tvg-id="nbc10whec.us" tvg-name="USA | NBC Rochester" tvg-logo="" USA Local Networks",USA | NBC Rochester
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2159
-#EXTINF:-1 tvg-id="nbcwoai.us" tvg-name="USA | NBC San Antonio" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC San Antonio
+#EXTINF:-1 tvg-id="nbcwoai.us" tvg-name="USA | NBC San Antonio" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC San Antonio
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1492
-#EXTINF:-1 tvg-id="nbcking.us" tvg-name="USA | NBC Seattle" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Seattle
+#EXTINF:-1 tvg-id="nbcking.us" tvg-name="USA | NBC Seattle" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Seattle
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1257
-#EXTINF:-1 tvg-id="nbc3wstm.us" tvg-name="USA | NBC Syracuse" tvg-logo="" group-title="USA Local Networks",USA | NBC Syracuse
+#EXTINF:-1 tvg-id="nbc3wstm.us" tvg-name="USA | NBC Syracuse" tvg-logo="" USA Local Networks",USA | NBC Syracuse
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/90015
-#EXTINF:-1 tvg-id="nbcwfla.us" tvg-name="USA | NBC Tampa" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Tampa
+#EXTINF:-1 tvg-id="nbcwfla.us" tvg-name="USA | NBC Tampa" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Tampa
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1327
-#EXTINF:-1 tvg-id="nbc23kndo.us" tvg-name="USA | NBC Tri-Cities" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Tri-Cities
+#EXTINF:-1 tvg-id="nbc23kndo.us" tvg-name="USA | NBC Tri-Cities" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Tri-Cities
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1524
-#EXTINF:-1 tvg-id="cbs2wfmy.us" tvg-name="USA | CBS Greensboro" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" group-title="USA Local Networks",USA | CBS Greensboro
+#EXTINF:-1 tvg-id="cbs2wfmy.us" tvg-name="USA | CBS Greensboro" tvg-logo="http://lonewolftvpr.com/logos/cbsmain.png" USA Local Networks",USA | CBS Greensboro
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/131166
-#EXTINF:-1 tvg-id="nbc12wxii.us" tvg-name="USA | NBC Winston-Salem" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" group-title="USA Local Networks",USA | NBC Winston-Salem
+#EXTINF:-1 tvg-id="nbc12wxii.us" tvg-name="USA | NBC Winston-Salem" tvg-logo="http://lonewolftvpr.com/logos/nbcmain.png" USA Local Networks",USA | NBC Winston-Salem
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/131167
-#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="FanDuel Sports Network Detroit" tvg-logo="https://i.ibb.co/PjzYfnR/bsdetroit.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Detroit
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="FanDuel Sports Network Detroit" tvg-logo="https://i.ibb.co/PjzYfnR/bsdetroit.png" Fanduel Sports Networks",FanDuel Sports Network Detroit
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/317
-#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Florida
+#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="FanDuel Sports Network Florida" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" Fanduel Sports Networks",FanDuel Sports Network Florida
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1622
-#EXTINF:-1 tvg-id="ballysportsindiana.us" tvg-name="FanDuel Sports Network Indiana" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Indiana
+#EXTINF:-1 tvg-id="ballysportsindiana.us" tvg-name="FanDuel Sports Network Indiana" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" Fanduel Sports Networks",FanDuel Sports Network Indiana
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1458
-#EXTINF:-1 tvg-id="ballysportsmidwestkansascity.us" tvg-name="FanDuel Sports Network Kansas City" tvg-logo="https://i.imgur.com/ACwbG9V.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Kansas City
+#EXTINF:-1 tvg-id="ballysportsmidwestkansascity.us" tvg-name="FanDuel Sports Network Kansas City" tvg-logo="https://i.imgur.com/ACwbG9V.png" Fanduel Sports Networks",FanDuel Sports Network Kansas City
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1667
-#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="FanDuel Sports Network Midwest" tvg-logo="https://i.ibb.co/ZgGPwBD/bsmw.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Midwest
+#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="FanDuel Sports Network Midwest" tvg-logo="https://i.ibb.co/ZgGPwBD/bsmw.png" Fanduel Sports Networks",FanDuel Sports Network Midwest
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/324
-#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-name="FanDuel Sports Network North" tvg-logo="https://i.ibb.co/yVZvTWp/bsnorth.png" group-title="Fanduel Sports Networks",FanDuel Sports Network North
+#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-name="FanDuel Sports Network North" tvg-logo="https://i.ibb.co/yVZvTWp/bsnorth.png" Fanduel Sports Networks",FanDuel Sports Network North
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/320
-#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="FanDuel Sports Network Ohio" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Ohio
+#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="FanDuel Sports Network Ohio" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" Fanduel Sports Networks",FanDuel Sports Network Ohio
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1207
-#EXTINF:-1 tvg-id="ballysportsoklahoma.us" tvg-name="FanDuel Sports Network Oklahoma" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Oklahoma
+#EXTINF:-1 tvg-id="ballysportsoklahoma.us" tvg-name="FanDuel Sports Network Oklahoma" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" Fanduel Sports Networks",FanDuel Sports Network Oklahoma
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1611
-#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="Bally Sports San Diego" tvg-logo="https://i.ibb.co/k8t5Yhh/bssandiego.png" group-title="Fanduel Sports Networks",Bally Sports San Diego
+#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="Bally Sports San Diego" tvg-logo="https://i.ibb.co/k8t5Yhh/bssandiego.png" Fanduel Sports Networks",Bally Sports San Diego
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/316
-#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="FanDuel Sports Network SoCal" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" group-title="Fanduel Sports Networks",FanDuel Sports Network SoCal
+#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="FanDuel Sports Network SoCal" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" Fanduel Sports Networks",FanDuel Sports Network SoCal
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/665
-#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="FanDuel Sports Network South" tvg-logo="https://i.ibb.co/mF9q14z/bssouth.png" group-title="Fanduel Sports Networks",FanDuel Sports Network South
+#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="FanDuel Sports Network South" tvg-logo="https://i.ibb.co/mF9q14z/bssouth.png" Fanduel Sports Networks",FanDuel Sports Network South
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/319
-#EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Southeast
+#EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-name="FanDuel Sports Network Southeast" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" Fanduel Sports Networks",FanDuel Sports Network Southeast
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/872
-#EXTINF:-1 tvg-id="ballysportssoutheastgeorgia.us" tvg-name="FanDuel Sports Network Southeast Georgia" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Southeast Georgia
+#EXTINF:-1 tvg-id="ballysportssoutheastgeorgia.us" tvg-name="FanDuel Sports Network Southeast Georgia" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" Fanduel Sports Networks",FanDuel Sports Network Southeast Georgia
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1623
-#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="FanDuel Sports Network SouthWest" tvg-logo="https://i.ibb.co/9c4tpcC/bssw.png" group-title="Fanduel Sports Networks",FanDuel Sports Network SouthWest
+#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="FanDuel Sports Network SouthWest" tvg-logo="https://i.ibb.co/9c4tpcC/bssw.png" Fanduel Sports Networks",FanDuel Sports Network SouthWest
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1189
-#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://i.ibb.co/qDdFY7G/bssun.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Sun
+#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="FanDuel Sports Network Sun" tvg-logo="https://i.ibb.co/qDdFY7G/bssun.png" Fanduel Sports Networks",FanDuel Sports Network Sun
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/322
-#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="FanDuel Sports Network West" tvg-logo="https://i.imgur.com/HI9lOFU.png" group-title="Fanduel Sports Networks",FanDuel Sports Network West
+#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="FanDuel Sports Network West" tvg-logo="https://i.imgur.com/HI9lOFU.png" Fanduel Sports Networks",FanDuel Sports Network West
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1633
-#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-name="FanDuel Sports Network Wisconsin" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" group-title="Fanduel Sports Networks",FanDuel Sports Network Wisconsin
+#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-name="FanDuel Sports Network Wisconsin" tvg-logo="https://i.ibb.co/Yfh0Xbr/bs.png" Fanduel Sports Networks",FanDuel Sports Network Wisconsin
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1621
-#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="USA | NBC Sports Bay Area" tvg-logo="https://i.imgur.com/9xnnxbP.png" group-title="NBC Sports Networks",USA | NBC Sports Bay Area
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="USA | NBC Sports Bay Area" tvg-logo="https://i.imgur.com/9xnnxbP.png" NBC Sports Networks",USA | NBC Sports Bay Area
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/591
-#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="USA | NBC Sports Boston" tvg-logo="https://i.imgur.com/UtdXOPK.png" group-title="NBC Sports Networks",USA | NBC Sports Boston
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="USA | NBC Sports Boston" tvg-logo="https://i.imgur.com/UtdXOPK.png" NBC Sports Networks",USA | NBC Sports Boston
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/590
-#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="USA | NBC Sports California" tvg-logo="https://i.imgur.com/owRbKsa.png" group-title="NBC Sports Networks",USA | NBC Sports California
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="USA | NBC Sports California" tvg-logo="https://i.imgur.com/owRbKsa.png" NBC Sports Networks",USA | NBC Sports California
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/589
-#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="USA | NBC Sports Philadelphia" tvg-logo="https://i.imgur.com/qOX4D3T.png" group-title="NBC Sports Networks",USA | NBC Sports Philadelphia
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="USA | NBC Sports Philadelphia" tvg-logo="https://i.imgur.com/qOX4D3T.png" NBC Sports Networks",USA | NBC Sports Philadelphia
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/586
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Event 01 " tvg-logo="http://lonewolftvpr.com/logos/events.png" Events",Event 01 - 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/261
+#EXTINF:-1 tvg-id="" tvg-name="Event 02 - " tvg-logo="http://lonewolftvpr.com/logos/events.png" Events",Event 02 - 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/335
+#EXTINF:-1 tvg-id="" tvg-name="Event 03 - " tvg-logo="http://lonewolftvpr.com/logos/events.png" Events",Event 03 - 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/392
+#EXTINF:-1 tvg-id="" tvg-name="Event 04 - " tvg-logo="http://lonewolftvpr.com/logos/events.png" Events",Event 04 - 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/394
+#EXTINF:-1 tvg-id="" tvg-name="Event 05 -" tvg-logo="http://lonewolftvpr.com/logos/events.png" Events",Event 05 -
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/1636
