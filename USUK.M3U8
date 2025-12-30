@@ -105,6 +105,18 @@ http://cdn1host.online:2999/oirmar/2PppXlI5F8/188
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/1586
 #EXTINF:-1 tvg-id="I404.90124.schedulesdirect.org" tvg-name="CA | TSN 5" tvg-logo="https://i.imgur.com/4X18FxR.png" Canada",CA | TSN 5
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/977
+#EXTINF:-1 tvg-id="" tvg-name="MLS 01 -" tvg-logo="https://i.ibb.co/8jgGtr/mls.png" ",MLS 01 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/8185
+#EXTINF:-1 tvg-id="" tvg-name="MLS 02 -" tvg-logo="https://i.ibb.co/8jjgtr/mls.png" ",MLS 02 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/8184
+#EXTINF:-1 tvg-id="" tvg-name="MLS 03 -" tvg-logo="https://i.ibb.co/jjgGtr/mls.png" ",MLS 03 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/8183
+#EXTINF:-1 tvg-id="" tvg-name="MLS 04 -" tvg-logo="https://i.ibb.co/8jjgGtr/ml.png" ",MLS 04 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/8182
+#EXTINF:-1 tvg-id="" tvg-name="MLS 05 -" tvg-logo="https://i.ibb.co/8jjgGtr/ms.png" ",MLS 05 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/8181
+#EXTINF:-1 tvg-id="" tvg-name="MLS 06 -" tvg-logo="https://i.ibb.co/8jjgGt/mls.png" ",MLS 06 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/8180
 #EXTINF:-1 tvg-id="universalkids.us" tvg-name="USA | 3ABN Kids Network" tvg-logo="http://lonewolftvpr.com/logos/universalkids.png" USA",USA | 3ABN Kids Network
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/252
 #EXTINF:-1 tvg-id="awe.us" tvg-name="USA | A Wealth of Entertainment" tvg-logo="https://i.ibb.co/GWFFZQn/aew.png" USA",USA | A Wealth of Entertainment
@@ -237,6 +249,8 @@ http://cdn1host.online:2999/oirmar/2PppXlI5F8/173
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/103305
 #EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA | ESPN News" tvg-logo="http://lonewolftvpr.com/logos/Espnnews.png" USA",USA | ESPN News
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/134
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="USA | ESPN Deportes" tvg-logo="http://lonewolftvpr.com/logos/espndeportes.png" USA",USA | ESPN Deportes
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/528
 #EXTINF:-1 tvg-id="espnu.us" tvg-name="USA | ESPN U" tvg-logo="http://lonewolftvpr.com/logos/espnu.png" USA",USA | ESPN U
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/172
 #EXTINF:-1 tvg-id="eurochannel.us" tvg-name="USA | Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Euronews_logo.svg/2048px-Euronews_logo.svg.png" USA",USA | Euronews
