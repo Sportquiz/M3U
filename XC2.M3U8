@@ -1,0 +1,1037 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="★☆★ RAW ★☆★" tvg-chno="115" group-title="DE | RAW",★☆★ RAW ★☆★
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/867771
+#EXTINF:-1 tvg-id="ARD RAW" tvg-chno="116" group-title="DE | RAW",ARD RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126473
+#EXTINF:-1 tvg-id="ZDF RAW" tvg-chno="117" group-title="DE | RAW",ZDF RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126485
+#EXTINF:-1 tvg-id="ZDF NEO RAW" tvg-chno="118" group-title="DE | RAW",ZDF NEO RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126487
+#EXTINF:-1 tvg-id="RTL RAW" tvg-chno="120" group-title="DE | RAW",RTL RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129198
+#EXTINF:-1 tvg-id="RTL ZWEI RAW" tvg-chno="121" group-title="DE | RAW",RTL ZWEI RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126477
+#EXTINF:-1 tvg-id="SAT 1 RAW" tvg-chno="122" group-title="DE | RAW",SAT 1 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126457
+#EXTINF:-1 tvg-id="SAT 1 GOLD RAW" tvg-chno="123" group-title="DE | RAW",SAT 1 GOLD RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126456
+#EXTINF:-1 tvg-id="PROSIEBEN SAT 1 UHD RAW" tvg-chno="124" group-title="DE | RAW",PROSIEBEN SAT 1 UHD RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/182904
+#EXTINF:-1 tvg-id="PROSIEBEN RAW" tvg-chno="125" group-title="DE | RAW",PROSIEBEN RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126455
+#EXTINF:-1 tvg-id="PROSIEBEN MAXX RAW" tvg-chno="126" group-title="DE | RAW",PROSIEBEN MAXX RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126454
+#EXTINF:-1 tvg-id="PROSIEBEN FUN RAW" tvg-chno="127" group-title="DE | RAW",PROSIEBEN FUN RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160902
+#EXTINF:-1 tvg-id="VOX RAW" tvg-chno="128" group-title="DE | RAW",VOX RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126484
+#EXTINF:-1 tvg-id="VOX UP RAW" tvg-chno="129" group-title="DE | RAW",VOX UP RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160903
+#EXTINF:-1 tvg-id="KABEL EINS RAW" tvg-chno="130" group-title="DE | RAW",KABEL EINS RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126472
+#EXTINF:-1 tvg-id="KABEL EINS DOKU RAW" tvg-chno="131" group-title="DE | RAW",KABEL EINS DOKU RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129768
+#EXTINF:-1 tvg-id="NITRO RAW" tvg-chno="132" group-title="DE | RAW",NITRO RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126475
+#EXTINF:-1 tvg-id="SIXX RAW" tvg-chno="133" group-title="DE | RAW",SIXX RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126458
+#EXTINF:-1 tvg-id="ORF 1 RAW" tvg-chno="134" group-title="DE | RAW",ORF 1 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126453
+#EXTINF:-1 tvg-id="ORF 2 RAW" tvg-chno="135" group-title="DE | RAW",ORF 2 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126493
+#EXTINF:-1 tvg-id="N-TV RAW" tvg-chno="136" group-title="DE | RAW",N-TV RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126486
+#EXTINF:-1 tvg-id="WELT RAW" tvg-chno="137" group-title="DE | RAW",WELT RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160908
+#EXTINF:-1 tvg-id="TLC RAW" tvg-chno="138" group-title="DE | RAW",TLC RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160910
+#EXTINF:-1 tvg-id="TELE 5 RAW" tvg-chno="139" group-title="DE | RAW",TELE 5 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160911
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC RAW" tvg-chno="140" group-title="DE | RAW",NATIONAL GEOGRAPHIC RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129764
+#EXTINF:-1 tvg-id="NAT GEO WILD RAW" tvg-chno="141" group-title="DE | RAW",NAT GEO WILD RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129765
+#EXTINF:-1 tvg-id="DMAX RAW" tvg-chno="142" group-title="DE | RAW",DMAX RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129769
+#EXTINF:-1 tvg-id="DISCOVERY RAW" tvg-chno="143" group-title="DE | RAW",DISCOVERY RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129766
+#EXTINF:-1 tvg-id="HISTORY RAW" tvg-chno="144" group-title="DE | RAW",HISTORY RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129767
+#EXTINF:-1 tvg-id="COMEDY CENTRAL RAW" tvg-chno="145" group-title="DE | RAW",COMEDY CENTRAL RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160914
+#EXTINF:-1 tvg-id="★☆★ FUßBALL-ßUNDESLIGA ★☆★" tvg-chno="759" group-title="DE | FUßBALL-SPORT VIP",★☆★ FUßBALL-ßUNDESLIGA ★☆★
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183151
+#EXTINF:-1 tvg-id="DAZN BUNDESLIGA KONFERENZ" tvg-chno="760" group-title="DE | FUßBALL-ßUNDESLIGA",DAZN BUNDESLIGA KONFERENZ
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/866310
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA KONFERANZ" tvg-chno="761" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA KONFERANZ
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/699900
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA UHD" tvg-chno="762" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA UHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/708540
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA HEVC" tvg-chno="763" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/317233
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA KABEL" tvg-chno="764" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694553
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 1 KABEL" tvg-chno="765" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 1 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183080
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 1 HEVC" tvg-chno="766" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 1 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183078
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 2 KABEL" tvg-chno="767" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 2 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183084
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 2 HEVC" tvg-chno="768" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 2 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694555
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 3 KABEL" tvg-chno="769" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 3 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183086
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 3 HEVC" tvg-chno="770" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 3 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694556
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 4 KABEL" tvg-chno="771" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 4 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183090
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 4 HEVC" tvg-chno="772" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 4 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694557
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 5 KABEL" tvg-chno="773" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 5 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183093
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 5 HEVC" tvg-chno="774" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 5 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694559
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 6 KABEL" tvg-chno="775" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 6 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183097
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 7 KABEL" tvg-chno="776" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 7 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183100
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 8 KABEL" tvg-chno="777" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 8 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183103
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 9 KABEL" tvg-chno="778" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 9 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183106
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 10 KABEL" tvg-chno="779" group-title="DE | FUßBALL-SPORT VIP",FUßBALL-ßUNDESLIGA 10 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183109
+#EXTINF:-1 tvg-id="★☆★ Fußball-ßundesliga ★☆★" tvg-chno="780" group-title="DE | FUßBALL-ßUNDESLIGA",★☆★ Fußball-ßundesliga ★☆★
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160887
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA KONFERANZ" tvg-chno="781" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA KONFERANZ
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/708539
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA UHD" tvg-chno="782" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA UHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694594
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA RAW" tvg-chno="783" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694592
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA FHD" tvg-chno="784" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694591
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA HD" tvg-chno="785" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694590
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 1 RAW" tvg-chno="786" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 1 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694589
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 1 FHD" tvg-chno="787" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694588
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 1 HD" tvg-chno="788" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694587
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 2 RAW" tvg-chno="789" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 2 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694586
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 2 FHD" tvg-chno="790" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 2 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694585
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 2 HD" tvg-chno="791" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 2 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694584
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 3 RAW" tvg-chno="792" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 3 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694583
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 3 FHD" tvg-chno="793" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 3 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694582
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 3 HD" tvg-chno="794" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 3 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694581
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 4 RAW" tvg-chno="795" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 4 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694580
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 4 FHD" tvg-chno="796" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 4 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694579
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 4 HD" tvg-chno="797" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 4 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694578
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 5 RAW" tvg-chno="798" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 5 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694577
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 5 FHD" tvg-chno="799" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 5 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694576
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 5 HD" tvg-chno="800" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 5 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694575
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 6 RAW" tvg-chno="801" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 6 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694574
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 6 FHD" tvg-chno="802" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 6 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694573
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 6 HD" tvg-chno="803" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 6 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694572
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 7 RAW" tvg-chno="804" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 7 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694571
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 7 FHD" tvg-chno="805" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 7 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694570
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 7 HD" tvg-chno="806" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 7 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694569
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 8 RAW" tvg-chno="807" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 8 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694568
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 8 FHD" tvg-chno="808" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 8 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694567
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 8 HD" tvg-chno="809" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 8 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694566
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 9 RAW" tvg-chno="810" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 9 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694565
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 9 FHD" tvg-chno="811" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 9 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694564
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 9 HD" tvg-chno="812" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 9 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694563
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 10 RAW" tvg-chno="813" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 10 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694562
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 10 FHD" tvg-chno="814" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 10 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694561
+#EXTINF:-1 tvg-id="FUßBALL-ßUNDESLIGA 10 HD" tvg-chno="815" group-title="DE | FUßBALL-ßUNDESLIGA",FUßBALL-ßUNDESLIGA 10 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/694560
+#EXTINF:-1 tvg-id="★☆★ SKY SPORT ★☆★" tvg-chno="816" group-title="DE | FUßBALL-SPORT VIP",★☆★ SKY SPORT ★☆★
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183150
+#EXTINF:-1 tvg-id="SKY SPORT F1 RAW" tvg-chno="817" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT F1 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183112
+#EXTINF:-1 tvg-id="SKY SPORT F1 HEVC" tvg-chno="818" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT F1 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183113
+#EXTINF:-1 tvg-id="SKY SPORT NEWS RAW" tvg-chno="819" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT NEWS RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183114
+#EXTINF:-1 tvg-id="SKY SPORT NEWS HEVC" tvg-chno="820" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT NEWS HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183115
+#EXTINF:-1 tvg-id="SKY SPORT 1 RAW" tvg-chno="821" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT 1 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183141
+#EXTINF:-1 tvg-id="SKY SPORT 2 RAW" tvg-chno="822" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT 2 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183118
+#EXTINF:-1 tvg-id="SKY SPORT 3 RAW" tvg-chno="823" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT 3 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183120
+#EXTINF:-1 tvg-id="SKY SPORT 4 RAW" tvg-chno="824" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT 4 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183122
+#EXTINF:-1 tvg-id="SKY SPORT 5 RAW" tvg-chno="825" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT 5 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183124
+#EXTINF:-1 tvg-id="SKY SPORT 6 RAW" tvg-chno="826" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT 6 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183126
+#EXTINF:-1 tvg-id="SKY SPORT 7 RAW" tvg-chno="827" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT 7 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183128
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 1 RAW" tvg-chno="828" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT AUSTRIA 1 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183144
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 2 RAW" tvg-chno="829" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT AUSTRIA 2 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183145
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 3 RAW" tvg-chno="830" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT AUSTRIA 3 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183146
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 4 RAW" tvg-chno="831" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT AUSTRIA 4 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183147
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 5 RAW" tvg-chno="832" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT AUSTRIA 5 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183154
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 6 RAW" tvg-chno="833" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT AUSTRIA 6 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183148
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 7 RAW" tvg-chno="834" group-title="DE | FUßBALL-SPORT VIP",SKY SPORT AUSTRIA 7 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183149
+#EXTINF:-1 tvg-id="★☆★ Dazn Sport ★☆★" tvg-chno="835" group-title="DE | DAZN SPORT",★☆★ Dazn Sport ★☆★
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197298
+#EXTINF:-1 tvg-id="Dazn Sport 1 Ultra HD" tvg-chno="836" group-title="DE | DAZN SPORT",Dazn Sport 1 Ultra HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698216
+#EXTINF:-1 tvg-id="Dazn Sport 1 Quality HD" tvg-chno="837" group-title="DE | DAZN SPORT",Dazn Sport 1 Quality HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698219
+#EXTINF:-1 tvg-id="Dazn Sport 1 Raw" tvg-chno="838" group-title="DE | DAZN SPORT",Dazn Sport 1 Raw
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698218
+#EXTINF:-1 tvg-id="Dazn Sport 1 Hevc" tvg-chno="839" group-title="DE | DAZN SPORT",Dazn Sport 1 Hevc
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698225
+#EXTINF:-1 tvg-id="Dazn Sport 1 Full HD" tvg-chno="840" group-title="DE | DAZN SPORT",Dazn Sport 1 Full HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698215
+#EXTINF:-1 tvg-id="Dazn Sport 1 HD" tvg-chno="841" group-title="DE | DAZN SPORT",Dazn Sport 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698217
+#EXTINF:-1 tvg-id="Dazn Sport 1 SD" tvg-chno="842" group-title="DE | DAZN SPORT",Dazn Sport 1 SD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698226
+#EXTINF:-1 tvg-id="Dazn Sport 2 Ultra HD" tvg-chno="843" group-title="DE | DAZN SPORT",Dazn Sport 2 Ultra HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698220
+#EXTINF:-1 tvg-id="Dazn Sport 2 Quality HD" tvg-chno="844" group-title="DE | DAZN SPORT",Dazn Sport 2 Quality HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698228
+#EXTINF:-1 tvg-id="Dazn Sport 2 Raw" tvg-chno="845" group-title="DE | DAZN SPORT",Dazn Sport 2 Raw
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698222
+#EXTINF:-1 tvg-id="Dazn Sport 2 Hevc" tvg-chno="846" group-title="DE | DAZN SPORT",Dazn Sport 2 Hevc
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698221
+#EXTINF:-1 tvg-id="Dazn Sport 2 Full HD" tvg-chno="847" group-title="DE | DAZN SPORT",Dazn Sport 2 Full HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698223
+#EXTINF:-1 tvg-id="Dazn Sport 2 HD" tvg-chno="848" group-title="DE | DAZN SPORT",Dazn Sport 2 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698224
+#EXTINF:-1 tvg-id="Dazn Sport 2 SD" tvg-chno="849" group-title="DE | DAZN SPORT",Dazn Sport 2 SD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698227
+#EXTINF:-1 tvg-id="★☆★ DAZN EVENT ★☆★" tvg-chno="892" group-title="DE | DAZN EVENT",★☆★ DAZN EVENT ★☆★
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698229
+#EXTINF:-1 tvg-id="DAZN SPORTDIGITAL HD" tvg-chno="893" group-title="DE | DAZN EVENT",DAZN SPORTDIGITAL HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197303
+#EXTINF:-1 tvg-id="DAZN EUROSPORT 1 HD" tvg-chno="894" group-title="DE | DAZN EVENT",DAZN EUROSPORT 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197301
+#EXTINF:-1 tvg-id="DAZN EUROSPORT 2 HD" tvg-chno="895" group-title="DE | DAZN EVENT",DAZN EUROSPORT 2 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197302
+#EXTINF:-1 tvg-id="DAZN COMBAT FHD" tvg-chno="896" group-title="DE | DAZN EVENT",DAZN COMBAT FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/587763
+#EXTINF:-1 tvg-id="DAZN FAST FHD" tvg-chno="897" group-title="DE | DAZN EVENT",DAZN FAST FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/534027
+#EXTINF:-1 tvg-id="DAZN RISE FHD" tvg-chno="898" group-title="DE | DAZN EVENT",DAZN RISE FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/534028
+#EXTINF:-1 tvg-id="DAZN NBA FHD" tvg-chno="899" group-title="DE | DAZN EVENT",DAZN NBA FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197304
+#EXTINF:-1 tvg-id="DAZN NFL NETWORK FHD" tvg-chno="900" group-title="DE | DAZN EVENT",DAZN NFL NETWORK FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197305
+#EXTINF:-1 tvg-id="DAZN MBL HD" tvg-chno="901" group-title="DE | DAZN EVENT",DAZN MBL HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197306
+#EXTINF:-1 tvg-id="DAZN DARTS FHD" tvg-chno="902" group-title="DE | DAZN EVENT",DAZN DARTS FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/587764
+#EXTINF:-1 tvg-id="DAZN WOMEN´S FOOTBALL FHD" tvg-chno="903" group-title="DE | DAZN EVENT",DAZN WOMEN´S FOOTBALL FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/601279
+#EXTINF:-1 tvg-id="DAZN MLB FHD" tvg-chno="904" group-title="DE | DAZN EVENT",DAZN MLB FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625239
+#EXTINF:-1 tvg-id="DAZN UNBEATEN FHD" tvg-chno="905" group-title="DE | DAZN EVENT",DAZN UNBEATEN FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625238
+#EXTINF:-1 tvg-id="DAZN MOTO AMERICA FHD" tvg-chno="906" group-title="DE | DAZN EVENT",DAZN MOTO AMERICA FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625237
+#EXTINF:-1 tvg-id="DAZN ACL CORNHOLE TV FHD" tvg-chno="907" group-title="DE | DAZN EVENT",DAZN ACL CORNHOLE TV FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625236
+#EXTINF:-1 tvg-id="DAZN BOXING TV FHD" tvg-chno="908" group-title="DE | DAZN EVENT",DAZN BOXING TV FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625235
+#EXTINF:-1 tvg-id="DAZN LACROSSE TV FHD" tvg-chno="909" group-title="DE | DAZN EVENT",DAZN LACROSSE TV FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625234
+#EXTINF:-1 tvg-id="DAZN BILLIARD TV FHD" tvg-chno="910" group-title="DE | DAZN EVENT",DAZN BILLIARD TV FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625233
+#EXTINF:-1 tvg-id="DAZN PADEL TIME TV FHD" tvg-chno="911" group-title="DE | DAZN EVENT",DAZN PADEL TIME TV FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625232
+#EXTINF:-1 tvg-id="DAZN MATCHROOM BOXING FHD" tvg-chno="912" group-title="DE | DAZN EVENT",DAZN MATCHROOM BOXING FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625231
+#EXTINF:-1 tvg-id="DAZN SPORT STACK HD" tvg-chno="913" group-title="DE | DAZN EVENT",DAZN SPORT STACK HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625230
+#EXTINF:-1 tvg-id="DAZN EVENT 1 FHD" tvg-chno="914" group-title="DE | DAZN EVENT",DAZN EVENT 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197308
+#EXTINF:-1 tvg-id="DAZN EVENT 2 FHD" tvg-chno="915" group-title="DE | DAZN EVENT",DAZN EVENT 2 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197309
+#EXTINF:-1 tvg-id="DAZN EVENT 3 FHD" tvg-chno="916" group-title="DE | DAZN EVENT",DAZN EVENT 3 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197310
+#EXTINF:-1 tvg-id="DAZN EVENT 4 FHD" tvg-chno="917" group-title="DE | DAZN EVENT",DAZN EVENT 4 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197311
+#EXTINF:-1 tvg-id="DAZN EVENT 5 FHD" tvg-chno="918" group-title="DE | DAZN EVENT",DAZN EVENT 5 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197312
+#EXTINF:-1 tvg-id="DAZN EVENT 6 FHD" tvg-chno="919" group-title="DE | DAZN EVENT",DAZN EVENT 6 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197313
+#EXTINF:-1 tvg-id="DAZN EVENT 7 FHD" tvg-chno="920" group-title="DE | DAZN EVENT",DAZN EVENT 7 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197314
+#EXTINF:-1 tvg-id="DAZN EVENT 8 FHD" tvg-chno="921" group-title="DE | DAZN EVENT",DAZN EVENT 8 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197315
+#EXTINF:-1 tvg-id="DAZN EVENT 9 FHD" tvg-chno="922" group-title="DE | DAZN EVENT",DAZN EVENT 9 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197316
+#EXTINF:-1 tvg-id="DAZN EVENT 10 FHD" tvg-chno="923" group-title="DE | DAZN EVENT",DAZN EVENT 10 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197317
+#EXTINF:-1 tvg-id="DAZN EVENT 11 FHD" tvg-chno="924" group-title="DE | DAZN EVENT",DAZN EVENT 11 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197318
+#EXTINF:-1 tvg-id="DAZN EVENT 12 FHD" tvg-chno="925" group-title="DE | DAZN EVENT",DAZN EVENT 12 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197319
+#EXTINF:-1 tvg-id="DAZN EVENT 13 FHD" tvg-chno="926" group-title="DE | DAZN EVENT",DAZN EVENT 13 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197320
+#EXTINF:-1 tvg-id="DAZN EVENT 14 FHD" tvg-chno="927" group-title="DE | DAZN EVENT",DAZN EVENT 14 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197321
+#EXTINF:-1 tvg-id="DAZN EVENT 15 FHD" tvg-chno="928" group-title="DE | DAZN EVENT",DAZN EVENT 15 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197322
+#EXTINF:-1 tvg-id="DAZN EVENT 16 FHD" tvg-chno="929" group-title="DE | DAZN EVENT",DAZN EVENT 16 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197323
+#EXTINF:-1 tvg-id="DAZN EVENT 17 FHD" tvg-chno="930" group-title="DE | DAZN EVENT",DAZN EVENT 17 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/197324
+#EXTINF:-1 tvg-id="DAZN EVENT 18 FHD" tvg-chno="931" group-title="DE | DAZN EVENT",DAZN EVENT 18 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625229
+#EXTINF:-1 tvg-id="DAZN EVENT 19 FHD" tvg-chno="932" group-title="DE | DAZN EVENT",DAZN EVENT 19 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625228
+#EXTINF:-1 tvg-id="DAZN EVENT 20 FHD" tvg-chno="933" group-title="DE | DAZN EVENT",DAZN EVENT 20 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625227
+#EXTINF:-1 tvg-id="DAZN EVENT 21 FHD" tvg-chno="934" group-title="DE | DAZN EVENT",DAZN EVENT 21 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625226
+#EXTINF:-1 tvg-id="DAZN EVENT 22 FHD" tvg-chno="935" group-title="DE | DAZN EVENT",DAZN EVENT 22 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625225
+#EXTINF:-1 tvg-id="DAZN EVENT 23 FHD" tvg-chno="936" group-title="DE | DAZN EVENT",DAZN EVENT 23 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625224
+#EXTINF:-1 tvg-id="DAZN EVENT 24 FHD" tvg-chno="937" group-title="DE | DAZN EVENT",DAZN EVENT 24 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625223
+#EXTINF:-1 tvg-id="DAZN EVENT 25 FHD" tvg-chno="938" group-title="DE | DAZN EVENT",DAZN EVENT 25 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625222
+#EXTINF:-1 tvg-id="DAZN EVENT 26 FHD" tvg-chno="939" group-title="DE | DAZN EVENT",DAZN EVENT 26 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625221
+#EXTINF:-1 tvg-id="DAZN EVENT 27 FHD" tvg-chno="940" group-title="DE | DAZN EVENT",DAZN EVENT 27 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625220
+#EXTINF:-1 tvg-id="DAZN EVENT 28 FHD" tvg-chno="941" group-title="DE | DAZN EVENT",DAZN EVENT 28 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625219
+#EXTINF:-1 tvg-id="DAZN EVENT 29 FHD" tvg-chno="942" group-title="DE | DAZN EVENT",DAZN EVENT 29 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625218
+#EXTINF:-1 tvg-id="DAZN EVENT 30 FHD" tvg-chno="943" group-title="DE | DAZN EVENT",DAZN EVENT 30 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625217
+#EXTINF:-1 tvg-id="DAZN UFC 1" tvg-chno="944" group-title="DE | DAZN EVENT",DAZN UFC 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626015
+#EXTINF:-1 tvg-id="DAZN UFC 2" tvg-chno="945" group-title="DE | DAZN EVENT",DAZN UFC 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626014
+#EXTINF:-1 tvg-id="DAZN UFC 3" tvg-chno="946" group-title="DE | DAZN EVENT",DAZN UFC 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626013
+#EXTINF:-1 tvg-id="DAZN UFC 4" tvg-chno="947" group-title="DE | DAZN EVENT",DAZN UFC 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626012
+#EXTINF:-1 tvg-id="DAZN UFC 5" tvg-chno="948" group-title="DE | DAZN EVENT",DAZN UFC 5
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626011
+#EXTINF:-1 tvg-id="DAZN UFC 6" tvg-chno="949" group-title="DE | DAZN EVENT",DAZN UFC 6
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626010
+#EXTINF:-1 tvg-id="DAZN UFC 7" tvg-chno="950" group-title="DE | DAZN EVENT",DAZN UFC 7
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626009
+#EXTINF:-1 tvg-id="DAZN UFC 8" tvg-chno="951" group-title="DE | DAZN EVENT",DAZN UFC 8
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626008
+#EXTINF:-1 tvg-id="DAZN UFC 9" tvg-chno="952" group-title="DE | DAZN EVENT",DAZN UFC 9
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626007
+#EXTINF:-1 tvg-id="DAZN UFC 10" tvg-chno="953" group-title="DE | DAZN EVENT",DAZN UFC 10
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626006
+#EXTINF:-1 tvg-id="DAZN NBA 1" tvg-chno="954" group-title="DE | DAZN EVENT",DAZN NBA 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633446
+#EXTINF:-1 tvg-id="DAZN NBA 2" tvg-chno="955" group-title="DE | DAZN EVENT",DAZN NBA 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633445
+#EXTINF:-1 tvg-id="DAZN NBA 3" tvg-chno="956" group-title="DE | DAZN EVENT",DAZN NBA 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633444
+#EXTINF:-1 tvg-id="DAZN NBA 4" tvg-chno="957" group-title="DE | DAZN EVENT",DAZN NBA 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633443
+#EXTINF:-1 tvg-id="DAZN NBA 5" tvg-chno="958" group-title="DE | DAZN EVENT",DAZN NBA 5
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633442
+#EXTINF:-1 tvg-id="DAZN NBA 6" tvg-chno="959" group-title="DE | DAZN EVENT",DAZN NBA 6
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633441
+#EXTINF:-1 tvg-id="DAZN NBA 7" tvg-chno="960" group-title="DE | DAZN EVENT",DAZN NBA 7
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633440
+#EXTINF:-1 tvg-id="DAZN NBA 8" tvg-chno="961" group-title="DE | DAZN EVENT",DAZN NBA 8
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633439
+#EXTINF:-1 tvg-id="DAZN NBA 9" tvg-chno="962" group-title="DE | DAZN EVENT",DAZN NBA 9
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633438
+#EXTINF:-1 tvg-id="DAZN NBA 10" tvg-chno="963" group-title="DE | DAZN EVENT",DAZN NBA 10
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/633437
+#EXTINF:-1 tvg-id="DAZN NFL 1 FHD" tvg-chno="964" group-title="DE | DAZN EVENT",DAZN NFL 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625215
+#EXTINF:-1 tvg-id="DAZN NFL 2 FHD" tvg-chno="965" group-title="DE | DAZN EVENT",DAZN NFL 2 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625214
+#EXTINF:-1 tvg-id="DAZN NFL 3 FHD" tvg-chno="966" group-title="DE | DAZN EVENT",DAZN NFL 3 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625213
+#EXTINF:-1 tvg-id="DAZN NFL 4 FHD" tvg-chno="967" group-title="DE | DAZN EVENT",DAZN NFL 4 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625212
+#EXTINF:-1 tvg-id="DAZN NFL 5 FHD" tvg-chno="968" group-title="DE | DAZN EVENT",DAZN NFL 5 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625211
+#EXTINF:-1 tvg-id="DAZN NFL 6 FHD" tvg-chno="969" group-title="DE | DAZN EVENT",DAZN NFL 6 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625210
+#EXTINF:-1 tvg-id="DAZN NFL 7 FHD" tvg-chno="970" group-title="DE | DAZN EVENT",DAZN NFL 7 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625209
+#EXTINF:-1 tvg-id="DAZN NFL 8 FHD" tvg-chno="971" group-title="DE | DAZN EVENT",DAZN NFL 8 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625208
+#EXTINF:-1 tvg-id="DAZN NFL 9 FHD" tvg-chno="972" group-title="DE | DAZN EVENT",DAZN NFL 9 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625207
+#EXTINF:-1 tvg-id="DAZN NFL 10 FHD" tvg-chno="973" group-title="DE | DAZN EVENT",DAZN NFL 10 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625206
+#EXTINF:-1 tvg-id="DAZN NFL 11 FHD" tvg-chno="974" group-title="DE | DAZN EVENT",DAZN NFL 11 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625205
+#EXTINF:-1 tvg-id="DAZN NFL 12 FHD" tvg-chno="975" group-title="DE | DAZN EVENT",DAZN NFL 12 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625204
+#EXTINF:-1 tvg-id="DAZN NFL 13 FHD" tvg-chno="976" group-title="DE | DAZN EVENT",DAZN NFL 13 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625203
+#EXTINF:-1 tvg-id="DAZN NFL 14 FHD" tvg-chno="977" group-title="DE | DAZN EVENT",DAZN NFL 14 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625202
+#EXTINF:-1 tvg-id="DAZN NFL 14 FHD" tvg-chno="978" group-title="DE | DAZN EVENT",DAZN NFL 14 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625201
+#EXTINF:-1 tvg-id="DAZN NFL 15 FHD" tvg-chno="979" group-title="DE | DAZN EVENT",DAZN NFL 15 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/625200
+#EXTINF:-1 tvg-id="★☆★ SPORT ★☆★" tvg-chno="1032" group-title="DE | SPORT ",★☆★ SPORT ★☆★
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95859
+#EXTINF:-1 tvg-id="PRIME VIDEO SPORTSBAR 1" tvg-chno="1033" group-title="DE | SPORT ",PRIME VIDEO SPORTSBAR 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/208819
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL FHD" tvg-chno="1034" group-title="DE | SPORT ",SPORTDIGITAL FUSSBALL FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95881
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL HD" tvg-chno="1035" group-title="DE | SPORT ",SPORTDIGITAL FUSSBALL HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/131439
+#EXTINF:-1 tvg-id="SPORTDIGITAL 1+" tvg-chno="1036" group-title="DE | SPORT ",SPORTDIGITAL 1+
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/678471
+#EXTINF:-1 tvg-id="SPORTDIGITAL EDGE" tvg-chno="1037" group-title="DE | SPORT ",SPORTDIGITAL EDGE
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/678488
+#EXTINF:-1 tvg-id="PRIME VIDEO SPORTSBAR 2" tvg-chno="1038" group-title="DE | SPORT ",PRIME VIDEO SPORTSBAR 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/210527
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 1 FHD" tvg-chno="1039" group-title="DE | SPORT ",SKY SPORT AUSTRIA 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95928
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 1 HD" tvg-chno="1040" group-title="DE | SPORT ",SKY SPORT AUSTRIA 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95927
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 2 FHD" tvg-chno="1041" group-title="DE | SPORT ",SKY SPORT AUSTRIA 2 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95930
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 2 HD" tvg-chno="1042" group-title="DE | SPORT ",SKY SPORT AUSTRIA 2 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95931
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 3 FHD" tvg-chno="1043" group-title="DE | SPORT ",SKY SPORT AUSTRIA 3 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/123539
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 3 HD" tvg-chno="1044" group-title="DE | SPORT ",SKY SPORT AUSTRIA 3 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95933
+#EXTINF:-1 tvg-id="ORF SPORT+ HD" tvg-chno="1045" group-title="DE | SPORT ",ORF SPORT+ HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126476
+#EXTINF:-1 tvg-id="ORF SPORT+" tvg-chno="1046" group-title="DE | SPORT ",ORF SPORT+
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95941
+#EXTINF:-1 tvg-id="SPORT 1 HEVC" tvg-chno="1047" group-title="DE | SPORT ",SPORT 1 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160884
+#EXTINF:-1 tvg-id="SPORT 1 FHD" tvg-chno="1048" group-title="DE | SPORT ",SPORT 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160882
+#EXTINF:-1 tvg-id="SPORT 1 HD" tvg-chno="1049" group-title="DE | SPORT ",SPORT 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160883
+#EXTINF:-1 tvg-id="SPORT 1+ HEVC" tvg-chno="1050" group-title="DE | SPORT ",SPORT 1+ HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/158047
+#EXTINF:-1 tvg-id="SPORT 1+ FHD" tvg-chno="1051" group-title="DE | SPORT ",SPORT 1+ FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/140245
+#EXTINF:-1 tvg-id="SPORT 1+ HD" tvg-chno="1052" group-title="DE | SPORT ",SPORT 1+ HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95897
+#EXTINF:-1 tvg-id="DF1 FHD" tvg-chno="1053" group-title="DE | SPORT ",DF1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/676973
+#EXTINF:-1 tvg-id="DF1 HD" tvg-chno="1054" group-title="DE | SPORT ",DF1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/676974
+#EXTINF:-1 tvg-id="FC BAYERN TV" tvg-chno="1055" group-title="DE | SPORT ",FC BAYERN TV
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/684168
+#EXTINF:-1 tvg-id="CLIP MY HORSE TV" tvg-chno="1056" group-title="DE | SPORT ",CLIP MY HORSE TV
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/598764
+#EXTINF:-1 tvg-id="SERVUS TV MOTORSPORT FHD" tvg-chno="1057" group-title="DE | SPORT ",SERVUS TV MOTORSPORT FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/659930
+#EXTINF:-1 tvg-id="SERVUS TV MOTORSPORT HD" tvg-chno="1058" group-title="DE | SPORT ",SERVUS TV MOTORSPORT HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/659931
+#EXTINF:-1 tvg-id="SKY SPORT UHD" tvg-chno="1059" group-title="DE | SPORT ",SKY SPORT UHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/678470
+#EXTINF:-1 tvg-id="SKY SPORT NEWS HEVC" tvg-chno="1060" group-title="DE | SPORT ",SKY SPORT NEWS HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95902
+#EXTINF:-1 tvg-id="SKY SPORT NEWS FHD" tvg-chno="1061" group-title="DE | SPORT ",SKY SPORT NEWS FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95903
+#EXTINF:-1 tvg-id="SKY SPORT NEWS HD" tvg-chno="1062" group-title="DE | SPORT ",SKY SPORT NEWS HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95882
+#EXTINF:-1 tvg-id="SKY SPORT F1 HEVC" tvg-chno="1063" group-title="DE | SPORT ",SKY SPORT F1 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129135
+#EXTINF:-1 tvg-id="SKY SPORT F1 FHD" tvg-chno="1064" group-title="DE | SPORT ",SKY SPORT F1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129133
+#EXTINF:-1 tvg-id="SKY SPORT F1 HD" tvg-chno="1065" group-title="DE | SPORT ",SKY SPORT F1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/129134
+#EXTINF:-1 tvg-id="SKY SPORT  TOP EVENT HEVC" tvg-chno="1066" group-title="DE | SPORT ",SKY SPORT  TOP EVENT HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245374
+#EXTINF:-1 tvg-id="SKY SPORT  TOP EVENT HD" tvg-chno="1067" group-title="DE | SPORT ",SKY SPORT  TOP EVENT HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245375
+#EXTINF:-1 tvg-id="SKY SPORT PREMIER LEAGUE HEVC" tvg-chno="1068" group-title="DE | SPORT ",SKY SPORT PREMIER LEAGUE HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245380
+#EXTINF:-1 tvg-id="SKY SPORT REMIER LEAGUE HD" tvg-chno="1069" group-title="DE | SPORT ",SKY SPORT REMIER LEAGUE HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245381
+#EXTINF:-1 tvg-id="SKY SPORT GOLF HEVC" tvg-chno="1070" group-title="DE | SPORT ",SKY SPORT GOLF HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245372
+#EXTINF:-1 tvg-id="SKY SPORT GOLF HD" tvg-chno="1071" group-title="DE | SPORT ",SKY SPORT GOLF HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245373
+#EXTINF:-1 tvg-id="SKY SPORT MIX HEVC" tvg-chno="1072" group-title="DE | SPORT ",SKY SPORT MIX HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245378
+#EXTINF:-1 tvg-id="SKY SPORT MIX HD" tvg-chno="1073" group-title="DE | SPORT ",SKY SPORT MIX HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245379
+#EXTINF:-1 tvg-id="SKY SPORT TENNIS HEVC" tvg-chno="1074" group-title="DE | SPORT ",SKY SPORT TENNIS HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245376
+#EXTINF:-1 tvg-id="SKY SPORT TENNIS HD" tvg-chno="1075" group-title="DE | SPORT ",SKY SPORT TENNIS HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/245377
+#EXTINF:-1 tvg-id="SKY SPORT 1 KABEL" tvg-chno="1076" group-title="DE | SPORT ",SKY SPORT 1 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/126490
+#EXTINF:-1 tvg-id="SKY SPORT 1 HEVC" tvg-chno="1077" group-title="DE | SPORT ",SKY SPORT 1 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95895
+#EXTINF:-1 tvg-id="SKY SPORT 1 FHD" tvg-chno="1078" group-title="DE | SPORT ",SKY SPORT 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95865
+#EXTINF:-1 tvg-id="SKY SPORT 1 HD" tvg-chno="1079" group-title="DE | SPORT ",SKY SPORT 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95864
+#EXTINF:-1 tvg-id="SKY SPORT 2 KABEL" tvg-chno="1080" group-title="DE | SPORT ",SKY SPORT 2 KABEL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/160885
+#EXTINF:-1 tvg-id="SKY SPORT 2 HEVC" tvg-chno="1081" group-title="DE | SPORT ",SKY SPORT 2 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95896
+#EXTINF:-1 tvg-id="SKY SPORT 2 FHD" tvg-chno="1082" group-title="DE | SPORT ",SKY SPORT 2 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95867
+#EXTINF:-1 tvg-id="SKY SPORT 2 HD" tvg-chno="1083" group-title="DE | SPORT ",SKY SPORT 2 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95866
+#EXTINF:-1 tvg-id="SKY SPORT 3 FHD" tvg-chno="1084" group-title="DE | SPORT ",SKY SPORT 3 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95942
+#EXTINF:-1 tvg-id="SKY SPORT 3 HD" tvg-chno="1085" group-title="DE | SPORT ",SKY SPORT 3 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95943
+#EXTINF:-1 tvg-id="SKY SPORT 4 FHD" tvg-chno="1086" group-title="DE | SPORT ",SKY SPORT 4 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95944
+#EXTINF:-1 tvg-id="SKY SPORT 4 HD" tvg-chno="1087" group-title="DE | SPORT ",SKY SPORT 4 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95945
+#EXTINF:-1 tvg-id="SKY SPORT 5 FHD" tvg-chno="1088" group-title="DE | SPORT ",SKY SPORT 5 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95946
+#EXTINF:-1 tvg-id="SKY SPORT 5 HD" tvg-chno="1089" group-title="DE | SPORT ",SKY SPORT 5 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95947
+#EXTINF:-1 tvg-id="SKY SPORT 6 FHD" tvg-chno="1090" group-title="DE | SPORT ",SKY SPORT 6 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95948
+#EXTINF:-1 tvg-id="SKY SPORT 6 HD" tvg-chno="1091" group-title="DE | SPORT ",SKY SPORT 6 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95949
+#EXTINF:-1 tvg-id="SKY SPORT 7 FHD" tvg-chno="1092" group-title="DE | SPORT ",SKY SPORT 7 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95950
+#EXTINF:-1 tvg-id="SKY SPORT 7 HD" tvg-chno="1093" group-title="DE | SPORT ",SKY SPORT 7 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95962
+#EXTINF:-1 tvg-id="SKY SPORT 8 FHD" tvg-chno="1094" group-title="DE | SPORT ",SKY SPORT 8 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95952
+#EXTINF:-1 tvg-id="SKY SPORT 9 FHD" tvg-chno="1095" group-title="DE | SPORT ",SKY SPORT 9 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95954
+#EXTINF:-1 tvg-id="SKY SPORT 9 HD" tvg-chno="1096" group-title="DE | SPORT ",SKY SPORT 9 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/185818
+#EXTINF:-1 tvg-id="SKY SPORT 10 FHD" tvg-chno="1097" group-title="DE | SPORT ",SKY SPORT 10 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95956
+#EXTINF:-1 tvg-id="EUROSPORT 1 HEVC" tvg-chno="1098" group-title="DE | SPORT ",EUROSPORT 1 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95899
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD" tvg-chno="1099" group-title="DE | SPORT ",EUROSPORT 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95922
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-chno="1100" group-title="DE | SPORT ",EUROSPORT 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95877
+#EXTINF:-1 tvg-id="EUROSPORT 2 HEVC" tvg-chno="1101" group-title="DE | SPORT ",EUROSPORT 2 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95900
+#EXTINF:-1 tvg-id="EUROSPORT 2 FHD" tvg-chno="1102" group-title="DE | SPORT ",EUROSPORT 2 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95924
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-chno="1103" group-title="DE | SPORT ",EUROSPORT 2 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95878
+#EXTINF:-1 tvg-id="RED BULL TV FHD" tvg-chno="1104" group-title="DE | SPORT ",RED BULL TV FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/543988
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 4 FHD" tvg-chno="1105" group-title="DE | SPORT ",SKY SPORT AUSTRIA 4 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95934
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 4 HD" tvg-chno="1106" group-title="DE | SPORT ",SKY SPORT AUSTRIA 4 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95935
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 5 FHD" tvg-chno="1107" group-title="DE | SPORT ",SKY SPORT AUSTRIA 5 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/168561
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 5 HD" tvg-chno="1108" group-title="DE | SPORT ",SKY SPORT AUSTRIA 5 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/168562
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 6 FHD" tvg-chno="1109" group-title="DE | SPORT ",SKY SPORT AUSTRIA 6 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/168563
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 6 HD" tvg-chno="1110" group-title="DE | SPORT ",SKY SPORT AUSTRIA 6 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/168564
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 7 FHD" tvg-chno="1111" group-title="DE | SPORT ",SKY SPORT AUSTRIA 7 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/168565
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 7 HD" tvg-chno="1112" group-title="DE | SPORT ",SKY SPORT AUSTRIA 7 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/168566
+#EXTINF:-1 tvg-id="MOTORVISION TV FHD" tvg-chno="1113" group-title="DE | SPORT ",MOTORVISION TV FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/95883
+#EXTINF:-1 tvg-id="CLIP MY HORSE TV" tvg-chno="1114" group-title="DE | SPORT ",CLIP MY HORSE TV
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/678487
+#EXTINF:-1 tvg-id="ESPORTS FHD" tvg-chno="1115" group-title="DE | SPORT ",ESPORTS FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/123753
+#EXTINF:-1 tvg-id="AUTO MOTOR SPORT FHD" tvg-chno="1116" group-title="DE | SPORT ",AUTO MOTOR SPORT FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/257854
+#EXTINF:-1 tvg-id="AUTO MOTOR SPORT HD" tvg-chno="1117" group-title="DE | SPORT ",AUTO MOTOR SPORT HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/108062
+#EXTINF:-1 tvg-id="EUROSPORT360 1" tvg-chno="1118" group-title="DE | SPORT ",EUROSPORT360 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183130
+#EXTINF:-1 tvg-id="EUROSPORT360 2" tvg-chno="1119" group-title="DE | SPORT ",EUROSPORT360 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183131
+#EXTINF:-1 tvg-id="EUROSPORT360 3" tvg-chno="1120" group-title="DE | SPORT ",EUROSPORT360 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183132
+#EXTINF:-1 tvg-id="EUROSPORT360 4" tvg-chno="1121" group-title="DE | SPORT ",EUROSPORT360 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183133
+#EXTINF:-1 tvg-id="EUROSPORT360 5" tvg-chno="1122" group-title="DE | SPORT ",EUROSPORT360 5
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183134
+#EXTINF:-1 tvg-id="EUROSPORT360 6" tvg-chno="1123" group-title="DE | SPORT ",EUROSPORT360 6
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183135
+#EXTINF:-1 tvg-id="EUROSPORT360 7" tvg-chno="1124" group-title="DE | SPORT ",EUROSPORT360 7
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183136
+#EXTINF:-1 tvg-id="EUROSPORT360 8" tvg-chno="1125" group-title="DE | SPORT ",EUROSPORT360 8
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183137
+#EXTINF:-1 tvg-id="EUROSPORT360 9" tvg-chno="1126" group-title="DE | SPORT ",EUROSPORT360 9
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/183138
+#EXTINF:-1 tvg-id="★☆★ SKY SPORT ★☆★" tvg-chno="1127" group-title="DE | SKY SPORT",★☆★ SKY SPORT ★☆★
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703235
+#EXTINF:-1 tvg-id="SKY SPORT NEWS RAW" tvg-chno="1128" group-title="DE | SKY SPORT",SKY SPORT NEWS RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703276
+#EXTINF:-1 tvg-id="SKY SPORT NEWS FHD" tvg-chno="1129" group-title="DE | SKY SPORT",SKY SPORT NEWS FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703275
+#EXTINF:-1 tvg-id="SKY SPORT NEWS HD" tvg-chno="1130" group-title="DE | SKY SPORT",SKY SPORT NEWS HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703274
+#EXTINF:-1 tvg-id="SKY SPORT MIX RAW" tvg-chno="1131" group-title="DE | SKY SPORT",SKY SPORT MIX RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703273
+#EXTINF:-1 tvg-id="SKY SPORT MIX FHD" tvg-chno="1132" group-title="DE | SKY SPORT",SKY SPORT MIX FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703272
+#EXTINF:-1 tvg-id="SKY SPORT MIX HD" tvg-chno="1133" group-title="DE | SKY SPORT",SKY SPORT MIX HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703271
+#EXTINF:-1 tvg-id="SKY SPORT TOP EVENT RAW" tvg-chno="1134" group-title="DE | SKY SPORT",SKY SPORT TOP EVENT RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703270
+#EXTINF:-1 tvg-id="SKY SPORT TOP EVENT FHD" tvg-chno="1135" group-title="DE | SKY SPORT",SKY SPORT TOP EVENT FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703269
+#EXTINF:-1 tvg-id="SKY SPORT TOP EVENT HD" tvg-chno="1136" group-title="DE | SKY SPORT",SKY SPORT TOP EVENT HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703268
+#EXTINF:-1 tvg-id="SKY SPORT F1 RAW" tvg-chno="1137" group-title="DE | SKY SPORT",SKY SPORT F1 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703267
+#EXTINF:-1 tvg-id="SKY SPORT F1 FHD" tvg-chno="1138" group-title="DE | SKY SPORT",SKY SPORT F1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703266
+#EXTINF:-1 tvg-id="SKY SPORT F1 HD" tvg-chno="1139" group-title="DE | SKY SPORT",SKY SPORT F1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703265
+#EXTINF:-1 tvg-id="SKY SPORT PREMIER LEAGUE RAW" tvg-chno="1140" group-title="DE | SKY SPORT",SKY SPORT PREMIER LEAGUE RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703264
+#EXTINF:-1 tvg-id="SKY SPORT PREMIER LEAGUE FHD" tvg-chno="1141" group-title="DE | SKY SPORT",SKY SPORT PREMIER LEAGUE FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703263
+#EXTINF:-1 tvg-id="SKY SPORT PREMIER LEAGUE HD" tvg-chno="1142" group-title="DE | SKY SPORT",SKY SPORT PREMIER LEAGUE HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703262
+#EXTINF:-1 tvg-id="SKY SPORT TENNIS RAW" tvg-chno="1143" group-title="DE | SKY SPORT",SKY SPORT TENNIS RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703261
+#EXTINF:-1 tvg-id="SKY SPORT TENNIS FHD" tvg-chno="1144" group-title="DE | SKY SPORT",SKY SPORT TENNIS FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703260
+#EXTINF:-1 tvg-id="SKY SPORT TENNIS HD" tvg-chno="1145" group-title="DE | SKY SPORT",SKY SPORT TENNIS HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703259
+#EXTINF:-1 tvg-id="SKY SPORT GOLF RAW" tvg-chno="1146" group-title="DE | SKY SPORT",SKY SPORT GOLF RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703258
+#EXTINF:-1 tvg-id="SKY SPORT GOLF FHD" tvg-chno="1147" group-title="DE | SKY SPORT",SKY SPORT GOLF FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703257
+#EXTINF:-1 tvg-id="SKY SPORT GOLF HD" tvg-chno="1148" group-title="DE | SKY SPORT",SKY SPORT GOLF HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703256
+#EXTINF:-1 tvg-id="SKY SPORT 1 FHD" tvg-chno="1149" group-title="DE | SKY SPORT",SKY SPORT 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703255
+#EXTINF:-1 tvg-id="SKY SPORT 1 HD" tvg-chno="1150" group-title="DE | SKY SPORT",SKY SPORT 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703254
+#EXTINF:-1 tvg-id="SKY SPORT 2 FHD" tvg-chno="1151" group-title="DE | SKY SPORT",SKY SPORT 2 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703253
+#EXTINF:-1 tvg-id="SKY SPORT 2 HD" tvg-chno="1152" group-title="DE | SKY SPORT",SKY SPORT 2 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703252
+#EXTINF:-1 tvg-id="SKY SPORT 3 FHD" tvg-chno="1153" group-title="DE | SKY SPORT",SKY SPORT 3 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703251
+#EXTINF:-1 tvg-id="SKY SPORT 3 HD" tvg-chno="1154" group-title="DE | SKY SPORT",SKY SPORT 3 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703250
+#EXTINF:-1 tvg-id="SKY SPORT 4 FHD" tvg-chno="1155" group-title="DE | SKY SPORT",SKY SPORT 4 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703249
+#EXTINF:-1 tvg-id="SKY SPORT 4 HD" tvg-chno="1156" group-title="DE | SKY SPORT",SKY SPORT 4 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703248
+#EXTINF:-1 tvg-id="SKY SPORT 5 FHD" tvg-chno="1157" group-title="DE | SKY SPORT",SKY SPORT 5 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703247
+#EXTINF:-1 tvg-id="SKY SPORT 5 HD" tvg-chno="1158" group-title="DE | SKY SPORT",SKY SPORT 5 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703246
+#EXTINF:-1 tvg-id="SKY SPORT 6 FHD" tvg-chno="1159" group-title="DE | SKY SPORT",SKY SPORT 6 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703245
+#EXTINF:-1 tvg-id="SKY SPORT 6 HD" tvg-chno="1160" group-title="DE | SKY SPORT",SKY SPORT 6 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703244
+#EXTINF:-1 tvg-id="SKY SPORT 7 FHD" tvg-chno="1161" group-title="DE | SKY SPORT",SKY SPORT 7 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703243
+#EXTINF:-1 tvg-id="SKY SPORT  7 HD" tvg-chno="1162" group-title="DE | SKY SPORT",SKY SPORT  7 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703242
+#EXTINF:-1 tvg-id="SKY SPORT 8 FHD" tvg-chno="1163" group-title="DE | SKY SPORT",SKY SPORT 8 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703241
+#EXTINF:-1 tvg-id="SKY SPORT 8 HD" tvg-chno="1164" group-title="DE | SKY SPORT",SKY SPORT 8 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703240
+#EXTINF:-1 tvg-id="SKY SPORT 9 FHD" tvg-chno="1165" group-title="DE | SKY SPORT",SKY SPORT 9 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703239
+#EXTINF:-1 tvg-id="SKY SPORT 9 HD" tvg-chno="1166" group-title="DE | SKY SPORT",SKY SPORT 9 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703238
+#EXTINF:-1 tvg-id="SKY SPORT 10 FHD" tvg-chno="1167" group-title="DE | SKY SPORT",SKY SPORT 10 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703237
+#EXTINF:-1 tvg-id="SKY SPORT 10 HD" tvg-chno="1168" group-title="DE | SKY SPORT",SKY SPORT 10 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/703236
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 1" tvg-chno="1189" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626171
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 2" tvg-chno="1190" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626170
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 3" tvg-chno="1191" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626169
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 4" tvg-chno="1192" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626168
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 5" tvg-chno="1193" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 5
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626167
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 6" tvg-chno="1194" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 6
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626166
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 7" tvg-chno="1195" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 7
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626165
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 8" tvg-chno="1196" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 8
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626164
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 9" tvg-chno="1197" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 9
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626163
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 10" tvg-chno="1198" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 10
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626162
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 11" tvg-chno="1199" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 11
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626161
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 12" tvg-chno="1200" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 12
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626160
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 13" tvg-chno="1201" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 13
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626159
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 14" tvg-chno="1202" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 14
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626158
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 15" tvg-chno="1203" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 15
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626157
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 16" tvg-chno="1204" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 16
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626156
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 17" tvg-chno="1205" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 17
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626155
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 18" tvg-chno="1206" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 18
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626154
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 19" tvg-chno="1207" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 19
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626153
+#EXTINF:-1 tvg-id="SPORT.DEUTSCHLAND 20" tvg-chno="1208" group-title="DE | SPORT DEUTSCHLAND",SPORT.DEUTSCHLAND 20
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/626152
+#EXTINF:-1 tvg-id="★☆★ UEFA CHAMPIONS LEAGUE ★☆★" tvg-chno="1908" group-title="DE | UEFA CHAMPIONS LEAGUE",★☆★ UEFA CHAMPIONS LEAGUE ★☆★
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/310104
+#EXTINF:-1 tvg-id="AMAZON PRIME SPORT FHD" tvg-chno="1909" group-title="DE | UEFA CHAMPIONS LEAGUE",AMAZON PRIME SPORT FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698183
+#EXTINF:-1 tvg-id="AMAZON PRIME SPORT HD" tvg-chno="1910" group-title="DE | UEFA CHAMPIONS LEAGUE",AMAZON PRIME SPORT HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698184
+#EXTINF:-1 tvg-id="AMAZON PRIME SPORT RAW" tvg-chno="1911" group-title="DE | UEFA CHAMPIONS LEAGUE",AMAZON PRIME SPORT RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698185
+#EXTINF:-1 tvg-id="DAZN SPORT 1 FHD" tvg-chno="1912" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN SPORT 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698182
+#EXTINF:-1 tvg-id="DAZN SPORT 1 HD" tvg-chno="1913" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN SPORT 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698179
+#EXTINF:-1 tvg-id="DAZN SPORT 1 RAW" tvg-chno="1914" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN SPORT 1 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698181
+#EXTINF:-1 tvg-id="DAZN SPORT 1 HEVC" tvg-chno="1915" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN SPORT 1 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698180
+#EXTINF:-1 tvg-id="DAZN SPORT 2 FHD" tvg-chno="1916" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN SPORT 2 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698187
+#EXTINF:-1 tvg-id="DAZN SPORT 2 HD" tvg-chno="1917" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN SPORT 2 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698186
+#EXTINF:-1 tvg-id="DAZN SPORT 2 RAW" tvg-chno="1918" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN SPORT 2 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698189
+#EXTINF:-1 tvg-id="DAZN SPORT 2 HEVC" tvg-chno="1919" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN SPORT 2 HEVC
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698188
+#EXTINF:-1 tvg-id="CHAMPIONS LEAGUE KONFERENZ" tvg-chno="1920" group-title="DE | UEFA CHAMPIONS LEAGUE",CHAMPIONS LEAGUE KONFERENZ
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/864823
+#EXTINF:-1 tvg-id="DAZN CL EVENT 1" tvg-chno="1921" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706396
+#EXTINF:-1 tvg-id="DAZN CL EVENT 2" tvg-chno="1922" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706395
+#EXTINF:-1 tvg-id="DAZN CL EVENT 3" tvg-chno="1923" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706394
+#EXTINF:-1 tvg-id="DAZN CL EVENT 4" tvg-chno="1924" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706393
+#EXTINF:-1 tvg-id="DAZN CL EVENT 5" tvg-chno="1925" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 5
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706392
+#EXTINF:-1 tvg-id="DAZN CL EVENT 6" tvg-chno="1926" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 6
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706391
+#EXTINF:-1 tvg-id="DAZN CL EVENT 7" tvg-chno="1927" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 7
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706390
+#EXTINF:-1 tvg-id="DAZN CL EVENT 8" tvg-chno="1928" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 8
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706389
+#EXTINF:-1 tvg-id="DAZN CL EVENT 9" tvg-chno="1929" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 9
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706388
+#EXTINF:-1 tvg-id="DAZN CL EVENT 10" tvg-chno="1930" group-title="DE | UEFA CHAMPIONS LEAGUE",DAZN CL EVENT 10
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706387
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 1 FHD" tvg-chno="1931" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 1 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698192
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 1 HD" tvg-chno="1932" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 1 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698193
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 1 RAW" tvg-chno="1933" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 1 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698191
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 2 FHD" tvg-chno="1934" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 2 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698195
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 2 HD" tvg-chno="1935" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 2 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698196
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 2 RAW" tvg-chno="1936" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 2 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698194
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 3 FHD" tvg-chno="1937" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 3 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698198
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 3 HD" tvg-chno="1938" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 3 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698199
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 3 RAW" tvg-chno="1939" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 3 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698197
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 4 FHD" tvg-chno="1940" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 4 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698201
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 4 HD" tvg-chno="1941" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 4 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698202
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 4 RAW" tvg-chno="1942" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 4 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698200
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 5 FHD" tvg-chno="1943" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 5 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698204
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 6 FHD" tvg-chno="1944" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 6 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698207
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 5 HD" tvg-chno="1945" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 5 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698205
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 6 HD" tvg-chno="1946" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 6 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698208
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 5 RAW" tvg-chno="1947" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 5 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698203
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 6 RAW" tvg-chno="1948" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 6 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698206
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 7 HD" tvg-chno="1949" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 7 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698211
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 7 RAW" tvg-chno="1950" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 7 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698209
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 8 FHD" tvg-chno="1951" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 8 FHD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698213
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 8 HD" tvg-chno="1952" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 8 HD
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698214
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA 8 RAW" tvg-chno="1953" group-title="DE | UEFA CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 8 RAW
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/698212
+#EXTINF:-1 tvg-id="BLUE SPORT D1" tvg-chno="1954" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT D1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706408
+#EXTINF:-1 tvg-id="BLUE SPORT D2" tvg-chno="1955" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT D2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706407
+#EXTINF:-1 tvg-id="BLUE SPORT 1" tvg-chno="1956" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706406
+#EXTINF:-1 tvg-id="BLUE SPORT 2" tvg-chno="1957" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706405
+#EXTINF:-1 tvg-id="BLUE SPORT 3" tvg-chno="1958" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706404
+#EXTINF:-1 tvg-id="BLUE SPORT 4" tvg-chno="1959" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706403
+#EXTINF:-1 tvg-id="BLUE SPORT 5" tvg-chno="1960" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 5
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706402
+#EXTINF:-1 tvg-id="BLUE SPORT 6" tvg-chno="1961" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 6
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706401
+#EXTINF:-1 tvg-id="BLUE SPORT 7" tvg-chno="1962" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 7
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706400
+#EXTINF:-1 tvg-id="BLUE SPORT 8" tvg-chno="1963" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 8
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706399
+#EXTINF:-1 tvg-id="BLUE SPORT 9" tvg-chno="1964" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 9
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706398
+#EXTINF:-1 tvg-id="BLUE SPORT 10" tvg-chno="1965" group-title="DE | UEFA CHAMPIONS LEAGUE",BLUE SPORT 10
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/706397
+#EXTINF:-1 tvg-id="SKY SPORT NEWS" tvg-chno="1985" group-title="VIP | SPORT EU/MIX",SKY SPORT NEWS
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665139
+#EXTINF:-1 tvg-id="SKY SPORT F1" tvg-chno="1986" group-title="VIP | SPORT EU/MIX",SKY SPORT F1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665138
+#EXTINF:-1 tvg-id="DAZN 1" tvg-chno="1987" group-title="VIP | SPORT EU/MIX",DAZN 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665137
+#EXTINF:-1 tvg-id="DAZN 2" tvg-chno="1988" group-title="VIP | SPORT EU/MIX",DAZN 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665136
+#EXTINF:-1 tvg-id="SKY SPORT 1" tvg-chno="1989" group-title="VIP | SPORT EU/MIX",SKY SPORT 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665135
+#EXTINF:-1 tvg-id="SKY SPORT 2" tvg-chno="1990" group-title="VIP | SPORT EU/MIX",SKY SPORT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665134
+#EXTINF:-1 tvg-id="SKY BUNDESLIGA" tvg-chno="1991" group-title="VIP | SPORT EU/MIX",SKY BUNDESLIGA
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665133
+#EXTINF:-1 tvg-id="SKY BUNDESLIGA 1" tvg-chno="1992" group-title="VIP | SPORT EU/MIX",SKY BUNDESLIGA 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665132
+#EXTINF:-1 tvg-id="SKY BUNDESLIGA 2" tvg-chno="1993" group-title="VIP | SPORT EU/MIX",SKY BUNDESLIGA 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665131
+#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-chno="1994" group-title="VIP | SPORT EU/MIX",BEIN SPORTS 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665130
+#EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-chno="1995" group-title="VIP | SPORT EU/MIX",BEIN SPORTS 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665129
+#EXTINF:-1 tvg-id="BEIN SPORTS 3" tvg-chno="1996" group-title="VIP | SPORT EU/MIX",BEIN SPORTS 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665128
+#EXTINF:-1 tvg-id="BEIN SPORTS 4" tvg-chno="1997" group-title="VIP | SPORT EU/MIX",BEIN SPORTS 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665127
+#EXTINF:-1 tvg-id="S SPORT" tvg-chno="1998" group-title="VIP | SPORT EU/MIX",S SPORT
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665126
+#EXTINF:-1 tvg-id="S SPORT 2" tvg-chno="1999" group-title="VIP | SPORT EU/MIX",S SPORT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665125
+#EXTINF:-1 tvg-id="SPOR SMART" tvg-chno="2000" group-title="VIP | SPORT EU/MIX",SPOR SMART
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665124
+#EXTINF:-1 tvg-id="SPOR SMART 2" tvg-chno="2001" group-title="VIP | SPORT EU/MIX",SPOR SMART 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665123
+#EXTINF:-1 tvg-id="TIVIBU SPOR" tvg-chno="2002" group-title="VIP | SPORT EU/MIX",TIVIBU SPOR
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665122
+#EXTINF:-1 tvg-id="TIVIBU SPOR 1" tvg-chno="2003" group-title="VIP | SPORT EU/MIX",TIVIBU SPOR 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665121
+#EXTINF:-1 tvg-id="TIVIBU SPOR 2" tvg-chno="2004" group-title="VIP | SPORT EU/MIX",TIVIBU SPOR 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665120
+#EXTINF:-1 tvg-id="TIVIBU SPOR 3" tvg-chno="2005" group-title="VIP | SPORT EU/MIX",TIVIBU SPOR 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665119
+#EXTINF:-1 tvg-id="ESPN 1" tvg-chno="2006" group-title="VIP | SPORT EU/MIX",ESPN 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665118
+#EXTINF:-1 tvg-id="ESPN 2" tvg-chno="2007" group-title="VIP | SPORT EU/MIX",ESPN 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665117
+#EXTINF:-1 tvg-id="ESPN 3" tvg-chno="2008" group-title="VIP | SPORT EU/MIX",ESPN 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665116
+#EXTINF:-1 tvg-id="ESPN 4" tvg-chno="2009" group-title="VIP | SPORT EU/MIX",ESPN 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665115
+#EXTINF:-1 tvg-id="ZIGGO SPORT" tvg-chno="2010" group-title="VIP | SPORT EU/MIX",ZIGGO SPORT
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665114
+#EXTINF:-1 tvg-id="ZIGGO SPORT 2" tvg-chno="2011" group-title="VIP | SPORT EU/MIX",ZIGGO SPORT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665113
+#EXTINF:-1 tvg-id="ZIGGO SPORT 3" tvg-chno="2012" group-title="VIP | SPORT EU/MIX",ZIGGO SPORT 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665112
+#EXTINF:-1 tvg-id="ZIGGO SPORT 4" tvg-chno="2013" group-title="VIP | SPORT EU/MIX",ZIGGO SPORT 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665111
+#EXTINF:-1 tvg-id="ZIGGO SPORT 5" tvg-chno="2014" group-title="VIP | SPORT EU/MIX",ZIGGO SPORT 5
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665110
+#EXTINF:-1 tvg-id="ZIGGO SPORT 6" tvg-chno="2015" group-title="VIP | SPORT EU/MIX",ZIGGO SPORT 6
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665109
+#EXTINF:-1 tvg-id="RAI SPORT" tvg-chno="2016" group-title="VIP | SPORT EU/MIX",RAI SPORT
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672533
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-chno="2017" group-title="VIP | SPORT EU/MIX",EUROSPORT 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672532
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-chno="2018" group-title="VIP | SPORT EU/MIX",EUROSPORT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672531
+#EXTINF:-1 tvg-id="SKY SPORT 24" tvg-chno="2019" group-title="VIP | SPORT EU/MIX",SKY SPORT 24
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672530
+#EXTINF:-1 tvg-id="SKY SPORT F1" tvg-chno="2020" group-title="VIP | SPORT EU/MIX",SKY SPORT F1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672529
+#EXTINF:-1 tvg-id="SKY SPORT NBA" tvg-chno="2021" group-title="VIP | SPORT EU/MIX",SKY SPORT NBA
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672528
+#EXTINF:-1 tvg-id="SKY SPORT MOTOGP" tvg-chno="2022" group-title="VIP | SPORT EU/MIX",SKY SPORT MOTOGP
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672527
+#EXTINF:-1 tvg-id="SKY SPORT TENNIS" tvg-chno="2023" group-title="VIP | SPORT EU/MIX",SKY SPORT TENNIS
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672526
+#EXTINF:-1 tvg-id="SKY SPORT GOLF" tvg-chno="2024" group-title="VIP | SPORT EU/MIX",SKY SPORT GOLF
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672525
+#EXTINF:-1 tvg-id="SKY SPORT ARENA" tvg-chno="2025" group-title="VIP | SPORT EU/MIX",SKY SPORT ARENA
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672524
+#EXTINF:-1 tvg-id="SKY SPORT UNO" tvg-chno="2026" group-title="VIP | SPORT EU/MIX",SKY SPORT UNO
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672523
+#EXTINF:-1 tvg-id="SKY SPORT CALCIO" tvg-chno="2027" group-title="VIP | SPORT EU/MIX",SKY SPORT CALCIO
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672522
+#EXTINF:-1 tvg-id="SKY SPORT MAX" tvg-chno="2028" group-title="VIP | SPORT EU/MIX",SKY SPORT MAX
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672521
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-chno="2029" group-title="VIP | SPORT EU/MIX",EUROSPORT 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665108
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-chno="2030" group-title="VIP | SPORT EU/MIX",EUROSPORT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665107
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-chno="2031" group-title="VIP | SPORT EU/MIX",ELEVEN SPORTS 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665106
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-chno="2032" group-title="VIP | SPORT EU/MIX",ELEVEN SPORTS 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665105
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-chno="2033" group-title="VIP | SPORT EU/MIX",ELEVEN SPORTS 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665104
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-chno="2034" group-title="VIP | SPORT EU/MIX",ELEVEN SPORTS 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665103
+#EXTINF:-1 tvg-id="CANAL+ SPORT" tvg-chno="2035" group-title="VIP | SPORT EU/MIX",CANAL+ SPORT
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665102
+#EXTINF:-1 tvg-id="CANAL+ SPORT 2" tvg-chno="2036" group-title="VIP | SPORT EU/MIX",CANAL+ SPORT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665101
+#EXTINF:-1 tvg-id="CANAL+ SPORT 3" tvg-chno="2037" group-title="VIP | SPORT EU/MIX",CANAL+ SPORT 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665100
+#EXTINF:-1 tvg-id="CANAL+ SPORT 4" tvg-chno="2038" group-title="VIP | SPORT EU/MIX",CANAL+ SPORT 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665099
+#EXTINF:-1 tvg-id="CANAL+ SPORT 5" tvg-chno="2039" group-title="VIP | SPORT EU/MIX",CANAL+ SPORT 5
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665098
+#EXTINF:-1 tvg-id="POLSAT SPORT PREMIUM 1" tvg-chno="2040" group-title="VIP | SPORT EU/MIX",POLSAT SPORT PREMIUM 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665097
+#EXTINF:-1 tvg-id="POLSAT SPORT PREMIUM 2" tvg-chno="2041" group-title="VIP | SPORT EU/MIX",POLSAT SPORT PREMIUM 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665096
+#EXTINF:-1 tvg-id="POLSAT SPORT PREMIUM 3" tvg-chno="2042" group-title="VIP | SPORT EU/MIX",POLSAT SPORT PREMIUM 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665095
+#EXTINF:-1 tvg-id="DAZN F1" tvg-chno="2043" group-title="VIP | SPORT EU/MIX",DAZN F1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672726
+#EXTINF:-1 tvg-id="DAZN 1" tvg-chno="2044" group-title="VIP | SPORT EU/MIX",DAZN 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672725
+#EXTINF:-1 tvg-id="DAZN 2" tvg-chno="2045" group-title="VIP | SPORT EU/MIX",DAZN 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672724
+#EXTINF:-1 tvg-id="DAZN 3" tvg-chno="2046" group-title="VIP | SPORT EU/MIX",DAZN 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672723
+#EXTINF:-1 tvg-id="DAZN 4" tvg-chno="2047" group-title="VIP | SPORT EU/MIX",DAZN 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672722
+#EXTINF:-1 tvg-id="DAZN LA LIGA" tvg-chno="2048" group-title="VIP | SPORT EU/MIX",DAZN LA LIGA
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672721
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-chno="2049" group-title="VIP | SPORT EU/MIX",EUROSPORT 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672720
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-chno="2050" group-title="VIP | SPORT EU/MIX",EUROSPORT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/672719
+#EXTINF:-1 tvg-id="INFOSPORT+" tvg-chno="2051" group-title="VIP | SPORT EU/MIX",INFOSPORT+
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665094
+#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-chno="2052" group-title="VIP | SPORT EU/MIX",BEIN SPORTS 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665093
+#EXTINF:-1 tvg-id="BEIN SPORTS 2" tvg-chno="2053" group-title="VIP | SPORT EU/MIX",BEIN SPORTS 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665092
+#EXTINF:-1 tvg-id="BEIN SPORTS 3" tvg-chno="2054" group-title="VIP | SPORT EU/MIX",BEIN SPORTS 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665091
+#EXTINF:-1 tvg-id="RMC SPORT 1" tvg-chno="2055" group-title="VIP | SPORT EU/MIX",RMC SPORT 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665090
+#EXTINF:-1 tvg-id="RMC SPORT 2" tvg-chno="2056" group-title="VIP | SPORT EU/MIX",RMC SPORT 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665089
+#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-chno="2057" group-title="VIP | SPORT EU/MIX",RMC SPORT 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665088
+#EXTINF:-1 tvg-id="SKY SPORTS NEWS" tvg-chno="2058" group-title="VIP | SPORT EU/MIX",SKY SPORTS NEWS
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665087
+#EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-chno="2059" group-title="VIP | SPORT EU/MIX",SKY SPORTS F1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665086
+#EXTINF:-1 tvg-id="SKY SPORTS GOLF" tvg-chno="2060" group-title="VIP | SPORT EU/MIX",SKY SPORTS GOLF
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665085
+#EXTINF:-1 tvg-id="SKY SPORTS CRICKET" tvg-chno="2061" group-title="VIP | SPORT EU/MIX",SKY SPORTS CRICKET
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665084
+#EXTINF:-1 tvg-id="SKY SPORTS FOOTBALL" tvg-chno="2062" group-title="VIP | SPORT EU/MIX",SKY SPORTS FOOTBALL
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665083
+#EXTINF:-1 tvg-id="SKY SPORTS MAIN EVENT" tvg-chno="2063" group-title="VIP | SPORT EU/MIX",SKY SPORTS MAIN EVENT
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665082
+#EXTINF:-1 tvg-id="SKY SPORTS PREMIER LEAGUE" tvg-chno="2064" group-title="VIP | SPORT EU/MIX",SKY SPORTS PREMIER LEAGUE
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665081
+#EXTINF:-1 tvg-id="SKY SPORTS ACTION" tvg-chno="2065" group-title="VIP | SPORT EU/MIX",SKY SPORTS ACTION
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665080
+#EXTINF:-1 tvg-id="SKY SPORTS MIX" tvg-chno="2066" group-title="VIP | SPORT EU/MIX",SKY SPORTS MIX
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665079
+#EXTINF:-1 tvg-id="UFC FIGHT PAS" tvg-chno="2067" group-title="VIP | SPORT EU/MIX",UFC FIGHT PAS
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665077
+#EXTINF:-1 tvg-id="TNT SPORTS 1" tvg-chno="2068" group-title="VIP | SPORT EU/MIX",TNT SPORTS 1
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665076
+#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-chno="2069" group-title="VIP | SPORT EU/MIX",TNT SPORTS 2
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665075
+#EXTINF:-1 tvg-id="TNT SPORTS 3" tvg-chno="2070" group-title="VIP | SPORT EU/MIX",TNT SPORTS 3
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665074
+#EXTINF:-1 tvg-id="TNT SPORTS 4" tvg-chno="2071" group-title="VIP | SPORT EU/MIX",TNT SPORTS 4
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665073
+#EXTINF:-1 tvg-id="ESPN" tvg-chno="2072" group-title="VIP | SPORT EU/MIX",ESPN
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665072
+#EXTINF:-1 tvg-id="ESPN NEWS" tvg-chno="2073" group-title="VIP | SPORT EU/MIX",ESPN NEWS
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665071
+#EXTINF:-1 tvg-id="FOX SPORTS 1 (FS1)" tvg-chno="2074" group-title="VIP | SPORT EU/MIX",FOX SPORTS 1 (FS1)
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665069
+#EXTINF:-1 tvg-id="FOX SPORTS 2 (FS2)" tvg-chno="2075" group-title="VIP | SPORT EU/MIX",FOX SPORTS 2 (FS2)
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665068
+#EXTINF:-1 tvg-id="FOX SOCCER PLUS" tvg-chno="2076" group-title="VIP | SPORT EU/MIX",FOX SOCCER PLUS
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665067
+#EXTINF:-1 tvg-id="NBA TV" tvg-chno="2077" group-title="VIP | SPORT EU/MIX",NBA TV
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665066
+#EXTINF:-1 tvg-id="WWE NETWORK" tvg-chno="2078" group-title="VIP | SPORT EU/MIX",WWE NETWORK
+http://192.168.1.47:8001/play/1aebb9d0f945485da1f5698f28b65fc1/665065
