@@ -91,3 +91,14 @@ http://283.solanaflix.com/live/maloa/mNf17ErChEQ7/439231.ts
 http://283.solanaflix.com/live/maloa/mNf17ErChEQ7/96091.ts
 #EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 2 BAR HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTzh90TXocieJKYhAPUcr2oeuEV0hd0swtsLsQNC-FeQg.png" group-title=",|DE| DAZN 2 BAR HD
 http://283.solanaflix.com/live/maloa/mNf17ErChEQ7/96090.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="|DE| EUROSPORT 1 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBcTECTcps0cSnpdsFX9QMMgJzDfKpTRxi0YRccRy2lsw.png" group-title=",|DE| EUROSPORT 1 HD
+http://283.solanaflix.com/live/maloa/mNf17ErChEQ7/96019.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="|DE| EUROSPORT 1 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBcTECTcps0cSnpdsFX9QMMgJzDfKpTRxi0YRccRy2lsw.png" group-title=",|DE| EUROSPORT 1 FHD
+http://283.solanaflix.com/live/maloa/mNf17ErChEQ7/96078.ts
+#EXTINF:-1 tvg-id="EURS2HD" tvg-name="|DE| EUROSPORT 2 HD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDW7cDUNpc3cwuH2G34Yzgph3lg4xo0Z6TYx4V76LlCwg.png" group-title=",|DE| EUROSPORT 2 HD
+http://283.solanaflix.com/live/maloa/mNf17ErChEQ7/96058.ts
+#EXTINF:-1 tvg-id="ESPXTRA" tvg-name="|DE| EUROSPORT 2 XTRA" tvg-logo="" group-title=",|DE| EUROSPORT 2 XTRA 
+http://283.solanaflix.com/live/maloa/mNf17ErChEQ7/96105.ts
+#EXTINF:-1 tvg-id="ESPXTRA" tvg-name="|DE| EUROSPORT 2 XTRA HD" tvg-logo="" group-title=",|DE| EUROSPORT 2 XTRA HD
+http://283.solanaflix.com/live/maloa/mNf17ErChEQ7/96142.ts
+
