@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn1.ca" tvg-name="CA TSN 1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11182_h15_aa.png" group-title=""Canada | Sports",CA TSN 1
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3996
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn2.ca" tvg-name="CA TSN 2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18990_h15_ab.png" group-title=""Canada | Sports",CA TSN 2
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3995
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn3.ca" tvg-name="CA TSN 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90118_h15_aa.png" group-title=""Canada | Sports",CA TSN 3
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3994
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn4.ca" tvg-name="CA TSN 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" group-title=""Canada | Sports",CA TSN 4
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3993
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn5.ca" tvg-name="CA TSN 5" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90124_h15_aa.png" group-title=""Canada | Sports",CA TSN 5
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn4blackout.ca" tvg-name="CA TSN4 HD Blackout" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90122_h15_aa.png" group-title=""Canada | Sports",CA TSN4 HD Blackout
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3991
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn5blackout.ca" tvg-name="CA TSN5 Blackout" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90124_h15_aa.png" group-title=""Canada | Sports",CA TSN5 Blackout
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3990
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn5blackout.ca" tvg-name="CA TSN PLUS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90124_h15_aa.png" group-title=""Canada | Sports",CA TSN PLUS
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3989
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsnet360.ca" tvg-name="CA SPORTSNET 360" tvg-logo="https://shaw.tmsimg.com/assets/s49952_ll_h3_aa.png" group-title=""Canada | Sports",CA SPORTSNET 360
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsnet.ca" tvg-name="CA SPORTSNET EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18798_h15_aa.png" group-title=""Canada | Sports",CA SPORTSNET EAST
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3986
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsnetwest.ca" tvg-name="CA Sportsnet West" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s70398_h15_ab.png" group-title=""Canada | Sports",CA Sportsnet West
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3981
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68858_h15_aa.png" group-title=""Canada | Sports",CA Sportsnet One
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsnetontario.ca" tvg-name="CA Sportsnet Ontario" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18799_h15_aa.png" group-title=""Canada | Sports",CA Sportsnet Ontario
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3984
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsnetpacific.ca" tvg-name="CA Sportsnet Pacific" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18801_h15_aa.png" group-title=""Canada | Sports",CA Sportsnet Pacific
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3983
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsnet.ca" tvg-name="CA Sportsnet PPV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18801_h15_aa.png" group-title=""Canada | Sports",CA Sportsnet PPV
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3982
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsnetworld.ca" tvg-name="CA Sportsnet World" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s57735_h15_aa.png" group-title=""Canada | Sports",CA Sportsnet World
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/3980
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds.ca" tvg-name="CA RDS" tvg-logo="https://pbs.twimg.com/profile_images/1192519294686572544/bvuHhRJ0_400x400.png" group-title=""Canada | Sports",CA RDS
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/265035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rds2.ca" tvg-name="CA RDS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtZOWw-f9BiWpEIJ_o-yvEw_1qAIy97ANakcfzWXzTNmWGY21ximrrHknOKYDyaJzQTAU&usqp=CAU" group-title=""Canada | Sports",CA RDS 2
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/265034
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/BBC_News_2022_%28Alt%29.svg/revision/latest?cb=20220326124147" group-title=""UK | NEWS",UK: BBC NEWS FHD
 http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/277195
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcnews.uk" tvg-name="UK: BBC News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/BBC_News_2022_%28Alt%29.svg/revision/latest?cb=20220326124147" group-title=""UK | NEWS",UK: BBC News
