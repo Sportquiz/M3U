@@ -3183,6 +3183,20 @@ http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/817
 http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/849
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsnetnewyork.us" tvg-name="USA SportsNet New York FHD" tvg-logo="https://www.markhoffmandesign.com/assets/gifs/logo_sny.png" group-title="USA | SPORTS",USA SportsNet New York FHD
 http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/848
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Inter Miami CF vs Vancouver Whitecaps FC @ Dec 6 1:30 PM :MLS  01" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="USA | MLS",Inter Miami CF vs Vancouver Whitecaps FC @ Dec 6 1:30 PM :MLS  01
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2701
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" :MLS  02" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="USA | MLS", :MLS  02
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2700
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" :MLS  03" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="USA | MLS", :MLS  03
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2699
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" :MLS  04" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="USA | MLS", :MLS  04
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2698
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" :MLS  05" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="USA | MLS", :MLS  05
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2697
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" :MLS  06" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="USA | MLS", :MLS  06
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2696
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" :MLS  07" tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="USA | MLS", :MLS  07
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2695
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NBA All Star Game @ 5PM :NBA  01" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",NBA All Star Game @ 5PM :NBA  01
 http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/5438
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89730" tvg-name="NBA All Star Game @ 5PM :NBA  02" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA",NBA All Star Game @ 5PM :NBA  02
@@ -3203,5 +3217,64 @@ http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/5432
 http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/5431
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89737" tvg-name=" :NBA  09" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="USA | NBA", :NBA  09
 http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/5430
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="no events scheduled today :NHL  01" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL",no events scheduled today :NHL  01
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2598
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89663" tvg-name=" :NHL  02" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  02
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2597
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" :NHL  03" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  03
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2596
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name=" :NHL  04" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  04
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2595
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89666" tvg-name=" :NHL  05" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  05
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2594
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89667" tvg-name=" :NHL  06" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  06
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2593
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89668" tvg-name=" :NHL  07" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  07
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2592
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89669" tvg-name=" :NHL  08" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  08
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2591
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89670" tvg-name=" :NHL  09" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  09
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2590
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89671" tvg-name=" :NHL  10" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  10
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2589
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89672" tvg-name=" :NHL  11" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  11
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2588
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89673" tvg-name=" :NHL  12" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  12
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2587
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89674" tvg-name=" :NHL  13" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  13
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2586
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89675" tvg-name=" :NHL  14" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  14
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2585
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89676" tvg-name=" :NHL  15" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  15
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2584
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89677" tvg-name=" :NHL  16" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  16
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2583
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89678" tvg-name=" :NHL  17" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  17
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2582
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89679" tvg-name=" :NHL  18" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  18
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2581
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89680" tvg-name=" :NHL  19" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  19
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2580
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89681" tvg-name=" :NHL  20" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  20
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2579
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89682" tvg-name=" :NHL  21" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  21
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2578
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89683" tvg-name=" :NHL  22" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  22
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2577
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89684" tvg-name=" :NHL  23" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  23
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2576
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89685" tvg-name=" :NHL  24" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  24
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2575
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="89686" tvg-name=" :NHL  25" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  25
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2574
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mlbextrainnings726.us" tvg-name=" :NHL  26" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  26
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2573
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mlbextrainnings727.us" tvg-name=" :NHL  27" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  27
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2572
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="my28wrdc.us" tvg-name=" :NHL  28" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  28
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2571
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mlbextrainnings729.us" tvg-name=" :NHL  29" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  29
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2570
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="my30wuxp.us" tvg-name=" :NHL  30" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA | NHL", :NHL  30
+http://proxpanel.fans:80/roslind.mitchell@yahoo.com/7551005062/2569
 
