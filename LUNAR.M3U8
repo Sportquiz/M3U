@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="00 F1 TV |  Race Feed" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="1" group-title=""
+#EXTINF:-1 tvg-id="1" tvg-name="00 F1 TV" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="1" group-title=""
 F1 TV",00 F1 TV |  Race Feed
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/61670.ts
-#EXTINF:-1 tvg-id="2" tvg-name="00 NBA 4K - " tvg-logo="http://localhost:9191/api/channels/logos/1295/cache/" tvg-chno="2" group-title=""
+#EXTINF:-1 tvg-id="2" tvg-name="NBA 4K - " tvg-logo="http://localhost:9191/api/channels/logos/1295/cache/" tvg-chno="2" group-title=""
 NBA",00 NBA 4K - 
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/61690.ts
-#EXTINF:-1 tvg-id="3" tvg-name="01 F1 TV | Race Data Feed" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="3" group-title=""
+#EXTINF:-1 tvg-id="3" tvg-name="F1 TV | Race Data Feed" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="3" group-title=""
 F1 TV",01 F1 TV | Race Data Feed
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/61669.ts
-#EXTINF:-1 tvg-id="4" tvg-name="01 NHL NETWORK" tvg-logo="http://localhost:9191/api/channels/logos/321/cache/" tvg-chno="4" group-title=""
+#EXTINF:-1 tvg-id="4" tvg-name="NHL NETWORK" tvg-logo="http://localhost:9191/api/channels/logos/321/cache/" tvg-chno="4" group-title=""
 NHL",01 NHL NETWORK
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/47282.ts
-#EXTINF:-1 tvg-id="5" tvg-name="02 F1 TV | Race Tracker Feed" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="5" group-title=""
+#EXTINF:-1 tvg-id="5" tvg-name="F1 TV" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="5" group-title=""
 F1 TV",02 F1 TV | Race Tracker Feed
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/61667.ts
-#EXTINF:-1 tvg-id="6" tvg-name="03 F1 TV | F1-TV " tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="6" group-title=""
+#EXTINF:-1 tvg-id="6" tvg-name=" F1 TV" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="6" group-title=""
 F1 TV",03 F1 TV | F1-TV 
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/61668.ts
 #EXTINF:-1 tvg-id="7" tvg-name="03 NBA TV" tvg-logo="http://localhost:9191/api/channels/logos/72/cache/" tvg-chno="7" group-title=""
 NBA",03 NBA TV
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/47285.ts
-#EXTINF:-1 tvg-id="8" tvg-name="05 - NASA TV LIVE" tvg-logo="http://localhost:9191/api/channels/logos/1289/cache/" tvg-chno="8" group-title=""
+#EXTINF:-1 tvg-id="8" tvg-name="NASA TV LIVE" tvg-logo="http://localhost:9191/api/channels/logos/1289/cache/" tvg-chno="8" group-title=""
 LIVE EVENTS",05 - NASA TV LIVE
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/49184.ts
 #EXTINF:-1 tvg-id="2180" tvg-name="4K HK Now Sports 1 (EPL)" tvg-logo="http://localhost:9191/api/channels/logos/1286/cache/" tvg-chno="2180" group-title=""
