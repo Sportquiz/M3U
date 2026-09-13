@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="00 F1 TV" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="1" group-title=""
+#EXTINF:-1 tvg-id="1" tvg-name="F1 TV" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="1" group-title=""
 F1 TV",00 F1 TV |  Race Feed
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/61670.ts
 #EXTINF:-1 tvg-id="2" tvg-name="NBA 4K - " tvg-logo="http://localhost:9191/api/channels/logos/1295/cache/" tvg-chno="2" group-title=""
