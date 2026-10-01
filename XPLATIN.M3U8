@@ -9371,3 +9371,5 @@ http://doubleclicktv.live:80/live/hkillinger1@yahoo.com/6hMf39rX59/813693.ts
 http://doubleclicktv.live:80/live/hkillinger1@yahoo.com/6hMf39rX59/813694.ts
 #EXTINF:-1 tvg-id="32156" tvg-name="KY | Bowling Green | NBC 40 WNKY" tvg-logo="http://localhost:9191/api/channels/logos/11056/cache/" tvg-chno="32156" group-title=""USA | LOCAL - NBC",KY | Bowling Green | NBC 40 WNKY
 http://doubleclicktv.live:80/live/hkillinger1@yahoo.com/6hMf39rX59/1911.ts
+
+http://doubleclicktv.live:80/get.php?username=hkillinger1@yahoo.com&password=6hMf39rX59&type=m3u_plus
