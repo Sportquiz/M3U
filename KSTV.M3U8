@@ -5109,3 +5109,5 @@ http://kstv.us:8080/live/rkgYP0n9S/6249271061/49590.ts
 http://kstv.us:8080/live/rkgYP0n9S/6249271061/49591.ts
 #EXTINF:-1 tvg-id="2530" tvg-name="Winter Olympics 30: 1:30pm SKELETON Men's Skeleton: Run 3" tvg-logo=/api/channels/logos/8944/cache/" tvg-chno="2530" group-title=""Winter Olympics 2026",Winter Olympics 30: 1:30pm SKELETON Men's Skeleton: Run 3
 http://kstv.us:8080/live/rkgYP0n9S/6249271061/49592.ts
+
+http://kstv.us:8080/get.php?username=rkgYP0n9S&password=6249271061&type=m3u_plus
