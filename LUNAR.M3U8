@@ -5039,3 +5039,5 @@ http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/37647.ts
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/37907.ts
 #EXTINF:-1 tvg-id="6066" tvg-name="NFL REDZONE SUNDAY" tvg-logo="http://localhost:9191/api/channels/logos/322/cache/" tvg-chno="6066" group-title=""NFL",NFL REDZONE SUNDAY
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/24486.ts
+
+http://someplaylist.com/get.php?username=t70d1AcAN&password=Ar49xXo85v&type=m3u_plus
