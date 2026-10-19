@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U   http://someplaylist.com/xmltv.php?username=t70d1AcAN&password=Ar49xXo85v
 #EXTINF:-1 tvg-id="1" tvg-name="00 F1 TV |  Race Feed" tvg-logo="http://localhost:9191/api/channels/logos/1239/cache/" tvg-chno="1" group-title=""F1 TV",00 F1 TV |  Race Feed
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/61670.ts
 #EXTINF:-1 tvg-id="2" tvg-name="00 NBA 4K - " tvg-logo="http://localhost:9191/api/channels/logos/1295/cache/" tvg-chno="2" group-title=""NBA",00 NBA 4K - 
